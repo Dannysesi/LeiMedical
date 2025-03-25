@@ -1,0 +1,2077 @@
+patient_id,name,gender,blood_type,admission_date,discharge_date,diagnosis,doctor_name,specialization,num_lab_tests
+1,Allison Hill,Male,A+,2023-03-07,2025-01-21,Anemia,Lisa Johnson,Neurology,6
+1,Allison Hill,Male,A+,2024-05-16,2023-06-15,Covid-19,Max Diaz,Neurology,6
+1,Allison Hill,Male,A+,2024-08-10,2024-09-26,Diabetes,Tiffany Calderon,Oncology,6
+2,Alyssa Gonzalez,Female,B-,2023-10-14,2023-04-13,Diabetes,William Newman,General Medicine,6
+2,Alyssa Gonzalez,Female,B-,2023-11-22,2024-01-05,Diabetes,Roger Morris,Neurology,6
+2,Alyssa Gonzalez,Female,B-,2024-12-22,2024-04-08,Diabetes,Rose Gonzalez,General Medicine,6
+3,Gabrielle Davis,Male,B+,2023-11-15,2025-01-13,Diabetes,Michael Aguilar,Neurology,4
+3,Gabrielle Davis,Male,B+,2024-06-08,2023-10-15,Pneumonia,Ronald Cruz,Neurology,4
+4,Amber Perez,Male,A-,2022-04-18,2024-07-10,Covid-19,Hannah Diaz DDS,Pediatrics,5
+4,Amber Perez,Male,A-,2023-08-04,2024-11-01,Asthma,Sarah Gonzalez,General Medicine,5
+4,Amber Perez,Male,A-,2024-08-08,2023-12-01,Diabetes,Austin Scott,Cardiology,5
+5,Mia Sutton,Female,A+,2024-04-20,2024-11-14,Pneumonia,Crystal Gray DDS,Neurology,1
+6,Jennifer Jones,Male,A-,2022-04-05,2023-08-22,Diabetes,Natalie Green,Pediatrics,6
+6,Jennifer Jones,Male,A-,2023-05-05,2023-09-15,Anemia,William Newman,General Medicine,6
+6,Jennifer Jones,Male,A-,2025-02-13,2023-11-03,Anemia,Crystal Gray DDS,Neurology,6
+7,Jennifer Robinson,Male,B-,2023-07-14,2024-07-24,Anemia,John Garner,Cardiology,6
+7,Jennifer Robinson,Male,B-,2024-11-17,2023-06-26,Diabetes,Reginald Wallace,Oncology,6
+7,Jennifer Robinson,Male,B-,2025-02-06,2025-02-16,Pneumonia,Alyssa Anderson,General Medicine,6
+8,Ashley Dyer,Male,B-,2024-05-28,2024-12-24,Asthma,Lisa Johnson,Neurology,3
+8,Ashley Dyer,Male,B-,2024-09-06,2023-05-21,Covid-19,Natalie Green,Pediatrics,3
+9,Christopher Ashley,Female,B-,2022-09-16,2025-03-03,Anemia,Amy Joseph,Oncology,6
+9,Christopher Ashley,Female,B-,2024-04-10,2024-07-02,Diabetes,Max Diaz,Neurology,6
+9,Christopher Ashley,Female,B-,2024-04-15,2023-07-31,Covid-19,Mrs. Laura Lawson MD,Pediatrics,6
+10,Theresa Miller,Female,O+,2022-06-05,2023-08-26,Hypertension,James Lopez,Cardiology,2
+11,Nicole Vaughn,Male,B+,2024-06-12,2024-12-31,Asthma,Alyssa Anderson,General Medicine,7
+11,Nicole Vaughn,Male,B+,2024-09-14,2023-09-24,Diabetes,Bob Bridges,General Medicine,7
+11,Nicole Vaughn,Male,B+,2025-03-23,2023-12-09,Asthma,Tonya Strickland,General Medicine,7
+12,Michael Brown,Female,O-,2022-05-22,2023-05-30,Hypertension,Carrie Smith,Cardiology,5
+12,Michael Brown,Female,O-,2023-05-17,2024-11-30,Anemia,Bob Bridges,General Medicine,5
+13,John Russell,Female,B+,2022-08-09,2023-12-02,Pneumonia,Tiffany Calderon,Oncology,7
+13,John Russell,Female,B+,2023-10-11,2023-09-04,Asthma,Michael Aguilar,Neurology,7
+13,John Russell,Female,B+,2023-11-27,2023-11-18,Diabetes,Amy Joseph,Oncology,7
+14,Ashley Lee,Male,O-,2023-06-24,2024-03-11,Anemia,William Keith,Cardiology,3
+15,Sarah Martin,Male,A-,2022-09-08,2023-12-03,Covid-19,Robert Howell,General Medicine,3
+15,Sarah Martin,Male,A-,2023-08-16,2023-08-29,Diabetes,Tanya Martinez,Cardiology,3
+16,Daniel Brown,Female,A-,2022-09-07,2023-09-09,Pneumonia,Reginald Wallace,Oncology,7
+16,Daniel Brown,Female,A-,2022-12-19,2024-01-03,Diabetes,Aaron Young,General Medicine,7
+16,Daniel Brown,Female,A-,2024-11-11,2025-02-10,Anemia,Linda Patrick,Pediatrics,7
+17,Andrea Jones,Female,O-,2023-02-21,2024-12-19,Covid-19,Micheal Johnson,Cardiology,7
+17,Andrea Jones,Female,O-,2024-01-05,2024-03-28,Covid-19,Mrs. Laura Lawson MD,Pediatrics,7
+17,Andrea Jones,Female,O-,2024-06-16,2023-06-08,Hypertension,Roger Morris,Neurology,7
+18,Mike Allen,Female,A+,2023-03-29,2024-12-04,Covid-19,Craig Herman,Oncology,1
+19,Katie Anderson,Female,A-,2023-07-30,2023-04-29,Pneumonia,Victor Moore,Pediatrics,4
+19,Katie Anderson,Female,A-,2024-01-16,2024-03-06,Diabetes,Todd Butler,Oncology,4
+20,Ashley Humphrey,Female,A-,2022-04-18,2024-07-19,Covid-19,Lisa Johnson,Neurology,5
+20,Ashley Humphrey,Female,A-,2023-05-11,2025-01-10,Diabetes,William Newman,General Medicine,5
+21,Danielle Odonnell,Female,O-,2022-11-12,2024-09-16,Diabetes,Dr. David Luna,General Medicine,2
+22,Ashley Landry,Male,A-,2024-12-18,2024-12-07,Hypertension,Daniel Perez,Oncology,2
+23,Timothy Stanton,Male,B-,2022-08-07,2023-04-21,Hypertension,Kimberly Williams,Oncology,6
+23,Timothy Stanton,Male,B-,2022-09-10,2023-10-31,Diabetes,Bob Bridges,General Medicine,6
+23,Timothy Stanton,Male,B-,2023-09-25,2023-08-09,Hypertension,Carrie Smith,Cardiology,6
+24,Tim Patton,Female,A-,2022-09-30,2024-09-15,Pneumonia,Robert Howell,General Medicine,4
+24,Tim Patton,Female,A-,2024-03-03,2024-01-16,Pneumonia,Robert Howell,General Medicine,4
+24,Tim Patton,Female,A-,2024-11-05,2024-05-09,Asthma,Lisa Johnson,Neurology,4
+25,Jennifer Ramirez,Male,A-,2024-09-29,2024-05-04,Pneumonia,Craig Herman,Oncology,2
+26,Richard Graham,Female,O+,2024-03-28,2024-06-03,Pneumonia,Daniel Stevenson,Oncology,2
+27,Travis Mccall,Female,O-,2022-06-26,2024-07-06,Diabetes,Leslie Flynn,Neurology,3
+27,Travis Mccall,Female,O-,2022-10-15,2024-11-02,Hypertension,James Hutchinson,Neurology,3
+28,Roy Torres,Male,O-,2024-04-05,2023-03-30,Covid-19,Micheal Johnson,Cardiology,2
+29,Nicole Chambers,Female,B-,2022-10-12,2023-09-23,Asthma,Sharon Scott,Pediatrics,6
+29,Nicole Chambers,Female,B-,2023-05-21,2023-12-30,Anemia,Gerald Martin,Pediatrics,6
+29,Nicole Chambers,Female,B-,2024-05-31,2024-05-07,Pneumonia,Natalie Green,Pediatrics,6
+30,Janet Ross,Female,A-,2023-09-17,2024-01-31,Asthma,Michael Aguilar,Neurology,3
+30,Janet Ross,Female,A-,2024-08-07,2025-01-18,Anemia,Thomas Gutierrez,General Medicine,3
+31,Victoria Larson,Male,B-,2022-10-23,2025-03-20,Pneumonia,Max Diaz,Neurology,8
+31,Victoria Larson,Male,B-,2022-12-02,2025-02-13,Anemia,Robert Howell,General Medicine,8
+31,Victoria Larson,Male,B-,2023-08-21,2024-05-30,Pneumonia,Daniel Perez,Oncology,8
+32,Billy Mitchell,Male,AB-,2022-06-23,2023-12-02,Hypertension,Bethany Leonard,Oncology,2
+32,Billy Mitchell,Male,AB-,2024-01-19,2024-02-11,Covid-19,William Keith,Cardiology,2
+33,Ross Price,Female,O+,2023-12-30,2024-11-29,Hypertension,Todd Butler,Oncology,7
+33,Ross Price,Female,O+,2024-02-21,2024-05-16,Pneumonia,Robert Howell,General Medicine,7
+33,Ross Price,Female,O+,2024-09-16,2024-04-21,Diabetes,Victor Moore,Pediatrics,7
+34,Jeffrey Johnson,Male,O-,2022-12-10,2023-07-10,Diabetes,Sheryl Bullock,Pediatrics,7
+34,Jeffrey Johnson,Male,O-,2023-07-01,2025-01-22,Asthma,Robert Howell,General Medicine,7
+34,Jeffrey Johnson,Male,O-,2024-02-09,2023-10-28,Pneumonia,Austin Scott,Cardiology,7
+35,David Murphy,Male,B-,2024-04-28,2024-09-23,Asthma,Reginald Wallace,Oncology,1
+36,Christina Smith,Male,O-,2023-08-30,2024-10-20,Hypertension,Mrs. Laura Lawson MD,Pediatrics,3
+36,Christina Smith,Male,O-,2023-08-31,2024-04-24,Asthma,Sheryl Bullock,Pediatrics,3
+37,Carla Collins,Female,O+,2025-01-27,2023-10-28,Anemia,Max Diaz,Neurology,3
+38,Lindsay Martinez,Male,B-,2023-09-03,2024-10-14,Anemia,Daniel Stevenson,Oncology,2
+38,Lindsay Martinez,Male,B-,2024-07-12,2024-07-28,Covid-19,John Garner,Cardiology,2
+39,Tyler Reid,Female,B-,2024-09-23,2024-02-15,Diabetes,Natalie Green,Pediatrics,2
+40,Sandra Miller,Female,AB+,2023-07-30,2024-11-25,Covid-19,Gerald Martin,Pediatrics,3
+40,Sandra Miller,Female,AB+,2023-10-11,2024-12-02,Diabetes,John Garner,Cardiology,3
+41,Robert Peterson,Female,B+,2022-12-26,2024-04-17,Anemia,Bethany Leonard,Oncology,3
+41,Robert Peterson,Female,B+,2024-11-02,2023-11-03,Diabetes,Robert Howell,General Medicine,3
+42,Alan Phillips,Female,B+,2022-10-11,2023-11-16,Diabetes,Sharon Scott,Pediatrics,5
+42,Alan Phillips,Female,B+,2024-11-03,2025-03-01,Covid-19,Linda Foster,General Medicine,5
+43,David Martinez,Male,O+,2022-09-25,2023-05-28,Covid-19,Carrie Smith,Cardiology,1
+44,Eric Erickson,Female,AB+,2025-03-05,2024-02-20,Anemia,Amy Joseph,Oncology,1
+45,Vincent King,Female,B-,2023-08-23,2023-04-13,Asthma,Ronald Cruz,Neurology,1
+46,Bailey Duran DDS,Male,AB-,2022-04-03,2025-02-07,Diabetes,Austin Scott,Cardiology,4
+46,Bailey Duran DDS,Male,AB-,2022-10-22,2025-03-18,Anemia,Todd Butler,Oncology,4
+47,Christine Clark,Male,A+,2022-05-25,2023-04-27,Asthma,James Hutchinson,Neurology,1
+48,David Mann,Male,B+,2022-11-22,2024-12-06,Anemia,Kimberly Williams,Oncology,4
+48,David Mann,Male,B+,2023-07-14,2024-01-08,Asthma,Victor Moore,Pediatrics,4
+49,Ricky Larson,Male,AB+,2024-09-20,2024-08-08,Anemia,Michael Holt,Cardiology,5
+49,Ricky Larson,Male,AB+,2024-12-11,2023-09-19,Pneumonia,James Lopez,Cardiology,5
+50,Lindsey Johnson,Male,AB+,2023-03-20,2023-05-20,Hypertension,Crystal Gray DDS,Neurology,6
+50,Lindsey Johnson,Male,AB+,2023-03-27,2023-07-04,Diabetes,Sarah Gonzalez,General Medicine,6
+50,Lindsey Johnson,Male,AB+,2024-12-17,2025-02-03,Asthma,Ronald Cruz,Neurology,6
+51,Julie Ortiz,Female,AB-,2022-09-20,2024-12-04,Asthma,Bob Bridges,General Medicine,1
+52,Jennifer Robertson,Female,A+,2023-02-11,2023-03-29,Pneumonia,James Hutchinson,Neurology,9
+52,Jennifer Robertson,Female,A+,2023-07-31,2023-05-17,Asthma,Thomas Gutierrez,General Medicine,9
+52,Jennifer Robertson,Female,A+,2023-08-13,2025-01-27,Asthma,Robert Howell,General Medicine,9
+53,Michael Martinez,Male,O+,2023-08-10,2023-12-14,Asthma,Ronald Cruz,Neurology,7
+53,Michael Martinez,Male,O+,2024-04-09,2023-04-20,Covid-19,Dr. David Luna,General Medicine,7
+53,Michael Martinez,Male,O+,2024-06-12,2023-08-30,Hypertension,Craig Herman,Oncology,7
+54,Dr. Jordan Hill PhD,Female,A-,2024-01-15,2024-05-29,Asthma,Bob Bridges,General Medicine,2
+54,Dr. Jordan Hill PhD,Female,A-,2024-12-02,2024-07-28,Hypertension,Dr. David Luna,General Medicine,2
+55,Sarah Morgan,Female,AB+,2022-08-27,2023-10-31,Anemia,Michael Holt,Cardiology,6
+55,Sarah Morgan,Female,AB+,2023-01-01,2024-09-04,Pneumonia,Aimee Reeves,Oncology,6
+56,Frank Lopez,Male,AB-,2023-07-09,2023-10-31,Asthma,James Lopez,Cardiology,6
+56,Frank Lopez,Male,AB-,2024-06-09,2024-05-05,Asthma,Robert Howell,General Medicine,6
+56,Frank Lopez,Male,AB-,2024-11-07,2024-01-16,Asthma,Bob Bridges,General Medicine,6
+57,Andrew Shaw MD,Male,O+,2023-11-14,2024-06-22,Hypertension,Carrie Smith,Cardiology,2
+58,Sarah Villarreal,Male,A-,2024-04-25,2023-07-14,Covid-19,Amy Joseph,Oncology,6
+58,Sarah Villarreal,Male,A-,2024-05-09,2025-01-13,Pneumonia,Natalie Green,Pediatrics,6
+58,Sarah Villarreal,Male,A-,2024-11-12,2024-10-01,Hypertension,Lisa Johnson,Neurology,6
+59,Amber Flynn,Female,B-,2023-03-04,2024-02-16,Asthma,Thomas Gutierrez,General Medicine,4
+59,Amber Flynn,Female,B-,2025-03-01,2025-03-21,Hypertension,Lynn Patrick,Cardiology,4
+60,Mr. David Little MD,Male,O-,2024-02-08,2024-10-03,Pneumonia,Ronald Cruz,Neurology,6
+60,Mr. David Little MD,Male,O-,2024-02-20,2025-02-20,Anemia,Victor Moore,Pediatrics,6
+60,Mr. David Little MD,Male,O-,2024-12-09,2024-11-26,Anemia,Amy Joseph,Oncology,6
+61,Joyce Turner,Male,A+,2023-06-22,2024-08-05,Asthma,James Lopez,Cardiology,3
+61,Joyce Turner,Male,A+,2023-12-27,2023-07-19,Hypertension,William Newman,General Medicine,3
+62,Stephanie Parsons,Female,AB-,2022-04-03,2023-07-03,Anemia,James Hutchinson,Neurology,7
+62,Stephanie Parsons,Female,AB-,2023-10-15,2025-01-10,Anemia,Victor Moore,Pediatrics,7
+62,Stephanie Parsons,Female,AB-,2024-06-02,2024-10-18,Anemia,Gerald Martin,Pediatrics,7
+63,Edward Burgess,Male,A-,2023-02-12,2023-05-18,Covid-19,Kenneth Reed,Oncology,7
+63,Edward Burgess,Male,A-,2023-10-18,2023-11-03,Pneumonia,Daniel Stevenson,Oncology,7
+63,Edward Burgess,Male,A-,2025-03-22,2023-08-02,Covid-19,Bob Bridges,General Medicine,7
+64,Gina Wilson,Female,O+,2024-06-18,2023-09-10,Pneumonia,Sheryl Bullock,Pediatrics,3
+65,Paul Baker,Male,A+,2022-09-05,2024-10-17,Hypertension,Sharon Scott,Pediatrics,6
+65,Paul Baker,Male,A+,2022-12-18,2024-09-24,Pneumonia,Gerald Martin,Pediatrics,6
+65,Paul Baker,Male,A+,2024-07-16,2024-12-11,Diabetes,William Keith,Cardiology,6
+66,Andrew Johnson,Male,A-,2022-06-30,2023-07-01,Pneumonia,Aaron Young,General Medicine,7
+66,Andrew Johnson,Male,A-,2022-10-18,2023-08-19,Asthma,William Newman,General Medicine,7
+66,Andrew Johnson,Male,A-,2023-01-29,2024-07-08,Diabetes,Crystal Gray DDS,Neurology,7
+67,Mary Bass,Male,AB-,2022-11-02,2025-02-04,Pneumonia,Tiffany Calderon,Oncology,5
+67,Mary Bass,Male,AB-,2024-11-22,2023-11-16,Asthma,Rose Gonzalez,General Medicine,5
+67,Mary Bass,Male,AB-,2024-12-21,2023-03-30,Anemia,Tiffany Calderon,Oncology,5
+68,Bryan Charles,Male,B+,2022-06-24,2024-01-11,Asthma,Mrs. Laura Lawson MD,Pediatrics,3
+68,Bryan Charles,Male,B+,2024-11-18,2023-06-04,Diabetes,Mrs. Laura Lawson MD,Pediatrics,3
+69,Kristen Willis,Male,AB-,2022-04-06,2025-02-09,Pneumonia,Daniel Stevenson,Oncology,3
+70,Alexis Baker,Male,O+,2022-08-11,2024-05-01,Covid-19,John Garner,Cardiology,6
+70,Alexis Baker,Male,O+,2023-04-09,2024-02-10,Covid-19,Craig Herman,Oncology,6
+70,Alexis Baker,Male,O+,2023-05-06,2024-04-08,Anemia,Michael Aguilar,Neurology,6
+71,Susan Hopkins,Female,B-,2022-11-28,2023-08-30,Anemia,Bob Bridges,General Medicine,4
+71,Susan Hopkins,Female,B-,2024-07-30,2024-03-18,Pneumonia,Sharon Scott,Pediatrics,4
+72,Marcus Richards,Male,O+,2023-09-11,2023-04-12,Covid-19,Craig Herman,Oncology,4
+72,Marcus Richards,Male,O+,2024-03-26,2024-02-01,Anemia,Natalie Green,Pediatrics,4
+72,Marcus Richards,Male,O+,2024-06-29,2023-07-31,Asthma,Austin Scott,Cardiology,4
+73,Ronald Ross,Female,O-,2024-06-07,2024-09-23,Anemia,Bethany Leonard,Oncology,1
+74,Brent Rodgers,Female,AB-,2022-08-07,2024-08-22,Pneumonia,Trevor Foster,General Medicine,2
+75,Lindsay Bell,Male,B-,2024-03-02,2023-08-09,Asthma,Tonya Strickland,General Medicine,3
+76,Donald Farmer,Male,A-,2022-12-30,2025-02-20,Hypertension,Sarah Gonzalez,General Medicine,6
+76,Donald Farmer,Male,A-,2023-09-19,2024-03-31,Anemia,Alyssa Anderson,General Medicine,6
+77,Christopher Collins,Female,A+,2023-05-03,2024-10-25,Pneumonia,Thomas Gutierrez,General Medicine,5
+77,Christopher Collins,Female,A+,2024-03-15,2023-11-29,Diabetes,Tanya Martinez,Cardiology,5
+78,Paul Wilson,Male,B-,2023-10-10,2024-06-03,Asthma,Thomas Gutierrez,General Medicine,6
+78,Paul Wilson,Male,B-,2024-04-14,2023-07-08,Pneumonia,Roger Morris,Neurology,6
+78,Paul Wilson,Male,B-,2024-11-24,2023-10-17,Asthma,Victor Moore,Pediatrics,6
+79,Tony Saunders,Male,A-,2023-11-03,2023-07-23,Asthma,Natalie Green,Pediatrics,2
+80,Patrick Graham,Male,B-,2023-08-12,2023-07-13,Pneumonia,Aaron Young,General Medicine,6
+80,Patrick Graham,Male,B-,2024-08-28,2023-04-19,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,6
+80,Patrick Graham,Male,B-,2024-11-09,2023-06-03,Covid-19,James Lopez,Cardiology,6
+81,Carolyn Meza,Male,A+,2024-05-26,2024-12-18,Hypertension,John Garner,Cardiology,2
+82,Richard Jones,Female,A-,2024-02-27,2024-01-16,Hypertension,Sarah Gonzalez,General Medicine,2
+82,Richard Jones,Female,A-,2025-01-28,2024-10-21,Anemia,John Garner,Cardiology,2
+83,Lance Wolf,Male,O+,2023-04-03,2024-10-11,Pneumonia,Max Diaz,Neurology,4
+83,Lance Wolf,Male,O+,2025-01-09,2024-05-28,Hypertension,Michael Holt,Cardiology,4
+84,Barry Ramos,Female,B-,2022-06-15,2024-05-24,Pneumonia,Natalie Green,Pediatrics,6
+84,Barry Ramos,Female,B-,2022-08-30,2024-01-23,Anemia,James Hutchinson,Neurology,6
+84,Barry Ramos,Female,B-,2023-01-01,2024-10-02,Hypertension,Crystal Gray DDS,Neurology,6
+85,Vanessa Davis,Male,AB-,2024-02-05,2023-06-26,Anemia,Daniel Perez,Oncology,6
+85,Vanessa Davis,Male,AB-,2024-12-21,2024-03-23,Diabetes,Robert Howell,General Medicine,6
+86,Steven Cooper,Male,AB-,2022-12-22,2023-05-13,Hypertension,Hannah Diaz DDS,Pediatrics,6
+86,Steven Cooper,Male,AB-,2023-02-22,2023-08-26,Covid-19,Victor Moore,Pediatrics,6
+86,Steven Cooper,Male,AB-,2024-03-04,2024-09-08,Pneumonia,Todd Butler,Oncology,6
+87,Douglas Ortiz,Female,B-,2024-02-11,2024-11-25,Hypertension,Lisa Johnson,Neurology,1
+88,Emily Douglas,Male,A-,2023-02-25,2025-03-13,Hypertension,Dr. David Luna,General Medicine,5
+88,Emily Douglas,Male,A-,2024-08-17,2024-08-15,Diabetes,Sarah Gonzalez,General Medicine,5
+89,Christopher Lewis,Female,O-,2022-05-09,2023-12-03,Pneumonia,Alyssa Anderson,General Medicine,5
+89,Christopher Lewis,Female,O-,2024-09-14,2023-08-16,Anemia,William Newman,General Medicine,5
+90,Lisa Harper,Female,AB+,2022-11-21,2024-06-14,Anemia,Crystal Gray DDS,Neurology,5
+90,Lisa Harper,Female,AB+,2023-01-01,2023-08-06,Anemia,Gerald Martin,Pediatrics,5
+91,Rachel Young,Female,A+,2023-12-24,2025-02-06,Hypertension,Crystal Gray DDS,Neurology,6
+91,Rachel Young,Female,A+,2024-08-21,2025-02-28,Asthma,Trevor Foster,General Medicine,6
+91,Rachel Young,Female,A+,2024-11-04,2023-09-07,Anemia,Tonya Strickland,General Medicine,6
+92,Amy Castillo,Male,A+,2022-12-15,2023-06-11,Asthma,Lynn Patrick,Cardiology,6
+92,Amy Castillo,Male,A+,2023-08-14,2024-08-16,Pneumonia,William Keith,Cardiology,6
+92,Amy Castillo,Male,A+,2024-01-17,2024-12-04,Covid-19,Crystal Gray DDS,Neurology,6
+93,Thomas Velasquez,Female,O-,2024-09-19,2023-05-22,Diabetes,Dr. David Luna,General Medicine,3
+94,Timothy Combs,Male,B-,2024-12-13,2023-11-15,Diabetes,Kimberly Williams,Oncology,1
+95,Monica Rose,Male,B-,2023-03-27,2024-05-27,Pneumonia,Sheryl Bullock,Pediatrics,3
+96,Doris Smith,Female,B+,2024-07-27,2023-07-14,Anemia,Daniel Stevenson,Oncology,2
+97,Amanda Hughes,Female,B+,2022-12-08,2023-12-02,Anemia,Carrie Smith,Cardiology,3
+97,Amanda Hughes,Female,B+,2023-03-27,2025-02-18,Hypertension,Gerald Martin,Pediatrics,3
+98,Melinda Pollard,Female,AB-,2025-01-02,2024-01-01,Anemia,Max Diaz,Neurology,2
+98,Melinda Pollard,Female,AB-,2025-03-20,2023-09-30,Covid-19,Michael Holt,Cardiology,2
+99,Paul Lee,Male,A-,2023-08-04,2024-05-29,Asthma,Linda Patrick,Pediatrics,6
+99,Paul Lee,Male,A-,2024-07-11,2023-08-29,Hypertension,John Garner,Cardiology,6
+99,Paul Lee,Male,A-,2024-09-07,2025-01-17,Hypertension,Tiffany Calderon,Oncology,6
+100,Monica Miller,Female,A-,2023-07-16,2023-10-18,Asthma,Max Diaz,Neurology,2
+101,Jeremy West,Male,A+,2024-01-03,2023-06-27,Diabetes,Crystal Gray DDS,Neurology,6
+101,Jeremy West,Male,A+,2024-04-22,2024-10-07,Diabetes,Tonya Strickland,General Medicine,6
+102,David Brewer,Male,B-,2024-04-29,2023-09-10,Covid-19,Robert Howell,General Medicine,6
+102,David Brewer,Male,B-,2024-12-20,2024-03-18,Hypertension,Ronald Cruz,Neurology,6
+103,Donald Horne,Male,AB+,2022-11-30,2024-12-11,Anemia,Tiffany Calderon,Oncology,7
+103,Donald Horne,Male,AB+,2023-04-12,2023-04-09,Anemia,Linda Patrick,Pediatrics,7
+103,Donald Horne,Male,AB+,2023-11-25,2023-11-05,Pneumonia,Kenneth Reed,Oncology,7
+104,Samuel Hayes,Female,AB-,2023-04-23,2024-06-15,Diabetes,Carrie Smith,Cardiology,4
+104,Samuel Hayes,Female,AB-,2023-05-04,2025-01-25,Diabetes,Aaron Young,General Medicine,4
+104,Samuel Hayes,Female,AB-,2024-08-28,2023-12-08,Anemia,Thomas Gutierrez,General Medicine,4
+105,Dr. Cynthia Snyder,Male,AB+,2024-05-06,2024-07-11,Diabetes,Bethany Leonard,Oncology,2
+106,Dr. Kelly Hammond DVM,Male,B+,2022-09-21,2023-08-12,Covid-19,Michael Aguilar,Neurology,5
+106,Dr. Kelly Hammond DVM,Male,B+,2024-02-17,2024-07-05,Hypertension,Bethany Leonard,Oncology,5
+107,Thomas Brown,Female,A+,2022-03-29,2023-08-17,Anemia,Sharon Scott,Pediatrics,4
+107,Thomas Brown,Female,A+,2024-09-14,2024-02-28,Pneumonia,Carrie Smith,Cardiology,4
+108,Lisa Davis,Female,O+,2022-12-01,2023-05-07,Covid-19,Todd Butler,Oncology,7
+108,Lisa Davis,Female,O+,2024-02-06,2023-05-18,Diabetes,Carrie Smith,Cardiology,7
+108,Lisa Davis,Female,O+,2024-08-28,2023-08-07,Diabetes,Daniel Stevenson,Oncology,7
+109,Travis Wise,Female,O+,2023-08-21,2023-10-02,Diabetes,Lisa Johnson,Neurology,4
+109,Travis Wise,Female,O+,2025-01-23,2025-02-21,Pneumonia,Rose Gonzalez,General Medicine,4
+110,Anthony Gonzales,Female,AB-,2024-06-20,2025-03-01,Diabetes,James Hutchinson,Neurology,3
+110,Anthony Gonzales,Female,AB-,2024-10-05,2024-03-22,Hypertension,Lisa Johnson,Neurology,3
+111,Bryan Cole,Male,B-,2022-09-15,2023-09-07,Diabetes,Kimberly Williams,Oncology,8
+111,Bryan Cole,Male,B-,2024-04-24,2024-09-24,Asthma,Thomas Gutierrez,General Medicine,8
+111,Bryan Cole,Male,B-,2024-05-06,2024-10-03,Hypertension,Tiffany Calderon,Oncology,8
+112,Kathleen Robertson,Female,B-,2023-08-14,2023-07-10,Anemia,William Keith,Cardiology,3
+112,Kathleen Robertson,Female,B-,2024-09-10,2024-05-31,Hypertension,Trevor Foster,General Medicine,3
+113,Sarah Chambers,Male,A+,2024-06-08,2023-09-29,Covid-19,Aimee Reeves,Oncology,3
+114,Justin Cox,Female,A+,2022-05-07,2024-12-14,Pneumonia,Crystal Gray DDS,Neurology,7
+114,Justin Cox,Female,A+,2022-10-13,2023-07-18,Pneumonia,Tonya Strickland,General Medicine,7
+114,Justin Cox,Female,A+,2025-02-05,2024-10-29,Hypertension,James Hutchinson,Neurology,7
+115,Robert Morgan,Male,AB-,2022-06-17,2024-05-23,Asthma,Carrie Smith,Cardiology,7
+115,Robert Morgan,Male,AB-,2022-08-25,2023-07-07,Hypertension,Ronald Cruz,Neurology,7
+115,Robert Morgan,Male,AB-,2023-10-11,2024-01-27,Diabetes,Hannah Diaz DDS,Pediatrics,7
+116,Kaylee Murphy,Male,A+,2022-05-22,2025-02-08,Hypertension,Lisa Johnson,Neurology,8
+116,Kaylee Murphy,Male,A+,2022-06-02,2023-10-17,Pneumonia,Dr. David Luna,General Medicine,8
+116,Kaylee Murphy,Male,A+,2023-01-11,2023-08-06,Covid-19,Todd Butler,Oncology,8
+117,Brian Butler,Male,B+,2024-08-01,2024-04-07,Covid-19,Bethany Leonard,Oncology,4
+117,Brian Butler,Male,B+,2024-10-22,2024-12-13,Covid-19,Todd Butler,Oncology,4
+118,Dana Armstrong,Male,A-,2024-03-17,2024-04-30,Anemia,Rose Gonzalez,General Medicine,8
+118,Dana Armstrong,Male,A-,2024-05-15,2024-04-20,Asthma,Leslie Flynn,Neurology,8
+118,Dana Armstrong,Male,A-,2025-02-22,2025-02-09,Hypertension,Mrs. Laura Lawson MD,Pediatrics,8
+119,Nancy Brown,Male,AB+,2023-02-15,2024-09-13,Pneumonia,Austin Scott,Cardiology,4
+119,Nancy Brown,Male,AB+,2023-09-18,2024-09-05,Hypertension,Ronald Cruz,Neurology,4
+119,Nancy Brown,Male,AB+,2024-08-24,2024-02-28,Pneumonia,Ronald Cruz,Neurology,4
+120,David Grant,Male,B-,2023-10-24,2024-08-24,Anemia,Bob Bridges,General Medicine,5
+120,David Grant,Male,B-,2025-03-24,2025-02-04,Pneumonia,James Lopez,Cardiology,5
+121,Tina Ballard,Male,A-,2024-05-31,2023-12-27,Pneumonia,Carrie Smith,Cardiology,2
+122,Luis Matthews,Female,O-,2023-01-05,2023-09-24,Anemia,Michael Holt,Cardiology,3
+122,Luis Matthews,Female,O-,2024-12-09,2024-05-13,Anemia,Robert Howell,General Medicine,3
+123,Joshua Hickman,Female,B-,2023-11-27,2025-03-11,Diabetes,Michael Holt,Cardiology,3
+124,Casey Gillespie,Female,B-,2022-05-26,2023-08-28,Pneumonia,Todd Butler,Oncology,5
+124,Casey Gillespie,Female,B-,2022-06-27,2024-12-04,Pneumonia,Daniel Stevenson,Oncology,5
+125,Julie Lee,Female,AB+,2022-04-20,2023-10-27,Anemia,Sarah Gonzalez,General Medicine,4
+125,Julie Lee,Female,AB+,2023-07-07,2023-09-24,Covid-19,Dr. David Luna,General Medicine,4
+126,Brandon Holden,Male,O+,2023-11-17,2024-08-07,Pneumonia,Sharon Scott,Pediatrics,2
+127,Bryan Parker,Female,O-,2022-07-30,2024-12-16,Anemia,Linda Foster,General Medicine,2
+128,Susan Todd,Male,A+,2022-09-11,2024-03-16,Anemia,Lisa Johnson,Neurology,6
+128,Susan Todd,Male,A+,2024-08-30,2025-01-17,Pneumonia,William Newman,General Medicine,6
+128,Susan Todd,Male,A+,2024-09-01,2023-11-29,Diabetes,Tonya Strickland,General Medicine,6
+129,Stephanie Harris,Female,A-,2022-07-06,2023-12-19,Hypertension,James Hutchinson,Neurology,2
+130,Jody Palmer,Male,B-,2022-12-03,2023-09-04,Asthma,Todd Butler,Oncology,4
+130,Jody Palmer,Male,B-,2024-08-27,2025-02-19,Asthma,Bethany Leonard,Oncology,4
+131,Gregory Brown,Female,B+,2022-08-17,2023-04-11,Hypertension,Carrie Smith,Cardiology,4
+131,Gregory Brown,Female,B+,2022-11-11,2024-08-05,Anemia,Carrie Smith,Cardiology,4
+131,Gregory Brown,Female,B+,2024-09-06,2023-08-02,Pneumonia,Micheal Johnson,Cardiology,4
+132,Susan Bennett,Female,A-,2024-09-21,2024-10-26,Diabetes,Roger Morris,Neurology,1
+133,Samantha Wright,Male,O-,2022-05-01,2023-06-04,Hypertension,Trevor Foster,General Medicine,4
+133,Samantha Wright,Male,O-,2023-07-08,2023-08-26,Anemia,Thomas Gutierrez,General Medicine,4
+133,Samantha Wright,Male,O-,2023-09-16,2024-08-21,Diabetes,Sarah Gonzalez,General Medicine,4
+134,Andrew Harper,Female,B+,2024-04-05,2023-10-26,Hypertension,James Hutchinson,Neurology,3
+135,Thomas Johnston,Female,O+,2022-06-21,2024-07-12,Diabetes,Todd Butler,Oncology,6
+135,Thomas Johnston,Female,O+,2024-05-27,2023-08-21,Hypertension,Kimberly Williams,Oncology,6
+135,Thomas Johnston,Female,O+,2025-01-03,2025-01-27,Pneumonia,Ronald Cruz,Neurology,6
+136,Amber Cooper,Male,O+,2022-04-01,2024-06-14,Asthma,William Keith,Cardiology,6
+136,Amber Cooper,Male,O+,2023-01-23,2025-03-02,Asthma,Sheryl Bullock,Pediatrics,6
+136,Amber Cooper,Male,O+,2023-12-30,2024-03-24,Pneumonia,William Newman,General Medicine,6
+137,Suzanne Hart,Male,B+,2022-07-31,2023-09-04,Anemia,Leslie Flynn,Neurology,2
+138,Nathaniel Lee,Female,A-,2024-05-09,2023-06-05,Hypertension,Craig Herman,Oncology,7
+138,Nathaniel Lee,Female,A-,2024-10-25,2023-06-22,Pneumonia,James Hutchinson,Neurology,7
+138,Nathaniel Lee,Female,A-,2025-02-23,2024-06-27,Pneumonia,Kimberly Williams,Oncology,7
+139,Tonya Wilson,Male,B+,2022-11-05,2024-01-27,Diabetes,Lynn Patrick,Cardiology,1
+140,Ian Andrade,Female,O+,2022-06-08,2024-07-28,Anemia,Hannah Diaz DDS,Pediatrics,3
+141,Juan Silva,Male,O-,2022-11-14,2024-10-13,Covid-19,Ronald Cruz,Neurology,2
+142,Robert Jackson,Male,O+,2022-11-15,2023-06-22,Pneumonia,Alyssa Anderson,General Medicine,3
+143,Mark Jones,Female,O+,2022-09-24,2025-01-26,Asthma,Craig Herman,Oncology,4
+143,Mark Jones,Female,O+,2023-02-09,2023-07-25,Diabetes,Reginald Wallace,Oncology,4
+144,Juan Smith,Male,A-,2025-02-23,2025-03-11,Pneumonia,James Hutchinson,Neurology,3
+145,Debra Sanders,Female,O+,2025-03-17,2024-03-16,Diabetes,Tanya Martinez,Cardiology,2
+146,Michele Miller,Male,A+,2023-12-22,2024-03-21,Diabetes,Robert Howell,General Medicine,3
+147,Samuel Smith,Female,B+,2022-06-16,2023-06-22,Asthma,Dr. David Luna,General Medicine,6
+147,Samuel Smith,Female,B+,2024-10-21,2024-11-13,Hypertension,Kimberly Williams,Oncology,6
+147,Samuel Smith,Female,B+,2025-01-13,2023-07-11,Diabetes,Mrs. Laura Lawson MD,Pediatrics,6
+148,Patrick Gibbs,Female,B+,2022-09-21,2023-06-20,Pneumonia,Tiffany Calderon,Oncology,6
+148,Patrick Gibbs,Female,B+,2025-02-03,2023-06-02,Hypertension,Sharon Scott,Pediatrics,6
+149,Donald Riddle,Female,AB+,2023-11-09,2024-01-31,Covid-19,Victor Moore,Pediatrics,2
+150,Angela Moore,Male,A-,2022-09-03,2023-07-03,Covid-19,Reginald Wallace,Oncology,5
+150,Angela Moore,Male,A-,2022-09-28,2024-07-16,Asthma,Thomas Gutierrez,General Medicine,5
+150,Angela Moore,Male,A-,2022-12-30,2023-04-26,Hypertension,Tiffany Calderon,Oncology,5
+151,Jerry Peters,Male,B+,2022-05-13,2024-03-05,Pneumonia,Hannah Diaz DDS,Pediatrics,5
+151,Jerry Peters,Male,B+,2022-10-22,2024-10-06,Hypertension,Aimee Reeves,Oncology,5
+151,Jerry Peters,Male,B+,2023-09-08,2024-08-19,Covid-19,Kenneth Reed,Oncology,5
+152,James Miller,Male,O-,2023-04-15,2023-08-25,Diabetes,Ronald Cruz,Neurology,6
+152,James Miller,Male,O-,2024-02-02,2025-03-18,Diabetes,William Keith,Cardiology,6
+152,James Miller,Male,O-,2024-06-24,2024-11-04,Hypertension,Thomas Gutierrez,General Medicine,6
+153,Christopher Hill,Male,AB+,2023-02-20,2023-04-22,Anemia,Tonya Strickland,General Medicine,8
+153,Christopher Hill,Male,AB+,2023-06-24,2024-06-11,Hypertension,Dr. David Luna,General Medicine,8
+153,Christopher Hill,Male,AB+,2024-11-16,2024-10-25,Anemia,Linda Foster,General Medicine,8
+154,Manuel Brock,Male,A+,2023-01-17,2024-02-23,Pneumonia,Todd Butler,Oncology,2
+155,Michael Henry,Female,O-,2023-11-05,2023-12-11,Covid-19,James Lopez,Cardiology,3
+156,Julia Erickson,Male,O-,2022-04-14,2024-08-18,Asthma,Gerald Martin,Pediatrics,6
+156,Julia Erickson,Male,O-,2022-12-27,2024-03-12,Pneumonia,Sharon Scott,Pediatrics,6
+156,Julia Erickson,Male,O-,2023-02-11,2024-05-14,Pneumonia,Gerald Martin,Pediatrics,6
+157,Tammy Kane,Male,B-,2024-12-29,2025-02-03,Asthma,William Newman,General Medicine,2
+158,Maria Lucas,Male,O-,2025-01-21,2024-12-14,Covid-19,Alyssa Anderson,General Medicine,1
+159,Leah Mason,Female,B+,2022-11-12,2024-11-07,Diabetes,Tiffany Calderon,Oncology,6
+159,Leah Mason,Female,B+,2023-07-06,2024-11-17,Pneumonia,Jill Grant,Neurology,6
+159,Leah Mason,Female,B+,2024-06-11,2023-06-13,Asthma,Bob Bridges,General Medicine,6
+160,Daniel Webb,Male,B+,2023-06-06,2023-08-08,Anemia,Linda Patrick,Pediatrics,1
+161,Carly Riggs,Male,AB+,2022-08-28,2023-06-02,Anemia,James Lopez,Cardiology,2
+162,Jeffrey Smith,Male,B+,2023-06-09,2023-04-11,Diabetes,Gerald Martin,Pediatrics,5
+162,Jeffrey Smith,Male,B+,2023-11-28,2024-07-22,Asthma,Sheryl Bullock,Pediatrics,5
+162,Jeffrey Smith,Male,B+,2024-08-08,2024-09-05,Diabetes,Alyssa Anderson,General Medicine,5
+163,Michael Burns,Female,AB+,2024-06-17,2023-07-12,Covid-19,Robert Howell,General Medicine,1
+164,David Wilson,Male,O+,2022-04-07,2024-06-14,Hypertension,Amy Joseph,Oncology,3
+164,David Wilson,Male,O+,2023-08-30,2025-01-20,Covid-19,Sheryl Bullock,Pediatrics,3
+165,Charles Edwards MD,Male,A-,2022-10-20,2023-07-19,Covid-19,Natalie Green,Pediatrics,4
+165,Charles Edwards MD,Male,A-,2025-01-20,2023-12-03,Diabetes,Sharon Scott,Pediatrics,4
+166,Keith Flynn,Female,A+,2024-10-06,2023-11-02,Asthma,Reginald Wallace,Oncology,2
+167,Samantha Richardson,Female,B-,2023-10-29,2023-07-03,Diabetes,Roger Morris,Neurology,2
+168,Oscar Norris,Male,AB-,2022-04-20,2025-01-05,Asthma,Daniel Stevenson,Oncology,3
+168,Oscar Norris,Male,AB-,2024-09-28,2023-08-22,Pneumonia,Michael Holt,Cardiology,3
+169,Eileen Armstrong,Female,O+,2023-10-15,2023-12-21,Pneumonia,James Hutchinson,Neurology,7
+169,Eileen Armstrong,Female,O+,2023-11-06,2025-01-05,Diabetes,Bob Bridges,General Medicine,7
+169,Eileen Armstrong,Female,O+,2025-03-17,2025-01-10,Anemia,Sharon Scott,Pediatrics,7
+170,Jaime Jones,Male,B-,2022-07-05,2024-12-13,Covid-19,Lisa Johnson,Neurology,5
+170,Jaime Jones,Male,B-,2023-02-21,2024-09-30,Diabetes,Todd Butler,Oncology,5
+170,Jaime Jones,Male,B-,2025-01-05,2023-03-25,Hypertension,Crystal Gray DDS,Neurology,5
+171,Samantha Simpson,Male,B-,2024-10-06,2023-12-18,Hypertension,Hannah Diaz DDS,Pediatrics,2
+171,Samantha Simpson,Male,B-,2025-01-24,2024-06-08,Covid-19,William Keith,Cardiology,2
+172,Aaron Rubio,Female,O-,2022-10-10,2024-11-19,Anemia,Dr. David Luna,General Medicine,6
+172,Aaron Rubio,Female,O-,2024-05-04,2024-12-23,Pneumonia,Rose Gonzalez,General Medicine,6
+172,Aaron Rubio,Female,O-,2025-03-07,2024-06-20,Pneumonia,Daniel Perez,Oncology,6
+173,Nicole Patterson,Female,A-,2022-04-20,2024-11-17,Diabetes,Tiffany Calderon,Oncology,5
+173,Nicole Patterson,Female,A-,2022-08-22,2023-09-18,Pneumonia,Kimberly Williams,Oncology,5
+173,Nicole Patterson,Female,A-,2024-02-27,2023-06-25,Pneumonia,James Hutchinson,Neurology,5
+174,Virginia Henderson,Female,O-,2022-10-31,2023-10-24,Hypertension,Leslie Flynn,Neurology,3
+175,Alejandra Santos,Female,O-,2023-01-15,2024-02-17,Diabetes,James Hutchinson,Neurology,1
+176,Emily Taylor,Male,A-,2023-08-14,2024-05-17,Asthma,Leslie Flynn,Neurology,4
+176,Emily Taylor,Male,A-,2023-10-03,2024-05-24,Covid-19,Crystal Gray DDS,Neurology,4
+177,Anthony Hurst,Female,B+,2022-10-13,2023-09-05,Diabetes,Trevor Foster,General Medicine,7
+177,Anthony Hurst,Female,B+,2023-07-14,2024-11-06,Hypertension,Aimee Reeves,Oncology,7
+177,Anthony Hurst,Female,B+,2023-10-15,2024-01-19,Pneumonia,Aimee Reeves,Oncology,7
+178,Carrie Ruiz,Female,A+,2022-05-06,2023-10-12,Pneumonia,Ronald Cruz,Neurology,9
+178,Carrie Ruiz,Female,A+,2022-07-19,2025-02-11,Hypertension,Reginald Wallace,Oncology,9
+178,Carrie Ruiz,Female,A+,2022-11-22,2023-04-13,Asthma,Linda Patrick,Pediatrics,9
+179,James Davidson,Male,AB+,2022-06-16,2024-02-16,Hypertension,Russell Thompson,General Medicine,6
+179,James Davidson,Male,AB+,2022-10-02,2023-12-31,Hypertension,Sheryl Bullock,Pediatrics,6
+179,James Davidson,Male,AB+,2022-10-29,2024-04-02,Pneumonia,Alyssa Anderson,General Medicine,6
+180,Monica Mathis,Female,O-,2024-04-07,2023-09-20,Diabetes,Linda Foster,General Medicine,7
+180,Monica Mathis,Female,O-,2024-08-07,2024-04-12,Diabetes,Sharon Scott,Pediatrics,7
+180,Monica Mathis,Female,O-,2024-11-03,2023-07-28,Asthma,Sharon Scott,Pediatrics,7
+181,Chad Smith,Female,A-,2022-12-08,2024-07-02,Diabetes,Alyssa Anderson,General Medicine,2
+181,Chad Smith,Female,A-,2023-05-30,2023-05-10,Asthma,James Hutchinson,Neurology,2
+182,William Burton,Female,B-,2024-02-11,2024-10-03,Diabetes,Michael Holt,Cardiology,4
+182,William Burton,Female,B-,2024-11-11,2023-05-11,Covid-19,Lynn Patrick,Cardiology,4
+183,April Trevino,Female,A+,2022-08-04,2024-02-22,Covid-19,Sarah Gonzalez,General Medicine,3
+183,April Trevino,Female,A+,2024-01-16,2025-01-22,Diabetes,Sheryl Bullock,Pediatrics,3
+184,Jason Cortez,Female,A+,2023-12-25,2023-09-18,Hypertension,Sheryl Bullock,Pediatrics,6
+184,Jason Cortez,Female,A+,2024-09-27,2023-04-11,Hypertension,Carrie Smith,Cardiology,6
+185,John Campbell,Male,O-,2022-10-12,2023-07-01,Diabetes,Sharon Scott,Pediatrics,6
+185,John Campbell,Male,O-,2023-06-05,2024-05-10,Pneumonia,Carrie Smith,Cardiology,6
+186,Kimberly Flynn,Female,A-,2022-09-07,2023-12-15,Covid-19,Aimee Reeves,Oncology,7
+186,Kimberly Flynn,Female,A-,2023-08-03,2023-10-13,Diabetes,Reginald Wallace,Oncology,7
+186,Kimberly Flynn,Female,A-,2024-12-28,2025-02-21,Hypertension,Trevor Foster,General Medicine,7
+187,Joseph Allen,Female,O-,2022-11-26,2024-12-26,Diabetes,James Lopez,Cardiology,3
+188,Kathy Walsh,Male,O+,2024-12-16,2023-03-30,Hypertension,Austin Scott,Cardiology,5
+188,Kathy Walsh,Male,O+,2025-02-20,2024-07-27,Anemia,Sheryl Bullock,Pediatrics,5
+189,Nancy Stewart,Female,AB+,2023-03-04,2024-09-19,Pneumonia,John Garner,Cardiology,3
+190,Bryan Howard,Female,AB+,2022-10-04,2023-04-07,Anemia,James Lopez,Cardiology,8
+190,Bryan Howard,Female,AB+,2023-04-16,2023-05-09,Asthma,Michael Aguilar,Neurology,8
+190,Bryan Howard,Female,AB+,2023-06-11,2023-04-19,Anemia,Tiffany Calderon,Oncology,8
+191,Tracy Foster,Female,B+,2023-12-14,2024-04-13,Covid-19,Victor Moore,Pediatrics,7
+191,Tracy Foster,Female,B+,2024-08-17,2025-03-04,Diabetes,Sheryl Bullock,Pediatrics,7
+191,Tracy Foster,Female,B+,2024-11-06,2024-01-01,Asthma,Dr. David Luna,General Medicine,7
+192,Richard Walker,Male,AB+,2023-07-16,2024-07-20,Diabetes,Alyssa Anderson,General Medicine,5
+192,Richard Walker,Male,AB+,2023-10-18,2024-02-16,Hypertension,Max Diaz,Neurology,5
+192,Richard Walker,Male,AB+,2024-12-12,2024-03-09,Diabetes,Amy Joseph,Oncology,5
+193,Joel Jackson,Female,B+,2022-07-03,2024-01-07,Anemia,Victor Moore,Pediatrics,4
+193,Joel Jackson,Female,B+,2024-02-10,2024-06-25,Asthma,Bethany Leonard,Oncology,4
+194,Kathleen Andrade,Female,AB+,2023-09-16,2024-01-07,Diabetes,Sarah Gonzalez,General Medicine,4
+194,Kathleen Andrade,Female,AB+,2025-02-08,2024-11-18,Covid-19,William Keith,Cardiology,4
+195,Heather Stephens,Male,O+,2022-12-17,2023-10-02,Asthma,Carrie Smith,Cardiology,3
+195,Heather Stephens,Male,O+,2023-06-10,2024-02-18,Asthma,Jill Grant,Neurology,3
+196,Kaitlyn Howard,Female,B-,2022-09-06,2023-07-09,Asthma,Sarah Gonzalez,General Medicine,6
+196,Kaitlyn Howard,Female,B-,2023-04-19,2024-03-17,Anemia,Daniel Perez,Oncology,6
+196,Kaitlyn Howard,Female,B-,2023-04-19,2024-03-31,Hypertension,Crystal Gray DDS,Neurology,6
+197,Wendy Thompson,Female,O-,2024-01-28,2023-03-27,Covid-19,Linda Foster,General Medicine,2
+198,Casey Johnson,Female,AB-,2022-09-12,2023-04-28,Diabetes,Austin Scott,Cardiology,3
+199,Christopher Lang,Female,B-,2022-09-25,2024-12-03,Asthma,Lisa Johnson,Neurology,6
+199,Christopher Lang,Female,B-,2024-08-03,2023-05-10,Hypertension,Natalie Green,Pediatrics,6
+200,Gabrielle Morris,Female,B+,2022-05-05,2024-12-10,Pneumonia,Rose Gonzalez,General Medicine,9
+200,Gabrielle Morris,Female,B+,2022-05-24,2023-09-01,Diabetes,Micheal Johnson,Cardiology,9
+200,Gabrielle Morris,Female,B+,2024-05-31,2023-06-28,Diabetes,Craig Herman,Oncology,9
+201,Aaron Miles,Male,O+,2023-03-17,2023-06-10,Diabetes,Kimberly Williams,Oncology,5
+201,Aaron Miles,Male,O+,2023-12-25,2024-05-28,Pneumonia,Aimee Reeves,Oncology,5
+202,Francisco Fields,Female,A-,2024-02-21,2024-01-28,Hypertension,Alyssa Anderson,General Medicine,3
+203,Jason Jackson,Male,O+,2022-08-11,2024-04-07,Pneumonia,Austin Scott,Cardiology,6
+203,Jason Jackson,Male,O+,2023-05-28,2024-11-06,Diabetes,Linda Patrick,Pediatrics,6
+204,Trevor Jones,Male,B-,2022-12-01,2024-02-17,Diabetes,William Keith,Cardiology,5
+204,Trevor Jones,Male,B-,2024-06-04,2023-04-27,Covid-19,Michael Aguilar,Neurology,5
+205,Gary Mccann,Male,A+,2024-06-04,2023-06-08,Pneumonia,Sarah Gonzalez,General Medicine,6
+205,Gary Mccann,Male,A+,2024-07-17,2023-04-04,Asthma,Craig Herman,Oncology,6
+206,Aaron Miller,Male,B-,2025-01-29,2024-01-03,Diabetes,Daniel Perez,Oncology,2
+207,Matthew Davis MD,Female,A-,2022-05-11,2025-01-27,Covid-19,Daniel Perez,Oncology,9
+207,Matthew Davis MD,Female,A-,2022-11-10,2024-06-27,Diabetes,Bob Bridges,General Medicine,9
+207,Matthew Davis MD,Female,A-,2024-02-18,2023-06-16,Pneumonia,Ronald Cruz,Neurology,9
+208,Mary Miller,Female,AB+,2022-09-09,2023-12-16,Pneumonia,James Hutchinson,Neurology,1
+209,Blake Orr,Male,AB+,2025-03-23,2023-05-11,Asthma,James Lopez,Cardiology,2
+210,Rhonda Martinez,Female,AB+,2023-01-22,2024-04-22,Pneumonia,Craig Herman,Oncology,3
+210,Rhonda Martinez,Female,AB+,2024-03-13,2023-05-29,Anemia,Dr. David Luna,General Medicine,3
+211,Shannon Stone,Male,B+,2022-05-29,2024-02-05,Anemia,Dr. David Luna,General Medicine,3
+211,Shannon Stone,Male,B+,2024-02-26,2023-06-11,Hypertension,Todd Butler,Oncology,3
+212,Ashlee Mitchell,Male,A-,2023-04-11,2023-05-05,Hypertension,Jill Grant,Neurology,2
+213,Steve Rivera,Female,B-,2022-07-26,2023-05-01,Anemia,Thomas Gutierrez,General Medicine,4
+213,Steve Rivera,Female,B-,2023-03-16,2023-12-07,Hypertension,Mrs. Laura Lawson MD,Pediatrics,4
+213,Steve Rivera,Female,B-,2024-03-11,2024-09-28,Hypertension,Mrs. Laura Lawson MD,Pediatrics,4
+214,Crystal Turner,Male,AB-,2023-06-14,2023-12-30,Diabetes,Kenneth Reed,Oncology,2
+214,Crystal Turner,Male,AB-,2024-06-26,2023-10-25,Asthma,Lisa Johnson,Neurology,2
+215,Jonathon Taylor,Male,B-,2024-04-27,2023-11-13,Asthma,Thomas Gutierrez,General Medicine,2
+216,Denise Colon,Male,AB-,2023-01-28,2024-12-06,Diabetes,Russell Thompson,General Medicine,4
+216,Denise Colon,Male,AB-,2023-12-07,2023-08-07,Hypertension,William Keith,Cardiology,4
+217,Deanna Rivas,Male,AB-,2022-04-21,2024-06-05,Hypertension,Roger Morris,Neurology,8
+217,Deanna Rivas,Male,AB-,2022-09-18,2024-09-21,Pneumonia,Kimberly Williams,Oncology,8
+217,Deanna Rivas,Male,AB-,2023-01-24,2023-04-13,Covid-19,Craig Herman,Oncology,8
+218,Carlos Thompson,Female,AB-,2023-09-18,2024-05-10,Hypertension,Lynn Patrick,Cardiology,4
+218,Carlos Thompson,Female,AB-,2024-01-29,2023-08-13,Diabetes,Austin Scott,Cardiology,4
+219,Michael Holloway,Female,AB-,2023-09-27,2024-03-06,Pneumonia,Leslie Flynn,Neurology,3
+219,Michael Holloway,Female,AB-,2024-06-22,2024-08-31,Covid-19,Bob Bridges,General Medicine,3
+220,Mr. Donald Nguyen,Male,AB-,2024-01-15,2024-09-21,Hypertension,Russell Thompson,General Medicine,3
+220,Mr. Donald Nguyen,Male,AB-,2024-01-21,2024-06-30,Anemia,Natalie Green,Pediatrics,3
+221,Jason Price,Female,O+,2022-05-10,2023-08-30,Hypertension,John Garner,Cardiology,4
+221,Jason Price,Female,O+,2023-04-23,2024-04-13,Pneumonia,John Garner,Cardiology,4
+222,Sherri White,Male,O+,2022-09-28,2024-06-02,Diabetes,Sarah Gonzalez,General Medicine,3
+223,Julie Wilson,Female,B-,2022-04-02,2023-12-09,Diabetes,Trevor Foster,General Medicine,2
+224,Curtis Ortiz,Female,AB-,2023-01-28,2024-08-27,Hypertension,Sharon Scott,Pediatrics,1
+225,Caroline Duran,Male,O+,2023-01-30,2024-07-08,Anemia,Jill Grant,Neurology,3
+226,Nicole Schmidt,Male,O+,2023-12-10,2023-07-24,Pneumonia,Amy Joseph,Oncology,4
+226,Nicole Schmidt,Male,O+,2024-02-05,2025-03-10,Diabetes,Tiffany Calderon,Oncology,4
+227,Joy Meyer,Female,O-,2023-04-23,2025-01-04,Asthma,Daniel Perez,Oncology,5
+227,Joy Meyer,Female,O-,2023-11-26,2024-02-27,Hypertension,Victor Moore,Pediatrics,5
+227,Joy Meyer,Female,O-,2024-02-02,2025-02-13,Diabetes,Victor Moore,Pediatrics,5
+228,Michael Conner,Male,B+,2022-07-02,2024-05-05,Diabetes,Trevor Foster,General Medicine,4
+228,Michael Conner,Male,B+,2022-11-11,2023-05-25,Hypertension,Thomas Gutierrez,General Medicine,4
+228,Michael Conner,Male,B+,2023-09-24,2024-06-21,Asthma,William Keith,Cardiology,4
+229,Kara Hernandez,Male,B-,2022-10-25,2024-09-18,Anemia,Carrie Smith,Cardiology,3
+229,Kara Hernandez,Male,B-,2023-04-02,2024-12-29,Hypertension,Leslie Flynn,Neurology,3
+230,Brian Gonzalez,Female,B+,2022-05-13,2023-05-08,Anemia,Natalie Green,Pediatrics,6
+230,Brian Gonzalez,Female,B+,2023-05-12,2024-02-01,Anemia,Amy Joseph,Oncology,6
+230,Brian Gonzalez,Female,B+,2024-03-31,2023-04-08,Anemia,Bob Bridges,General Medicine,6
+231,Brandon Rodriguez,Male,A-,2023-12-29,2024-02-18,Hypertension,Tonya Strickland,General Medicine,2
+232,Sarah Ward,Female,AB+,2022-08-27,2023-11-21,Asthma,Todd Butler,Oncology,3
+233,James Rivers,Female,AB-,2023-08-20,2024-07-23,Diabetes,Austin Scott,Cardiology,3
+233,James Rivers,Female,AB-,2024-09-25,2023-04-13,Covid-19,Crystal Gray DDS,Neurology,3
+234,Peggy Carr,Female,A+,2022-07-08,2024-12-01,Pneumonia,James Lopez,Cardiology,7
+234,Peggy Carr,Female,A+,2022-09-21,2023-05-03,Anemia,Bethany Leonard,Oncology,7
+234,Peggy Carr,Female,A+,2024-02-17,2024-06-24,Covid-19,Kenneth Reed,Oncology,7
+235,Melissa Montgomery,Male,AB+,2024-03-20,2023-06-29,Anemia,Todd Butler,Oncology,6
+235,Melissa Montgomery,Male,AB+,2024-04-17,2024-08-23,Diabetes,Leslie Flynn,Neurology,6
+236,Erica Rivera,Female,A+,2023-04-20,2023-04-23,Hypertension,Kenneth Reed,Oncology,2
+237,Jonathan Stewart,Female,AB-,2022-04-24,2024-10-26,Hypertension,Alyssa Anderson,General Medicine,7
+237,Jonathan Stewart,Female,AB-,2024-09-19,2023-09-24,Anemia,Natalie Green,Pediatrics,7
+237,Jonathan Stewart,Female,AB-,2025-01-05,2023-10-15,Covid-19,Michael Holt,Cardiology,7
+238,Heidi Brown,Male,O-,2024-07-16,2024-11-10,Anemia,Tonya Strickland,General Medicine,6
+238,Heidi Brown,Male,O-,2024-07-29,2023-05-16,Anemia,Lisa Johnson,Neurology,6
+238,Heidi Brown,Male,O-,2024-08-15,2024-11-02,Covid-19,Tonya Strickland,General Medicine,6
+239,Tracey Carter,Female,AB+,2023-05-17,2024-06-12,Asthma,Natalie Green,Pediatrics,5
+239,Tracey Carter,Female,AB+,2024-11-29,2024-09-15,Hypertension,Todd Butler,Oncology,5
+239,Tracey Carter,Female,AB+,2025-03-16,2025-01-19,Anemia,Dr. David Luna,General Medicine,5
+240,Roger Lee,Female,B-,2022-03-29,2023-11-24,Diabetes,Michael Aguilar,Neurology,5
+240,Roger Lee,Female,B-,2022-07-05,2023-11-25,Anemia,Leslie Flynn,Neurology,5
+240,Roger Lee,Female,B-,2023-04-16,2024-08-24,Asthma,Sharon Scott,Pediatrics,5
+241,Noah Tran,Female,B-,2022-12-17,2023-04-26,Covid-19,Tonya Strickland,General Medicine,8
+241,Noah Tran,Female,B-,2023-04-25,2024-07-11,Hypertension,Michael Aguilar,Neurology,8
+241,Noah Tran,Female,B-,2024-10-25,2024-04-17,Hypertension,Mrs. Laura Lawson MD,Pediatrics,8
+242,Lee Schwartz,Female,AB+,2022-05-22,2024-12-11,Asthma,James Lopez,Cardiology,5
+242,Lee Schwartz,Female,AB+,2024-09-25,2023-11-11,Pneumonia,Lisa Johnson,Neurology,5
+242,Lee Schwartz,Female,AB+,2024-12-23,2024-12-28,Hypertension,Leslie Flynn,Neurology,5
+243,Marcus Roberts,Female,A+,2023-11-28,2024-11-22,Covid-19,James Lopez,Cardiology,7
+243,Marcus Roberts,Female,A+,2024-05-04,2025-03-15,Hypertension,Max Diaz,Neurology,7
+243,Marcus Roberts,Female,A+,2024-10-08,2024-12-22,Asthma,Robert Howell,General Medicine,7
+244,Kelly Johnson,Female,O-,2024-04-28,2024-08-02,Covid-19,Tonya Strickland,General Medicine,5
+244,Kelly Johnson,Female,O-,2024-10-21,2024-05-09,Pneumonia,Aimee Reeves,Oncology,5
+245,Amanda Cervantes,Female,B+,2023-03-07,2024-08-09,Pneumonia,Lynn Patrick,Cardiology,1
+246,David Oliver,Female,B+,2022-07-04,2023-08-26,Covid-19,Carrie Smith,Cardiology,4
+246,David Oliver,Female,B+,2024-03-13,2024-06-25,Covid-19,Austin Scott,Cardiology,4
+247,Christopher Palmer,Male,AB+,2024-02-04,2024-09-07,Covid-19,Linda Patrick,Pediatrics,2
+248,Timothy Williams,Male,A-,2022-09-27,2024-12-15,Anemia,Max Diaz,Neurology,5
+248,Timothy Williams,Male,A-,2023-12-29,2024-01-15,Diabetes,Roger Morris,Neurology,5
+249,Caitlin Daniels,Female,B+,2024-10-16,2024-05-30,Covid-19,Michael Aguilar,Neurology,1
+250,Gregory Allen,Female,B+,2023-06-22,2023-06-12,Covid-19,Natalie Green,Pediatrics,1
+251,Mr. Matthew Flores,Male,O+,2023-11-08,2023-06-10,Hypertension,Crystal Gray DDS,Neurology,5
+251,Mr. Matthew Flores,Male,O+,2023-12-23,2025-02-27,Asthma,Reginald Wallace,Oncology,5
+252,Michele Cherry,Female,O-,2022-11-10,2023-09-08,Pneumonia,Micheal Johnson,Cardiology,1
+253,Jennifer Hayes,Male,AB-,2024-04-16,2023-11-02,Diabetes,Dr. David Luna,General Medicine,2
+254,Elizabeth Miller,Female,O-,2022-06-09,2024-04-04,Covid-19,Austin Scott,Cardiology,3
+255,Kristen Martinez,Female,O+,2023-03-22,2024-12-29,Asthma,Victor Moore,Pediatrics,6
+255,Kristen Martinez,Female,O+,2023-05-12,2023-10-03,Asthma,Alyssa Anderson,General Medicine,6
+255,Kristen Martinez,Female,O+,2024-04-08,2024-06-10,Diabetes,Austin Scott,Cardiology,6
+256,Sarah Thomas,Female,O+,2022-12-20,2024-11-06,Anemia,William Newman,General Medicine,6
+256,Sarah Thomas,Female,O+,2023-01-03,2023-09-04,Asthma,Micheal Johnson,Cardiology,6
+256,Sarah Thomas,Female,O+,2023-08-07,2024-02-27,Diabetes,Daniel Perez,Oncology,6
+257,Austin Garcia,Male,AB-,2025-01-28,2024-06-26,Anemia,Linda Foster,General Medicine,2
+257,Austin Garcia,Male,AB-,2025-02-27,2024-04-28,Hypertension,Ronald Cruz,Neurology,2
+258,Jerry Jensen,Male,A+,2022-09-17,2024-07-11,Covid-19,Lynn Patrick,Cardiology,6
+258,Jerry Jensen,Male,A+,2024-09-15,2024-06-08,Hypertension,Dr. David Luna,General Medicine,6
+258,Jerry Jensen,Male,A+,2024-10-04,2023-11-04,Pneumonia,Linda Patrick,Pediatrics,6
+259,Ian Frazier,Female,B-,2022-04-16,2023-05-16,Pneumonia,Michael Aguilar,Neurology,6
+259,Ian Frazier,Female,B-,2023-05-09,2023-07-31,Hypertension,Daniel Perez,Oncology,6
+259,Ian Frazier,Female,B-,2024-02-15,2024-12-10,Asthma,Crystal Gray DDS,Neurology,6
+260,Lori Luna,Male,A+,2024-01-23,2025-01-11,Pneumonia,Kimberly Williams,Oncology,5
+260,Lori Luna,Male,A+,2025-01-13,2023-07-11,Asthma,Craig Herman,Oncology,5
+261,Raymond Quinn,Male,B-,2022-05-04,2023-09-07,Pneumonia,Max Diaz,Neurology,2
+262,Brenda Moore,Male,A+,2024-03-19,2023-05-03,Covid-19,Craig Herman,Oncology,1
+263,Michael Holmes,Male,B-,2024-06-02,2024-03-16,Covid-19,Sharon Scott,Pediatrics,4
+263,Michael Holmes,Male,B-,2024-07-11,2025-01-08,Hypertension,Roger Morris,Neurology,4
+264,Holly Valdez,Male,AB-,2022-06-18,2025-01-06,Diabetes,Carrie Smith,Cardiology,7
+264,Holly Valdez,Male,AB-,2022-08-10,2024-02-07,Pneumonia,Michael Aguilar,Neurology,7
+264,Holly Valdez,Male,AB-,2022-12-16,2023-06-15,Covid-19,Dr. David Luna,General Medicine,7
+265,Jose Campbell,Male,B-,2022-11-26,2024-08-19,Asthma,Austin Scott,Cardiology,3
+265,Jose Campbell,Male,B-,2025-01-21,2024-08-18,Diabetes,Aimee Reeves,Oncology,3
+266,Kevin Holland,Female,O+,2022-05-06,2024-07-26,Asthma,Tonya Strickland,General Medicine,1
+267,David White,Female,B+,2025-01-13,2024-07-24,Diabetes,Michael Holt,Cardiology,1
+268,Samantha White,Male,B+,2022-08-02,2023-09-23,Diabetes,Thomas Gutierrez,General Medicine,4
+268,Samantha White,Male,B+,2023-05-02,2023-06-06,Pneumonia,William Newman,General Medicine,4
+268,Samantha White,Male,B+,2024-07-19,2024-12-04,Asthma,Linda Foster,General Medicine,4
+269,Lisa Thompson,Female,A-,2023-10-19,2024-09-06,Hypertension,Hannah Diaz DDS,Pediatrics,4
+269,Lisa Thompson,Female,A-,2025-03-19,2024-10-28,Diabetes,Craig Herman,Oncology,4
+270,Melissa Patterson,Male,O+,2024-05-29,2024-06-29,Diabetes,Linda Foster,General Medicine,5
+270,Melissa Patterson,Male,O+,2024-11-04,2024-06-10,Diabetes,Russell Thompson,General Medicine,5
+271,Michael Clarke,Female,AB+,2024-05-16,2025-02-09,Anemia,Robert Howell,General Medicine,3
+272,Lisa Braun,Male,A-,2022-09-14,2023-05-28,Asthma,Robert Howell,General Medicine,7
+272,Lisa Braun,Male,A-,2022-11-07,2025-02-19,Anemia,Kenneth Reed,Oncology,7
+272,Lisa Braun,Male,A-,2024-09-18,2024-03-07,Hypertension,Kenneth Reed,Oncology,7
+273,Sarah Hopkins,Male,A-,2024-02-13,2023-04-11,Diabetes,Robert Howell,General Medicine,6
+273,Sarah Hopkins,Male,A-,2024-07-06,2024-04-19,Covid-19,Tanya Martinez,Cardiology,6
+273,Sarah Hopkins,Male,A-,2024-11-21,2024-06-23,Pneumonia,Tiffany Calderon,Oncology,6
+274,Kaitlyn Burke,Female,A-,2023-06-18,2025-03-14,Anemia,Aaron Young,General Medicine,2
+275,Samantha Bowman,Male,O-,2025-01-15,2024-04-22,Asthma,Roger Morris,Neurology,1
+276,Heather Pena,Female,O-,2022-05-11,2024-12-17,Asthma,Dr. David Luna,General Medicine,3
+277,Krista Barber,Male,O-,2022-07-12,2024-05-22,Asthma,Victor Moore,Pediatrics,1
+278,Jonathan Hansen,Male,AB+,2023-12-04,2025-02-16,Hypertension,Robert Howell,General Medicine,2
+279,Stephanie Atkins,Female,A-,2022-11-29,2024-11-02,Covid-19,Gerald Martin,Pediatrics,6
+279,Stephanie Atkins,Female,A-,2023-05-02,2023-11-16,Covid-19,Victor Moore,Pediatrics,6
+279,Stephanie Atkins,Female,A-,2024-07-03,2023-07-10,Asthma,William Keith,Cardiology,6
+280,Brandon Nunez,Female,O-,2022-09-27,2024-03-09,Diabetes,Lynn Patrick,Cardiology,2
+280,Brandon Nunez,Female,O-,2023-09-29,2024-05-03,Pneumonia,James Hutchinson,Neurology,2
+281,Mr. Nicolas Salas II,Female,B+,2024-05-30,2024-10-17,Anemia,Gerald Martin,Pediatrics,1
+282,Jacqueline Stewart,Female,B+,2023-03-22,2024-06-10,Diabetes,Leslie Flynn,Neurology,1
+283,Jennifer Parks,Female,AB-,2023-10-26,2024-02-27,Pneumonia,Kenneth Reed,Oncology,3
+283,Jennifer Parks,Female,AB-,2024-02-07,2024-04-21,Hypertension,Hannah Diaz DDS,Pediatrics,3
+284,Dennis Adams,Female,AB+,2022-04-11,2024-05-16,Pneumonia,Linda Foster,General Medicine,5
+284,Dennis Adams,Female,AB+,2022-05-03,2023-10-12,Asthma,William Newman,General Medicine,5
+284,Dennis Adams,Female,AB+,2022-12-18,2023-05-11,Asthma,Lisa Johnson,Neurology,5
+285,Michelle Brock,Female,O-,2024-01-04,2024-03-27,Anemia,Leslie Flynn,Neurology,4
+285,Michelle Brock,Female,O-,2024-07-11,2023-04-30,Diabetes,James Lopez,Cardiology,4
+286,Scott Williams,Male,A-,2022-12-29,2025-01-07,Diabetes,Sheryl Bullock,Pediatrics,5
+286,Scott Williams,Male,A-,2023-08-04,2024-03-26,Anemia,John Garner,Cardiology,5
+286,Scott Williams,Male,A-,2025-01-23,2023-06-05,Diabetes,Austin Scott,Cardiology,5
+287,Bryan Dillon,Female,AB-,2023-01-12,2024-01-14,Asthma,William Keith,Cardiology,4
+287,Bryan Dillon,Female,AB-,2024-08-16,2023-05-30,Pneumonia,William Newman,General Medicine,4
+288,Jane Mitchell,Male,AB-,2023-07-03,2024-06-29,Hypertension,Tanya Martinez,Cardiology,6
+288,Jane Mitchell,Male,AB-,2023-12-11,2023-06-04,Diabetes,Mrs. Laura Lawson MD,Pediatrics,6
+288,Jane Mitchell,Male,AB-,2024-12-25,2024-08-24,Hypertension,Hannah Diaz DDS,Pediatrics,6
+289,Evan Carter,Female,O-,2022-08-02,2025-03-19,Diabetes,Bethany Leonard,Oncology,5
+289,Evan Carter,Female,O-,2022-11-25,2024-04-24,Diabetes,Tanya Martinez,Cardiology,5
+289,Evan Carter,Female,O-,2024-05-09,2024-08-29,Anemia,Kimberly Williams,Oncology,5
+290,Teresa Haynes,Male,AB-,2022-12-06,2024-07-02,Diabetes,Russell Thompson,General Medicine,3
+290,Teresa Haynes,Male,AB-,2024-09-27,2023-10-21,Pneumonia,Linda Patrick,Pediatrics,3
+291,Whitney Garcia,Female,B+,2024-05-17,2023-07-19,Asthma,Robert Howell,General Medicine,8
+291,Whitney Garcia,Female,B+,2024-08-10,2025-02-24,Asthma,Max Diaz,Neurology,8
+291,Whitney Garcia,Female,B+,2025-01-29,2024-02-16,Anemia,Lisa Johnson,Neurology,8
+292,Matthew Dalton,Female,B-,2024-03-13,2024-10-09,Diabetes,Thomas Gutierrez,General Medicine,2
+293,Karen Perez,Female,O+,2023-11-24,2024-06-16,Anemia,Thomas Gutierrez,General Medicine,5
+293,Karen Perez,Female,O+,2025-01-29,2025-03-16,Hypertension,Russell Thompson,General Medicine,5
+294,Melissa Vasquez,Female,O+,2024-04-04,2024-08-22,Diabetes,Carrie Smith,Cardiology,3
+294,Melissa Vasquez,Female,O+,2024-12-06,2023-05-02,Pneumonia,Austin Scott,Cardiology,3
+295,Omar Price,Female,A+,2023-03-16,2024-09-29,Anemia,Lisa Johnson,Neurology,5
+295,Omar Price,Female,A+,2023-05-13,2023-04-27,Diabetes,Mrs. Laura Lawson MD,Pediatrics,5
+295,Omar Price,Female,A+,2024-09-24,2023-12-25,Asthma,William Newman,General Medicine,5
+296,Barry Taylor,Male,A-,2022-08-09,2024-11-27,Anemia,Leslie Flynn,Neurology,6
+296,Barry Taylor,Male,A-,2022-09-24,2023-10-11,Covid-19,Michael Aguilar,Neurology,6
+296,Barry Taylor,Male,A-,2024-09-12,2024-02-16,Anemia,Alyssa Anderson,General Medicine,6
+297,Diane Martinez,Male,AB+,2022-09-15,2023-12-25,Anemia,Amy Joseph,Oncology,7
+297,Diane Martinez,Male,AB+,2024-01-17,2023-04-28,Hypertension,Carrie Smith,Cardiology,7
+297,Diane Martinez,Male,AB+,2024-04-30,2025-02-20,Asthma,Tanya Martinez,Cardiology,7
+298,Ryan Lynn,Female,B-,2024-07-29,2024-08-04,Pneumonia,Bob Bridges,General Medicine,1
+299,Zachary Gonzalez,Female,AB-,2023-04-14,2023-08-09,Covid-19,Daniel Stevenson,Oncology,1
+300,Sharon Robinson,Female,A+,2024-04-20,2023-10-31,Pneumonia,Carrie Smith,Cardiology,5
+300,Sharon Robinson,Female,A+,2025-02-04,2025-02-16,Hypertension,Crystal Gray DDS,Neurology,5
+300,Sharon Robinson,Female,A+,2025-03-02,2024-05-27,Anemia,Trevor Foster,General Medicine,5
+301,Lauren Vazquez,Male,O+,2024-08-08,2023-09-15,Hypertension,Aaron Young,General Medicine,1
+302,Rebecca Martinez,Male,AB+,2023-08-24,2024-10-06,Diabetes,Ronald Cruz,Neurology,2
+303,Cody Bailey,Male,O+,2022-09-07,2024-11-19,Hypertension,James Hutchinson,Neurology,4
+303,Cody Bailey,Male,O+,2023-11-01,2023-12-24,Pneumonia,William Keith,Cardiology,4
+304,Mark Gray,Female,AB-,2024-03-08,2024-06-18,Covid-19,Austin Scott,Cardiology,7
+304,Mark Gray,Female,AB-,2024-12-15,2024-01-28,Diabetes,Linda Foster,General Medicine,7
+304,Mark Gray,Female,AB-,2025-01-11,2024-08-26,Asthma,Russell Thompson,General Medicine,7
+305,Brittany Campbell,Female,AB+,2023-01-01,2023-11-07,Covid-19,Robert Howell,General Medicine,1
+306,Martin Price,Female,O-,2024-10-19,2025-03-13,Covid-19,Todd Butler,Oncology,6
+306,Martin Price,Female,O-,2024-12-13,2023-04-29,Asthma,John Garner,Cardiology,6
+307,Teresa Perry,Female,O+,2024-01-08,2024-09-20,Pneumonia,Reginald Wallace,Oncology,6
+307,Teresa Perry,Female,O+,2024-12-12,2023-10-30,Covid-19,Crystal Gray DDS,Neurology,6
+308,Chelsey Fox,Female,O+,2023-04-15,2024-10-04,Covid-19,Austin Scott,Cardiology,6
+308,Chelsey Fox,Female,O+,2023-11-11,2024-05-22,Hypertension,Kenneth Reed,Oncology,6
+308,Chelsey Fox,Female,O+,2024-10-27,2024-01-11,Diabetes,Kenneth Reed,Oncology,6
+309,Christopher Morales,Male,A-,2022-05-03,2023-10-17,Diabetes,Sharon Scott,Pediatrics,8
+309,Christopher Morales,Male,A-,2023-05-10,2025-03-20,Diabetes,Daniel Perez,Oncology,8
+309,Christopher Morales,Male,A-,2024-10-30,2024-02-21,Covid-19,Mrs. Laura Lawson MD,Pediatrics,8
+310,Joshua Garner,Male,O-,2023-07-23,2023-07-20,Asthma,Kenneth Reed,Oncology,4
+310,Joshua Garner,Male,O-,2024-02-26,2024-04-25,Asthma,Lisa Johnson,Neurology,4
+311,Ethan Ingram,Male,B+,2022-04-12,2023-07-21,Covid-19,Carrie Smith,Cardiology,2
+311,Ethan Ingram,Male,B+,2022-07-03,2024-03-03,Anemia,Tiffany Calderon,Oncology,2
+312,Kevin Hall,Male,B-,2022-08-30,2024-01-18,Anemia,Todd Butler,Oncology,5
+312,Kevin Hall,Male,B-,2024-08-12,2023-12-12,Hypertension,Roger Morris,Neurology,5
+313,Elizabeth Cross,Female,O+,2022-11-01,2023-07-27,Covid-19,Crystal Gray DDS,Neurology,3
+314,Karl Murphy,Female,A-,2023-04-06,2024-12-25,Anemia,Roger Morris,Neurology,6
+314,Karl Murphy,Female,A-,2023-09-28,2024-06-17,Anemia,Craig Herman,Oncology,6
+314,Karl Murphy,Female,A-,2024-11-28,2024-02-03,Pneumonia,Micheal Johnson,Cardiology,6
+315,James Anderson,Male,O+,2023-05-26,2024-05-19,Pneumonia,Leslie Flynn,Neurology,3
+316,Kenneth Hoffman,Male,O-,2022-03-25,2024-04-18,Asthma,Natalie Green,Pediatrics,3
+316,Kenneth Hoffman,Male,O-,2024-07-21,2023-06-30,Asthma,Todd Butler,Oncology,3
+317,Connor Cooper,Male,O+,2023-03-04,2023-10-17,Pneumonia,Linda Patrick,Pediatrics,3
+317,Connor Cooper,Male,O+,2024-09-01,2024-11-27,Asthma,Kimberly Williams,Oncology,3
+318,James Todd,Male,B+,2024-05-12,2023-09-18,Anemia,Aimee Reeves,Oncology,6
+318,James Todd,Male,B+,2024-06-29,2024-09-16,Asthma,Ronald Cruz,Neurology,6
+318,James Todd,Male,B+,2024-07-02,2024-01-29,Hypertension,Mrs. Laura Lawson MD,Pediatrics,6
+319,Gary Singh,Female,A+,2024-01-31,2023-07-09,Covid-19,Kenneth Reed,Oncology,5
+319,Gary Singh,Female,A+,2024-11-02,2023-04-25,Pneumonia,Todd Butler,Oncology,5
+320,Antonio Gonzalez,Male,O+,2023-04-30,2024-01-25,Hypertension,William Keith,Cardiology,6
+320,Antonio Gonzalez,Male,O+,2024-04-07,2023-07-20,Hypertension,Thomas Gutierrez,General Medicine,6
+320,Antonio Gonzalez,Male,O+,2024-06-20,2024-03-04,Pneumonia,Kenneth Reed,Oncology,6
+321,Katie Mckinney,Male,AB-,2022-07-08,2024-02-18,Diabetes,Sheryl Bullock,Pediatrics,5
+321,Katie Mckinney,Male,AB-,2024-10-15,2024-06-14,Covid-19,Rose Gonzalez,General Medicine,5
+322,Patrick Smith DDS,Male,A+,2022-04-28,2024-07-21,Diabetes,Aaron Young,General Medicine,6
+322,Patrick Smith DDS,Male,A+,2022-07-01,2023-06-02,Pneumonia,Kimberly Williams,Oncology,6
+322,Patrick Smith DDS,Male,A+,2023-07-03,2023-05-21,Anemia,Daniel Stevenson,Oncology,6
+323,Anita Reyes,Female,AB-,2023-02-21,2024-12-28,Covid-19,Sharon Scott,Pediatrics,1
+324,Lauren Sutton,Female,AB-,2022-09-16,2024-06-22,Hypertension,Natalie Green,Pediatrics,8
+324,Lauren Sutton,Female,AB-,2023-04-14,2023-12-27,Hypertension,Jill Grant,Neurology,8
+324,Lauren Sutton,Female,AB-,2025-01-15,2024-10-31,Hypertension,Leslie Flynn,Neurology,8
+325,Ryan Thomas,Female,B+,2024-10-11,2024-08-03,Diabetes,Sarah Gonzalez,General Medicine,3
+326,Crystal Johnson,Male,O+,2022-12-03,2024-12-21,Hypertension,Lynn Patrick,Cardiology,4
+326,Crystal Johnson,Male,O+,2023-02-05,2024-09-30,Asthma,Todd Butler,Oncology,4
+327,Jason Novak,Female,A-,2023-03-21,2023-09-06,Diabetes,Michael Holt,Cardiology,6
+327,Jason Novak,Female,A-,2023-12-17,2023-06-16,Anemia,Daniel Stevenson,Oncology,6
+328,Jennifer Crosby,Male,AB+,2022-03-25,2023-12-15,Anemia,Gerald Martin,Pediatrics,7
+328,Jennifer Crosby,Male,AB+,2023-12-18,2025-02-16,Anemia,Sheryl Bullock,Pediatrics,7
+328,Jennifer Crosby,Male,AB+,2024-04-01,2024-10-04,Hypertension,Natalie Green,Pediatrics,7
+329,Kelli Mccoy,Female,A-,2023-01-08,2023-10-04,Covid-19,Tanya Martinez,Cardiology,3
+330,Stephanie Ford,Male,B+,2022-06-01,2025-03-07,Asthma,Tonya Strickland,General Medicine,3
+330,Stephanie Ford,Male,B+,2023-04-24,2023-11-29,Asthma,Aaron Young,General Medicine,3
+330,Stephanie Ford,Male,B+,2024-08-05,2024-04-24,Pneumonia,Aimee Reeves,Oncology,3
+331,Steven Huang,Male,O+,2022-08-18,2024-01-30,Diabetes,Bethany Leonard,Oncology,1
+332,Vanessa Salazar,Male,B-,2023-08-23,2024-11-19,Hypertension,Leslie Flynn,Neurology,4
+332,Vanessa Salazar,Male,B-,2025-03-16,2023-04-11,Hypertension,Carrie Smith,Cardiology,4
+333,Tonya Roberts,Male,AB+,2022-12-07,2023-12-29,Hypertension,Tiffany Calderon,Oncology,3
+334,Katherine Robinson,Male,AB+,2022-11-04,2023-10-14,Diabetes,Daniel Stevenson,Oncology,8
+334,Katherine Robinson,Male,AB+,2023-05-31,2024-10-27,Asthma,Hannah Diaz DDS,Pediatrics,8
+334,Katherine Robinson,Male,AB+,2023-07-07,2024-04-12,Anemia,Tiffany Calderon,Oncology,8
+335,Anthony Bailey,Female,AB-,2022-08-23,2024-02-21,Pneumonia,Ronald Cruz,Neurology,4
+335,Anthony Bailey,Female,AB-,2022-10-04,2024-07-15,Anemia,Reginald Wallace,Oncology,4
+335,Anthony Bailey,Female,AB-,2023-07-31,2024-08-11,Covid-19,Max Diaz,Neurology,4
+336,Lisa Holt,Female,AB+,2022-05-13,2025-01-31,Asthma,Michael Aguilar,Neurology,1
+337,Samantha Chang,Female,A+,2022-05-07,2024-11-25,Anemia,Todd Butler,Oncology,5
+337,Samantha Chang,Female,A+,2023-01-19,2024-09-16,Pneumonia,Kimberly Williams,Oncology,5
+337,Samantha Chang,Female,A+,2023-06-17,2023-10-23,Pneumonia,Lynn Patrick,Cardiology,5
+338,Ashley Blair,Male,B-,2023-12-09,2025-01-09,Hypertension,Russell Thompson,General Medicine,3
+338,Ashley Blair,Male,B-,2024-08-22,2024-02-11,Anemia,Tonya Strickland,General Medicine,3
+339,Christopher Lynch DDS,Male,O+,2022-07-01,2024-03-24,Pneumonia,Kimberly Williams,Oncology,5
+339,Christopher Lynch DDS,Male,O+,2024-04-15,2025-02-18,Covid-19,Alyssa Anderson,General Medicine,5
+340,Robert Lewis,Male,B+,2022-07-04,2024-11-13,Diabetes,Daniel Perez,Oncology,4
+340,Robert Lewis,Male,B+,2024-06-03,2023-07-01,Covid-19,Reginald Wallace,Oncology,4
+341,Gloria Ramsey,Male,B+,2024-08-31,2024-10-29,Asthma,Gerald Martin,Pediatrics,6
+341,Gloria Ramsey,Male,B+,2024-10-03,2024-05-16,Covid-19,Tiffany Calderon,Oncology,6
+341,Gloria Ramsey,Male,B+,2025-03-16,2023-10-11,Covid-19,Sheryl Bullock,Pediatrics,6
+342,Stephanie Herrera,Male,B+,2022-05-28,2024-05-22,Diabetes,Tanya Martinez,Cardiology,2
+342,Stephanie Herrera,Male,B+,2024-07-21,2024-07-26,Diabetes,Amy Joseph,Oncology,2
+343,Chase Pittman,Male,AB+,2022-03-29,2025-01-25,Asthma,Dr. David Luna,General Medicine,6
+343,Chase Pittman,Male,AB+,2024-07-12,2025-02-26,Pneumonia,Todd Butler,Oncology,6
+344,David Hayes DVM,Female,AB-,2023-12-07,2024-03-17,Pneumonia,Tiffany Calderon,Oncology,5
+344,David Hayes DVM,Female,AB-,2024-07-28,2023-07-15,Asthma,Tiffany Calderon,Oncology,5
+345,Morgan Mills,Female,A+,2022-08-22,2023-10-21,Covid-19,Austin Scott,Cardiology,1
+346,Andrew Charles,Male,O+,2022-07-26,2024-03-02,Covid-19,Leslie Flynn,Neurology,1
+347,Megan Nelson,Female,AB-,2023-05-19,2024-02-09,Asthma,William Newman,General Medicine,2
+347,Megan Nelson,Female,AB-,2024-06-05,2025-01-11,Hypertension,Amy Joseph,Oncology,2
+348,Regina Andrews,Male,B-,2022-09-03,2024-11-25,Pneumonia,Natalie Green,Pediatrics,4
+348,Regina Andrews,Male,B-,2023-03-11,2025-01-05,Asthma,Linda Patrick,Pediatrics,4
+348,Regina Andrews,Male,B-,2023-08-14,2024-07-20,Anemia,Russell Thompson,General Medicine,4
+349,Anthony Simmons,Female,B-,2023-01-05,2025-03-07,Pneumonia,Robert Howell,General Medicine,5
+349,Anthony Simmons,Female,B-,2023-11-27,2024-07-23,Covid-19,Roger Morris,Neurology,5
+350,Tamara Mcdonald,Female,A-,2023-10-30,2023-10-16,Hypertension,Carrie Smith,Cardiology,5
+350,Tamara Mcdonald,Female,A-,2024-07-20,2024-02-15,Pneumonia,Micheal Johnson,Cardiology,5
+350,Tamara Mcdonald,Female,A-,2024-11-06,2024-08-21,Hypertension,Lynn Patrick,Cardiology,5
+351,John Bell,Male,B+,2023-04-15,2024-09-17,Pneumonia,Tanya Martinez,Cardiology,3
+351,John Bell,Male,B+,2024-07-08,2024-07-16,Pneumonia,Lisa Johnson,Neurology,3
+351,John Bell,Male,B+,2024-09-13,2024-01-26,Covid-19,Tonya Strickland,General Medicine,3
+352,Andrea Turner,Female,B+,2024-07-25,2024-03-01,Hypertension,John Garner,Cardiology,3
+352,Andrea Turner,Female,B+,2025-03-10,2024-07-17,Pneumonia,Aaron Young,General Medicine,3
+353,Gloria Benson,Male,A+,2023-07-22,2025-03-16,Anemia,Mrs. Laura Lawson MD,Pediatrics,5
+353,Gloria Benson,Male,A+,2024-05-20,2024-01-15,Pneumonia,Ronald Cruz,Neurology,5
+354,Melissa Carlson,Male,O+,2024-08-22,2023-11-22,Covid-19,Linda Foster,General Medicine,4
+354,Melissa Carlson,Male,O+,2025-02-26,2025-02-15,Hypertension,Rose Gonzalez,General Medicine,4
+355,Shawn Evans,Female,AB-,2022-08-12,2023-12-04,Pneumonia,Micheal Johnson,Cardiology,6
+355,Shawn Evans,Female,AB-,2023-05-04,2023-11-23,Hypertension,Tonya Strickland,General Medicine,6
+355,Shawn Evans,Female,AB-,2023-09-04,2024-06-23,Hypertension,William Keith,Cardiology,6
+356,Samantha Howard,Male,AB-,2022-09-12,2023-06-29,Asthma,Micheal Johnson,Cardiology,5
+356,Samantha Howard,Male,AB-,2024-11-02,2023-07-07,Covid-19,Russell Thompson,General Medicine,5
+356,Samantha Howard,Male,AB-,2025-01-13,2023-05-02,Anemia,Kimberly Williams,Oncology,5
+357,Karen Lopez,Female,AB+,2022-12-30,2023-05-09,Diabetes,Tanya Martinez,Cardiology,3
+357,Karen Lopez,Female,AB+,2024-10-10,2024-09-02,Diabetes,Sarah Gonzalez,General Medicine,3
+358,Robert Dalton,Female,AB-,2023-04-11,2024-09-16,Hypertension,Tanya Martinez,Cardiology,7
+358,Robert Dalton,Female,AB-,2024-04-05,2023-12-30,Diabetes,Crystal Gray DDS,Neurology,7
+358,Robert Dalton,Female,AB-,2025-02-24,2024-11-20,Covid-19,Daniel Perez,Oncology,7
+359,Laura Bradford,Female,A-,2023-09-21,2023-06-21,Anemia,Kimberly Williams,Oncology,5
+359,Laura Bradford,Female,A-,2023-11-07,2025-02-12,Pneumonia,Trevor Foster,General Medicine,5
+359,Laura Bradford,Female,A-,2025-03-08,2023-04-28,Covid-19,Robert Howell,General Medicine,5
+360,Angela Cross,Male,AB+,2022-07-12,2024-03-27,Hypertension,Austin Scott,Cardiology,3
+361,Alexandra Gibson,Female,O+,2022-07-25,2024-02-16,Anemia,Micheal Johnson,Cardiology,1
+362,John Jackson,Male,A-,2022-06-29,2023-09-17,Pneumonia,Dr. David Luna,General Medicine,4
+362,John Jackson,Male,A-,2024-10-05,2024-05-15,Diabetes,Max Diaz,Neurology,4
+362,John Jackson,Male,A-,2025-02-17,2024-10-10,Hypertension,Sarah Gonzalez,General Medicine,4
+363,Alexis Rodriguez,Male,A+,2023-11-28,2023-09-01,Asthma,Max Diaz,Neurology,4
+363,Alexis Rodriguez,Male,A+,2024-08-03,2024-12-11,Pneumonia,Micheal Johnson,Cardiology,4
+364,Dr. Linda Underwood,Female,A+,2023-04-15,2024-02-07,Asthma,Thomas Gutierrez,General Medicine,7
+364,Dr. Linda Underwood,Female,A+,2024-01-08,2023-11-24,Diabetes,Leslie Flynn,Neurology,7
+364,Dr. Linda Underwood,Female,A+,2024-12-25,2023-06-30,Hypertension,Hannah Diaz DDS,Pediatrics,7
+365,John Vaughan,Male,AB-,2022-08-27,2024-04-27,Hypertension,Rose Gonzalez,General Medicine,7
+365,John Vaughan,Male,AB-,2023-08-15,2024-01-08,Covid-19,Ronald Cruz,Neurology,7
+365,John Vaughan,Male,AB-,2024-09-09,2023-10-12,Diabetes,Linda Patrick,Pediatrics,7
+366,Ethan Moreno,Female,O+,2023-11-03,2024-04-05,Anemia,Bob Bridges,General Medicine,3
+366,Ethan Moreno,Female,O+,2024-10-11,2023-05-07,Anemia,Michael Holt,Cardiology,3
+367,Jeanne Mejia,Male,AB+,2022-04-05,2023-05-02,Diabetes,Robert Howell,General Medicine,3
+367,Jeanne Mejia,Male,AB+,2022-05-02,2024-06-28,Covid-19,Roger Morris,Neurology,3
+368,Heather Hardy,Female,A-,2025-01-07,2024-08-11,Asthma,Linda Foster,General Medicine,3
+369,Larry Bennett,Female,O-,2024-08-30,2023-11-13,Covid-19,Dr. David Luna,General Medicine,3
+370,Mary Carrillo,Female,O-,2022-10-22,2023-11-12,Pneumonia,Natalie Green,Pediatrics,3
+371,John Mcfarland,Female,A-,2024-06-25,2024-06-17,Pneumonia,Michael Holt,Cardiology,2
+372,Nicholas Waters,Male,O-,2023-04-17,2023-08-10,Pneumonia,Michael Aguilar,Neurology,1
+373,Nicholas Burnett,Female,AB-,2022-06-05,2023-11-07,Hypertension,Kimberly Williams,Oncology,4
+373,Nicholas Burnett,Female,AB-,2023-10-30,2024-01-10,Anemia,Mrs. Laura Lawson MD,Pediatrics,4
+374,Mark Benjamin,Female,AB+,2023-05-24,2024-11-24,Diabetes,Aaron Young,General Medicine,6
+374,Mark Benjamin,Female,AB+,2024-08-05,2024-07-13,Asthma,Roger Morris,Neurology,6
+374,Mark Benjamin,Female,AB+,2025-02-17,2025-01-25,Asthma,Daniel Perez,Oncology,6
+375,Lydia Howard,Male,AB-,2024-01-29,2024-02-23,Pneumonia,Sarah Gonzalez,General Medicine,4
+375,Lydia Howard,Male,AB-,2024-05-05,2024-02-06,Covid-19,Alyssa Anderson,General Medicine,4
+376,Sandra Cole,Male,O-,2022-06-10,2023-12-03,Anemia,Micheal Johnson,Cardiology,4
+376,Sandra Cole,Male,O-,2022-12-01,2023-04-05,Anemia,Micheal Johnson,Cardiology,4
+376,Sandra Cole,Male,O-,2024-01-30,2023-10-14,Hypertension,Amy Joseph,Oncology,4
+377,Crystal Jones,Female,O-,2023-07-20,2023-11-24,Hypertension,Rose Gonzalez,General Medicine,4
+377,Crystal Jones,Female,O-,2024-01-12,2025-01-25,Anemia,Aaron Young,General Medicine,4
+378,Ashley Crawford,Male,AB+,2023-10-11,2024-04-08,Hypertension,Michael Aguilar,Neurology,3
+379,Rebecca Duran,Male,AB-,2022-05-09,2024-06-10,Covid-19,Daniel Perez,Oncology,6
+379,Rebecca Duran,Male,AB-,2024-02-11,2023-12-14,Hypertension,Ronald Cruz,Neurology,6
+379,Rebecca Duran,Male,AB-,2024-07-07,2025-02-15,Diabetes,Linda Foster,General Medicine,6
+380,Kevin Anderson,Female,A+,2024-02-23,2024-11-21,Asthma,Trevor Foster,General Medicine,3
+381,Christine Bowman,Male,O-,2023-01-17,2024-11-20,Covid-19,Russell Thompson,General Medicine,8
+381,Christine Bowman,Male,O-,2023-07-17,2024-11-10,Diabetes,Tiffany Calderon,Oncology,8
+381,Christine Bowman,Male,O-,2023-08-02,2023-09-12,Pneumonia,Robert Howell,General Medicine,8
+382,David Wilson,Female,AB-,2024-01-14,2023-07-04,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,6
+382,David Wilson,Female,AB-,2024-05-19,2024-12-09,Covid-19,Leslie Flynn,Neurology,6
+382,David Wilson,Female,AB-,2024-10-25,2023-04-16,Pneumonia,Leslie Flynn,Neurology,6
+383,Chase Anthony,Male,B-,2023-04-05,2025-01-18,Pneumonia,Leslie Flynn,Neurology,2
+384,Tammy Thompson,Female,B+,2023-10-20,2023-10-11,Anemia,Kenneth Reed,Oncology,1
+385,David Gutierrez,Female,AB-,2023-11-07,2024-11-22,Anemia,Russell Thompson,General Medicine,5
+385,David Gutierrez,Female,AB-,2023-12-13,2025-02-02,Covid-19,Trevor Foster,General Medicine,5
+386,Nathan Chen,Female,A-,2022-10-14,2025-01-16,Hypertension,Austin Scott,Cardiology,7
+386,Nathan Chen,Female,A-,2024-01-04,2023-12-11,Diabetes,Michael Holt,Cardiology,7
+386,Nathan Chen,Female,A-,2024-12-03,2023-08-15,Pneumonia,Craig Herman,Oncology,7
+387,Philip Robinson,Male,B-,2022-06-17,2023-06-17,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,2
+387,Philip Robinson,Male,B-,2025-03-17,2023-11-04,Pneumonia,Kenneth Reed,Oncology,2
+388,Nicholas Fitzgerald,Male,O+,2023-08-25,2024-07-05,Pneumonia,Gerald Martin,Pediatrics,8
+388,Nicholas Fitzgerald,Male,O+,2023-11-30,2024-07-28,Covid-19,Todd Butler,Oncology,8
+388,Nicholas Fitzgerald,Male,O+,2024-10-24,2023-12-19,Anemia,Ronald Cruz,Neurology,8
+389,John Mack,Male,AB+,2023-03-15,2025-03-12,Pneumonia,Daniel Stevenson,Oncology,1
+390,Zachary Smith,Male,B-,2022-06-16,2023-04-01,Asthma,Trevor Foster,General Medicine,7
+390,Zachary Smith,Male,B-,2025-02-05,2024-02-18,Hypertension,Linda Patrick,Pediatrics,7
+390,Zachary Smith,Male,B-,2025-03-08,2025-03-17,Diabetes,Trevor Foster,General Medicine,7
+391,Michael Schmidt,Male,AB-,2022-11-28,2025-01-17,Asthma,Jill Grant,Neurology,8
+391,Michael Schmidt,Male,AB-,2022-12-21,2023-07-21,Pneumonia,Tonya Strickland,General Medicine,8
+391,Michael Schmidt,Male,AB-,2023-01-09,2023-06-24,Hypertension,Alyssa Anderson,General Medicine,8
+392,Andrew Richardson,Male,B+,2023-06-24,2023-08-12,Hypertension,Bethany Leonard,Oncology,4
+392,Andrew Richardson,Male,B+,2024-02-25,2024-02-20,Covid-19,Roger Morris,Neurology,4
+393,Paige Flores,Female,O+,2024-04-06,2024-09-14,Pneumonia,Hannah Diaz DDS,Pediatrics,3
+393,Paige Flores,Female,O+,2025-01-08,2024-03-27,Asthma,Tanya Martinez,Cardiology,3
+394,Rebecca Dougherty,Female,AB+,2023-07-20,2024-01-30,Diabetes,Reginald Wallace,Oncology,1
+395,Charles Hernandez,Female,AB-,2022-07-07,2024-01-22,Hypertension,Linda Patrick,Pediatrics,6
+395,Charles Hernandez,Female,AB-,2022-10-19,2024-11-07,Diabetes,William Keith,Cardiology,6
+395,Charles Hernandez,Female,AB-,2023-07-28,2024-07-13,Pneumonia,Carrie Smith,Cardiology,6
+396,Kelly Rogers,Male,AB-,2022-05-07,2023-06-13,Covid-19,Sharon Scott,Pediatrics,3
+397,Dwayne Bruce,Male,AB+,2022-07-25,2023-08-09,Pneumonia,Linda Foster,General Medicine,1
+398,Eugene Martinez,Male,B+,2023-06-04,2024-09-25,Pneumonia,Russell Thompson,General Medicine,1
+399,Jennifer Porter,Male,O+,2022-08-27,2023-06-04,Asthma,Sarah Gonzalez,General Medicine,3
+400,Monique Mccullough,Female,O-,2023-10-24,2025-03-01,Diabetes,Sarah Gonzalez,General Medicine,4
+400,Monique Mccullough,Female,O-,2024-05-14,2024-12-17,Hypertension,Mrs. Laura Lawson MD,Pediatrics,4
+401,Pamela Gonzalez,Female,A+,2023-04-19,2024-05-12,Asthma,Bethany Leonard,Oncology,1
+402,Mike Patterson,Female,O+,2022-04-03,2024-11-04,Diabetes,Mrs. Laura Lawson MD,Pediatrics,6
+402,Mike Patterson,Female,O+,2023-11-18,2023-05-10,Diabetes,Aimee Reeves,Oncology,6
+402,Mike Patterson,Female,O+,2024-06-05,2024-08-02,Anemia,Dr. David Luna,General Medicine,6
+403,Nicholas Hurst,Female,B+,2024-07-05,2023-04-05,Pneumonia,Ronald Cruz,Neurology,3
+404,Thomas Perry,Female,AB-,2022-09-09,2024-03-27,Asthma,Aaron Young,General Medicine,7
+404,Thomas Perry,Female,AB-,2023-11-30,2024-04-01,Asthma,Crystal Gray DDS,Neurology,7
+404,Thomas Perry,Female,AB-,2024-09-24,2024-04-28,Anemia,Tonya Strickland,General Medicine,7
+405,Julie Johnson,Female,O-,2022-07-25,2023-08-06,Anemia,Trevor Foster,General Medicine,4
+405,Julie Johnson,Female,O-,2022-10-09,2023-08-24,Hypertension,Micheal Johnson,Cardiology,4
+405,Julie Johnson,Female,O-,2024-05-01,2024-06-01,Asthma,William Keith,Cardiology,4
+406,Donald Gamble,Female,AB-,2023-10-02,2024-03-03,Pneumonia,Robert Howell,General Medicine,3
+406,Donald Gamble,Female,AB-,2024-09-07,2024-06-29,Asthma,Sarah Gonzalez,General Medicine,3
+407,Anthony Flores,Female,B-,2022-04-15,2025-03-17,Pneumonia,Kenneth Reed,Oncology,4
+407,Anthony Flores,Female,B-,2023-05-23,2024-03-05,Diabetes,Aaron Young,General Medicine,4
+408,Taylor Palmer,Male,AB+,2022-10-20,2024-10-02,Pneumonia,Craig Herman,Oncology,2
+409,Heather Thomas,Male,AB+,2023-12-19,2024-11-29,Diabetes,Aaron Young,General Medicine,2
+410,Billy Fuentes,Male,O-,2022-12-04,2024-08-02,Pneumonia,Carrie Smith,Cardiology,4
+410,Billy Fuentes,Male,O-,2023-05-07,2025-01-15,Anemia,Daniel Perez,Oncology,4
+411,Brenda Perez,Female,AB+,2022-11-08,2024-10-12,Asthma,Robert Howell,General Medicine,6
+411,Brenda Perez,Female,AB+,2024-01-14,2023-05-23,Covid-19,Max Diaz,Neurology,6
+412,Ricky Palmer,Female,B+,2022-09-13,2025-03-08,Pneumonia,Natalie Green,Pediatrics,8
+412,Ricky Palmer,Female,B+,2022-12-05,2023-05-05,Hypertension,Linda Foster,General Medicine,8
+412,Ricky Palmer,Female,B+,2023-02-04,2024-05-08,Anemia,Tanya Martinez,Cardiology,8
+413,Charles Francis,Female,A+,2023-04-19,2023-09-18,Anemia,Kenneth Reed,Oncology,2
+414,Pamela Rice,Male,O-,2024-04-06,2023-12-15,Asthma,Victor Moore,Pediatrics,2
+415,Tyler White,Male,AB-,2023-03-14,2024-02-22,Diabetes,Dr. David Luna,General Medicine,7
+415,Tyler White,Male,AB-,2023-09-13,2024-09-15,Pneumonia,Lynn Patrick,Cardiology,7
+415,Tyler White,Male,AB-,2024-09-24,2024-10-11,Pneumonia,Alyssa Anderson,General Medicine,7
+416,Kristin Williams,Male,AB-,2023-11-14,2025-01-25,Covid-19,Linda Foster,General Medicine,6
+416,Kristin Williams,Male,AB-,2024-03-10,2024-05-28,Covid-19,Micheal Johnson,Cardiology,6
+416,Kristin Williams,Male,AB-,2024-06-28,2023-05-01,Pneumonia,Michael Aguilar,Neurology,6
+417,Rebekah Crosby,Male,B+,2023-09-20,2024-12-20,Pneumonia,Craig Herman,Oncology,7
+417,Rebekah Crosby,Male,B+,2023-10-18,2023-10-16,Pneumonia,James Hutchinson,Neurology,7
+417,Rebekah Crosby,Male,B+,2024-12-06,2023-08-03,Diabetes,Crystal Gray DDS,Neurology,7
+418,Kevin Garcia,Female,B+,2022-10-02,2024-08-27,Pneumonia,Amy Joseph,Oncology,7
+418,Kevin Garcia,Female,B+,2023-07-19,2023-07-02,Pneumonia,Tonya Strickland,General Medicine,7
+418,Kevin Garcia,Female,B+,2024-05-31,2023-08-07,Anemia,James Lopez,Cardiology,7
+419,Micheal Perkins,Male,AB-,2023-03-21,2024-04-19,Diabetes,Crystal Gray DDS,Neurology,4
+419,Micheal Perkins,Male,AB-,2024-08-07,2024-09-14,Covid-19,Austin Scott,Cardiology,4
+420,Tommy Johnson,Female,O-,2023-08-10,2025-02-04,Hypertension,Tiffany Calderon,Oncology,2
+421,Kelly Vasquez,Female,A-,2022-05-12,2024-08-30,Anemia,Rose Gonzalez,General Medicine,5
+421,Kelly Vasquez,Female,A-,2023-04-22,2023-12-31,Anemia,Tanya Martinez,Cardiology,5
+421,Kelly Vasquez,Female,A-,2023-05-15,2023-04-30,Diabetes,Aaron Young,General Medicine,5
+422,Sheryl Wilson MD,Female,AB+,2023-07-12,2024-08-13,Diabetes,Todd Butler,Oncology,4
+422,Sheryl Wilson MD,Female,AB+,2024-01-20,2023-10-08,Asthma,James Lopez,Cardiology,4
+423,Laura Henry,Female,AB-,2023-09-01,2024-10-19,Hypertension,Bob Bridges,General Medicine,5
+423,Laura Henry,Female,AB-,2023-10-16,2023-11-01,Covid-19,Michael Aguilar,Neurology,5
+423,Laura Henry,Female,AB-,2025-01-01,2024-03-21,Anemia,Tiffany Calderon,Oncology,5
+424,Alfred Williams,Male,A-,2022-11-06,2025-01-28,Anemia,Sarah Gonzalez,General Medicine,2
+425,Erik Miller,Male,O+,2022-07-22,2023-06-19,Anemia,Linda Patrick,Pediatrics,7
+425,Erik Miller,Male,O+,2022-10-28,2023-08-22,Diabetes,Dr. David Luna,General Medicine,7
+425,Erik Miller,Male,O+,2023-01-24,2025-01-09,Diabetes,Thomas Gutierrez,General Medicine,7
+426,Stephanie Adams,Male,A-,2022-11-19,2025-03-19,Pneumonia,Aimee Reeves,Oncology,5
+426,Stephanie Adams,Male,A-,2024-02-18,2023-11-01,Diabetes,Natalie Green,Pediatrics,5
+427,Pamela Morgan,Female,A-,2024-04-26,2024-09-04,Covid-19,John Garner,Cardiology,6
+427,Pamela Morgan,Female,A-,2024-07-06,2024-07-14,Diabetes,Kenneth Reed,Oncology,6
+428,Tina Robbins,Male,AB-,2024-11-13,2024-10-14,Covid-19,William Keith,Cardiology,3
+429,Marisa Turner,Male,O+,2022-08-03,2024-03-09,Asthma,Michael Holt,Cardiology,5
+429,Marisa Turner,Male,O+,2023-12-03,2024-11-07,Pneumonia,Hannah Diaz DDS,Pediatrics,5
+429,Marisa Turner,Male,O+,2024-02-04,2025-02-21,Covid-19,Daniel Stevenson,Oncology,5
+430,Victor Harmon,Male,A+,2023-02-08,2023-09-29,Asthma,Sarah Gonzalez,General Medicine,5
+430,Victor Harmon,Male,A+,2024-12-21,2024-08-04,Anemia,Michael Aguilar,Neurology,5
+430,Victor Harmon,Male,A+,2025-01-20,2023-11-07,Diabetes,Sheryl Bullock,Pediatrics,5
+431,Jennifer Dalton,Female,A+,2022-12-08,2024-04-08,Anemia,Gerald Martin,Pediatrics,2
+431,Jennifer Dalton,Female,A+,2025-02-11,2024-10-21,Covid-19,John Garner,Cardiology,2
+432,Ronald Marshall,Female,O-,2022-12-13,2023-04-17,Asthma,William Newman,General Medicine,8
+432,Ronald Marshall,Female,O-,2023-01-16,2025-01-26,Anemia,Lynn Patrick,Cardiology,8
+432,Ronald Marshall,Female,O-,2024-08-03,2024-05-16,Diabetes,Trevor Foster,General Medicine,8
+433,Angela Guzman,Female,AB+,2022-07-16,2025-02-19,Asthma,Michael Holt,Cardiology,5
+433,Angela Guzman,Female,AB+,2022-12-13,2024-12-20,Asthma,Micheal Johnson,Cardiology,5
+433,Angela Guzman,Female,AB+,2023-11-04,2024-09-07,Diabetes,Michael Aguilar,Neurology,5
+434,Bryan Roman,Male,B-,2022-04-13,2024-08-14,Diabetes,Craig Herman,Oncology,4
+434,Bryan Roman,Male,B-,2024-03-31,2023-12-24,Asthma,Alyssa Anderson,General Medicine,4
+434,Bryan Roman,Male,B-,2024-07-15,2023-05-11,Hypertension,Roger Morris,Neurology,4
+435,Scott Brown,Female,B+,2022-07-07,2024-07-08,Pneumonia,Ronald Cruz,Neurology,5
+435,Scott Brown,Female,B+,2023-11-16,2023-10-02,Pneumonia,Aimee Reeves,Oncology,5
+436,Susan Johnson,Male,B+,2022-05-28,2023-10-09,Asthma,Mrs. Laura Lawson MD,Pediatrics,5
+436,Susan Johnson,Male,B+,2023-08-18,2024-09-30,Hypertension,Crystal Gray DDS,Neurology,5
+437,Theodore Long,Male,AB+,2024-12-05,2023-08-22,Anemia,Trevor Foster,General Medicine,1
+438,Faith Henderson,Male,AB-,2022-05-15,2024-01-19,Hypertension,Sarah Gonzalez,General Medicine,3
+439,Margaret White,Male,B-,2023-03-16,2023-12-02,Anemia,Rose Gonzalez,General Medicine,6
+439,Margaret White,Male,B-,2024-07-19,2024-04-18,Pneumonia,Roger Morris,Neurology,6
+439,Margaret White,Male,B-,2024-10-25,2024-11-29,Diabetes,Micheal Johnson,Cardiology,6
+440,Emma Mendoza,Female,O+,2022-11-04,2023-10-18,Diabetes,Daniel Perez,Oncology,6
+440,Emma Mendoza,Female,O+,2023-03-16,2023-12-07,Pneumonia,Sarah Gonzalez,General Medicine,6
+440,Emma Mendoza,Female,O+,2024-11-18,2025-02-16,Anemia,Sharon Scott,Pediatrics,6
+441,Tammy Holland,Female,O+,2022-05-19,2025-01-19,Pneumonia,Alyssa Anderson,General Medicine,5
+441,Tammy Holland,Female,O+,2023-03-16,2025-02-06,Hypertension,Daniel Stevenson,Oncology,5
+441,Tammy Holland,Female,O+,2023-07-12,2023-04-03,Diabetes,Linda Patrick,Pediatrics,5
+442,Tyler Jackson,Male,AB-,2025-03-16,2024-11-25,Anemia,John Garner,Cardiology,2
+443,Johnny Anderson,Female,B+,2022-07-10,2024-09-30,Covid-19,Craig Herman,Oncology,5
+443,Johnny Anderson,Female,B+,2022-09-02,2024-04-27,Hypertension,Sharon Scott,Pediatrics,5
+443,Johnny Anderson,Female,B+,2024-12-04,2024-10-20,Covid-19,Tanya Martinez,Cardiology,5
+444,Michael Ellis,Male,AB-,2023-11-30,2024-03-01,Hypertension,Linda Foster,General Medicine,1
+445,Kaitlin Gomez,Female,O+,2024-03-30,2024-04-20,Pneumonia,Robert Howell,General Medicine,1
+446,Johnathan Morgan,Female,O+,2022-07-07,2025-01-07,Anemia,Daniel Stevenson,Oncology,4
+446,Johnathan Morgan,Female,O+,2023-06-13,2024-04-27,Asthma,Gerald Martin,Pediatrics,4
+446,Johnathan Morgan,Female,O+,2024-01-14,2023-12-18,Covid-19,Kenneth Reed,Oncology,4
+447,Dr. Douglas Ward MD,Female,O+,2022-12-17,2023-10-27,Hypertension,Rose Gonzalez,General Medicine,5
+447,Dr. Douglas Ward MD,Female,O+,2023-04-23,2023-10-08,Anemia,Todd Butler,Oncology,5
+447,Dr. Douglas Ward MD,Female,O+,2025-01-28,2023-12-29,Asthma,Micheal Johnson,Cardiology,5
+448,Clifford Harrison,Male,AB+,2023-05-05,2023-10-14,Hypertension,Ronald Cruz,Neurology,2
+448,Clifford Harrison,Male,AB+,2024-01-18,2023-05-05,Covid-19,Kenneth Reed,Oncology,2
+449,Brandon Oneill,Female,A-,2023-10-07,2024-09-09,Asthma,John Garner,Cardiology,6
+449,Brandon Oneill,Female,A-,2024-06-28,2023-09-04,Covid-19,Aimee Reeves,Oncology,6
+449,Brandon Oneill,Female,A-,2024-07-03,2025-02-04,Pneumonia,Kimberly Williams,Oncology,6
+450,Danielle Jimenez,Male,AB+,2022-07-05,2024-03-28,Covid-19,Aimee Reeves,Oncology,8
+450,Danielle Jimenez,Male,AB+,2023-02-25,2024-03-08,Hypertension,Jill Grant,Neurology,8
+450,Danielle Jimenez,Male,AB+,2024-10-16,2024-07-18,Hypertension,Michael Holt,Cardiology,8
+451,Abigail Booker,Female,O+,2022-04-18,2024-08-04,Hypertension,Amy Joseph,Oncology,6
+451,Abigail Booker,Female,O+,2024-07-30,2023-06-16,Asthma,Amy Joseph,Oncology,6
+451,Abigail Booker,Female,O+,2025-03-23,2024-11-23,Asthma,Lynn Patrick,Cardiology,6
+452,Christopher Hanna,Female,A+,2023-04-03,2024-08-05,Pneumonia,Craig Herman,Oncology,5
+452,Christopher Hanna,Female,A+,2025-01-28,2023-11-28,Covid-19,Daniel Stevenson,Oncology,5
+452,Christopher Hanna,Female,A+,2025-02-23,2024-08-11,Hypertension,Tiffany Calderon,Oncology,5
+453,Nancy Dorsey,Female,O+,2022-11-08,2024-05-14,Asthma,Rose Gonzalez,General Medicine,3
+453,Nancy Dorsey,Female,O+,2024-10-05,2023-06-28,Diabetes,Lynn Patrick,Cardiology,3
+454,Rita Austin,Male,A+,2023-04-25,2025-01-31,Anemia,Lynn Patrick,Cardiology,6
+454,Rita Austin,Male,A+,2024-03-03,2024-04-18,Covid-19,Tanya Martinez,Cardiology,6
+454,Rita Austin,Male,A+,2024-05-29,2024-08-19,Pneumonia,Carrie Smith,Cardiology,6
+455,Terry Woods,Female,O+,2023-11-14,2024-12-08,Anemia,Bethany Leonard,Oncology,5
+455,Terry Woods,Female,O+,2024-07-09,2024-10-16,Covid-19,Aimee Reeves,Oncology,5
+455,Terry Woods,Female,O+,2024-11-15,2024-06-08,Covid-19,Reginald Wallace,Oncology,5
+456,Kayla Gutierrez,Male,O-,2024-09-09,2024-02-18,Anemia,Natalie Green,Pediatrics,1
+457,Michael Edwards,Male,B-,2024-09-20,2024-05-07,Pneumonia,Leslie Flynn,Neurology,2
+458,Bruce Jackson,Female,B+,2024-06-01,2024-11-17,Asthma,Jill Grant,Neurology,3
+459,Robert Horton,Male,A+,2022-11-20,2025-02-09,Pneumonia,Bethany Leonard,Oncology,2
+460,Javier Wilson,Female,AB-,2022-06-27,2023-11-17,Asthma,Craig Herman,Oncology,6
+460,Javier Wilson,Female,AB-,2025-03-01,2024-07-02,Diabetes,Austin Scott,Cardiology,6
+461,Ryan Reynolds,Male,O-,2023-07-26,2024-04-01,Covid-19,Rose Gonzalez,General Medicine,1
+462,Jennifer Stewart,Male,A-,2024-09-09,2024-09-21,Anemia,Tonya Strickland,General Medicine,2
+463,David Robinson,Female,O-,2022-10-17,2025-01-03,Pneumonia,Crystal Gray DDS,Neurology,2
+464,Christopher Vasquez,Female,B+,2023-05-25,2025-01-05,Pneumonia,Aimee Reeves,Oncology,5
+464,Christopher Vasquez,Female,B+,2024-02-21,2024-09-03,Anemia,John Garner,Cardiology,5
+464,Christopher Vasquez,Female,B+,2024-04-07,2023-06-14,Hypertension,John Garner,Cardiology,5
+465,Brian Perez,Male,B+,2022-10-24,2023-10-08,Pneumonia,Daniel Stevenson,Oncology,1
+466,Jessica Bryant,Female,O+,2022-05-20,2024-12-13,Anemia,Leslie Flynn,Neurology,3
+466,Jessica Bryant,Female,O+,2023-10-31,2023-09-21,Pneumonia,Craig Herman,Oncology,3
+467,Brooke Carter,Male,O+,2022-08-11,2025-01-22,Pneumonia,Kenneth Reed,Oncology,5
+467,Brooke Carter,Male,O+,2024-10-09,2024-05-17,Covid-19,Dr. David Luna,General Medicine,5
+468,Christopher Adams,Female,O+,2023-11-07,2024-09-26,Pneumonia,Reginald Wallace,Oncology,1
+469,Randy Robbins,Female,A-,2023-04-21,2023-08-07,Covid-19,Jill Grant,Neurology,2
+469,Randy Robbins,Female,A-,2023-05-15,2023-07-05,Anemia,Sharon Scott,Pediatrics,2
+470,Amy Welch,Female,A-,2023-02-04,2024-12-29,Pneumonia,Michael Holt,Cardiology,2
+471,Stacy Weber,Male,B-,2023-03-11,2024-06-27,Covid-19,Rose Gonzalez,General Medicine,8
+471,Stacy Weber,Male,B-,2024-02-21,2023-07-29,Pneumonia,Lisa Johnson,Neurology,8
+471,Stacy Weber,Male,B-,2024-08-05,2024-08-09,Asthma,Tiffany Calderon,Oncology,8
+472,Juan Boyd,Female,O-,2022-09-01,2023-07-20,Hypertension,Thomas Gutierrez,General Medicine,5
+472,Juan Boyd,Female,O-,2023-03-30,2024-06-08,Asthma,Jill Grant,Neurology,5
+472,Juan Boyd,Female,O-,2024-06-12,2023-09-23,Pneumonia,Jill Grant,Neurology,5
+473,Debbie Romero,Male,AB+,2022-09-16,2024-08-07,Hypertension,Victor Moore,Pediatrics,6
+473,Debbie Romero,Male,AB+,2024-05-09,2023-04-17,Diabetes,Daniel Stevenson,Oncology,6
+473,Debbie Romero,Male,AB+,2025-01-12,2024-05-24,Pneumonia,Max Diaz,Neurology,6
+474,Michael Briggs,Male,O+,2022-11-24,2025-02-06,Covid-19,Todd Butler,Oncology,5
+474,Michael Briggs,Male,O+,2023-11-23,2025-03-08,Anemia,Roger Morris,Neurology,5
+475,Antonio Beasley,Male,AB-,2022-12-17,2024-04-29,Asthma,Daniel Perez,Oncology,6
+475,Antonio Beasley,Male,AB-,2024-08-21,2023-09-04,Hypertension,Ronald Cruz,Neurology,6
+476,Mallory Barajas,Female,O+,2024-06-01,2025-03-11,Anemia,Micheal Johnson,Cardiology,1
+477,Christopher Hansen,Female,O-,2022-06-09,2024-09-27,Diabetes,Austin Scott,Cardiology,6
+477,Christopher Hansen,Female,O-,2023-02-17,2023-08-02,Diabetes,Gerald Martin,Pediatrics,6
+477,Christopher Hansen,Female,O-,2024-09-08,2024-05-30,Asthma,Austin Scott,Cardiology,6
+478,John Moody,Male,B-,2022-06-02,2024-12-17,Anemia,Kimberly Williams,Oncology,8
+478,John Moody,Male,B-,2022-09-22,2023-04-05,Covid-19,Carrie Smith,Cardiology,8
+478,John Moody,Male,B-,2022-11-06,2023-06-27,Pneumonia,Crystal Gray DDS,Neurology,8
+479,Andrew Olson,Female,A+,2022-12-22,2025-02-12,Covid-19,Dr. David Luna,General Medicine,3
+479,Andrew Olson,Female,A+,2023-01-06,2023-09-19,Pneumonia,Victor Moore,Pediatrics,3
+480,Brittany Luna,Female,B-,2022-03-28,2023-04-06,Covid-19,Max Diaz,Neurology,2
+481,Rebecca Zimmerman,Male,AB-,2022-06-30,2024-09-12,Hypertension,Daniel Stevenson,Oncology,1
+482,Kim Rivers,Female,AB+,2024-03-10,2024-02-25,Diabetes,Bob Bridges,General Medicine,3
+482,Kim Rivers,Female,AB+,2024-06-12,2024-01-18,Covid-19,Lisa Johnson,Neurology,3
+483,Allison Kim,Male,B+,2022-06-03,2025-02-28,Asthma,William Newman,General Medicine,5
+483,Allison Kim,Male,B+,2023-11-04,2023-06-22,Hypertension,Michael Aguilar,Neurology,5
+484,David Davis,Male,A+,2022-05-10,2024-04-22,Asthma,Sheryl Bullock,Pediatrics,4
+484,David Davis,Male,A+,2024-11-29,2024-06-30,Covid-19,Hannah Diaz DDS,Pediatrics,4
+485,Ronald Martinez,Female,AB-,2024-08-07,2025-03-08,Pneumonia,Rose Gonzalez,General Medicine,6
+485,Ronald Martinez,Female,AB-,2025-01-31,2025-01-27,Covid-19,Tanya Martinez,Cardiology,6
+485,Ronald Martinez,Female,AB-,2025-02-08,2024-04-01,Diabetes,Reginald Wallace,Oncology,6
+486,Juan Jones,Male,A-,2022-04-11,2024-05-23,Pneumonia,James Lopez,Cardiology,7
+486,Juan Jones,Male,A-,2022-08-01,2024-12-19,Covid-19,Crystal Gray DDS,Neurology,7
+486,Juan Jones,Male,A-,2023-11-14,2023-06-27,Anemia,Tonya Strickland,General Medicine,7
+487,Brenda Fernandez,Male,B+,2023-06-26,2023-08-19,Pneumonia,Roger Morris,Neurology,2
+488,Timothy Olson,Female,AB-,2022-08-16,2023-11-04,Asthma,Robert Howell,General Medicine,5
+488,Timothy Olson,Female,AB-,2023-10-24,2024-01-17,Diabetes,Robert Howell,General Medicine,5
+489,Bryce Taylor,Female,AB+,2022-06-28,2025-03-06,Asthma,Linda Foster,General Medicine,7
+489,Bryce Taylor,Female,AB+,2023-03-25,2025-02-19,Covid-19,Natalie Green,Pediatrics,7
+489,Bryce Taylor,Female,AB+,2024-07-31,2023-11-04,Asthma,Sharon Scott,Pediatrics,7
+490,Kyle Smith,Male,AB+,2022-08-04,2024-06-24,Pneumonia,Bethany Leonard,Oncology,6
+490,Kyle Smith,Male,AB+,2023-04-07,2024-08-03,Diabetes,Linda Patrick,Pediatrics,6
+490,Kyle Smith,Male,AB+,2023-08-03,2024-08-10,Anemia,Daniel Stevenson,Oncology,6
+491,Rachel Banks,Male,AB-,2024-05-25,2024-10-31,Covid-19,Dr. David Luna,General Medicine,1
+492,Jacob Lee,Female,O+,2022-06-06,2024-11-24,Hypertension,Mrs. Laura Lawson MD,Pediatrics,2
+493,Amanda Vasquez,Male,O-,2024-01-08,2024-11-22,Diabetes,Michael Holt,Cardiology,5
+493,Amanda Vasquez,Male,O-,2024-04-12,2023-10-25,Diabetes,Lisa Johnson,Neurology,5
+493,Amanda Vasquez,Male,O-,2024-07-26,2024-08-04,Pneumonia,Hannah Diaz DDS,Pediatrics,5
+494,Carl Brown,Male,AB-,2022-10-25,2023-08-23,Hypertension,Sharon Scott,Pediatrics,8
+494,Carl Brown,Male,AB-,2023-07-27,2023-11-20,Anemia,Amy Joseph,Oncology,8
+494,Carl Brown,Male,AB-,2023-12-19,2025-01-25,Hypertension,Mrs. Laura Lawson MD,Pediatrics,8
+495,Margaret Hahn,Female,B-,2022-08-23,2023-04-21,Diabetes,Tiffany Calderon,Oncology,7
+495,Margaret Hahn,Female,B-,2024-09-24,2023-11-25,Pneumonia,Craig Herman,Oncology,7
+495,Margaret Hahn,Female,B-,2025-02-07,2024-11-27,Anemia,Sharon Scott,Pediatrics,7
+496,James Cook,Female,A-,2022-03-30,2023-08-26,Hypertension,Amy Joseph,Oncology,8
+496,James Cook,Female,A-,2022-04-20,2024-03-13,Anemia,Natalie Green,Pediatrics,8
+496,James Cook,Female,A-,2023-12-13,2025-03-05,Asthma,Lynn Patrick,Cardiology,8
+497,Jeffrey Johnson,Female,O-,2023-01-02,2023-03-27,Diabetes,William Keith,Cardiology,3
+498,Lauren Miller,Male,AB+,2023-10-20,2024-12-18,Asthma,Max Diaz,Neurology,3
+499,Anthony Williams,Female,B-,2023-06-01,2023-12-05,Covid-19,Victor Moore,Pediatrics,7
+499,Anthony Williams,Female,B-,2024-02-02,2024-12-31,Anemia,Kenneth Reed,Oncology,7
+499,Anthony Williams,Female,B-,2024-09-23,2024-01-13,Asthma,Michael Aguilar,Neurology,7
+500,Megan Johnson,Male,AB-,2022-04-24,2025-02-23,Asthma,James Hutchinson,Neurology,2
+500,Megan Johnson,Male,AB-,2022-07-18,2023-12-07,Anemia,Michael Holt,Cardiology,2
+501,Mr. Cody Taylor,Male,B-,2025-02-27,2023-04-29,Pneumonia,Robert Howell,General Medicine,2
+502,Larry Carter,Male,A+,2024-01-31,2024-02-24,Diabetes,Lisa Johnson,Neurology,3
+503,Melissa Holden,Female,B-,2022-08-14,2023-05-21,Diabetes,Daniel Perez,Oncology,7
+503,Melissa Holden,Female,B-,2024-01-09,2023-10-19,Pneumonia,Victor Moore,Pediatrics,7
+503,Melissa Holden,Female,B-,2025-01-26,2024-01-21,Covid-19,Linda Foster,General Medicine,7
+504,Aaron Walker,Male,B-,2022-04-14,2025-02-24,Asthma,Victor Moore,Pediatrics,8
+504,Aaron Walker,Male,B-,2023-10-22,2023-11-12,Pneumonia,Bethany Leonard,Oncology,8
+504,Aaron Walker,Male,B-,2024-12-24,2024-01-24,Diabetes,Daniel Stevenson,Oncology,8
+505,Justin Thomas,Male,B-,2022-08-06,2024-09-25,Diabetes,Gerald Martin,Pediatrics,4
+505,Justin Thomas,Male,B-,2022-08-12,2024-09-21,Anemia,Bethany Leonard,Oncology,4
+506,Gina Spencer,Male,B-,2022-03-27,2024-12-11,Anemia,Natalie Green,Pediatrics,4
+506,Gina Spencer,Male,B-,2023-03-09,2023-10-30,Pneumonia,Bob Bridges,General Medicine,4
+507,David Pacheco,Female,B+,2024-02-17,2024-05-18,Hypertension,Lisa Johnson,Neurology,1
+508,Emily Jordan,Male,O+,2023-08-10,2023-06-11,Anemia,Aimee Reeves,Oncology,2
+509,Diana Martinez,Male,B+,2023-12-04,2024-07-13,Pneumonia,Bethany Leonard,Oncology,9
+509,Diana Martinez,Male,B+,2024-09-28,2023-10-19,Asthma,Austin Scott,Cardiology,9
+509,Diana Martinez,Male,B+,2024-11-09,2024-03-23,Pneumonia,Amy Joseph,Oncology,9
+510,Mr. Frank Brooks DDS,Female,B+,2022-05-29,2024-05-04,Diabetes,Sheryl Bullock,Pediatrics,8
+510,Mr. Frank Brooks DDS,Female,B+,2023-10-16,2024-11-14,Diabetes,Austin Scott,Cardiology,8
+510,Mr. Frank Brooks DDS,Female,B+,2024-11-04,2023-04-05,Covid-19,John Garner,Cardiology,8
+511,James Moore,Male,A+,2024-08-13,2024-11-04,Covid-19,Reginald Wallace,Oncology,2
+512,John Ortiz,Male,A+,2023-01-21,2024-02-21,Covid-19,Bob Bridges,General Medicine,6
+512,John Ortiz,Male,A+,2023-02-02,2023-11-08,Hypertension,Kimberly Williams,Oncology,6
+512,John Ortiz,Male,A+,2024-01-05,2024-05-23,Diabetes,John Garner,Cardiology,6
+513,Annette Jones,Female,B-,2023-11-02,2024-05-12,Hypertension,Tonya Strickland,General Medicine,4
+513,Annette Jones,Female,B-,2024-08-01,2023-07-12,Pneumonia,Aimee Reeves,Oncology,4
+513,Annette Jones,Female,B-,2024-08-22,2024-06-05,Pneumonia,Kenneth Reed,Oncology,4
+514,Elijah Short,Female,A+,2022-11-27,2024-01-20,Hypertension,Max Diaz,Neurology,7
+514,Elijah Short,Female,A+,2024-10-22,2024-03-15,Asthma,Crystal Gray DDS,Neurology,7
+514,Elijah Short,Female,A+,2024-11-14,2024-02-02,Hypertension,Austin Scott,Cardiology,7
+515,Brady Singleton,Male,O+,2022-04-17,2024-05-08,Hypertension,Trevor Foster,General Medicine,1
+516,Jeffery Goodwin,Male,B+,2023-03-23,2024-05-17,Diabetes,Carrie Smith,Cardiology,6
+516,Jeffery Goodwin,Male,B+,2024-01-27,2024-05-31,Covid-19,Rose Gonzalez,General Medicine,6
+516,Jeffery Goodwin,Male,B+,2024-08-03,2024-05-01,Pneumonia,Sarah Gonzalez,General Medicine,6
+517,Christina Myers,Female,A-,2022-09-24,2024-03-25,Diabetes,William Newman,General Medicine,7
+517,Christina Myers,Female,A-,2024-06-23,2024-09-04,Diabetes,Russell Thompson,General Medicine,7
+517,Christina Myers,Female,A-,2024-12-05,2024-06-06,Asthma,Victor Moore,Pediatrics,7
+518,Cristian Pruitt,Male,AB-,2025-01-13,2024-08-03,Covid-19,Linda Foster,General Medicine,2
+519,Brian Herrera,Female,O-,2024-04-16,2024-11-21,Asthma,Micheal Johnson,Cardiology,6
+519,Brian Herrera,Female,O-,2024-11-03,2023-05-20,Pneumonia,Ronald Cruz,Neurology,6
+520,Adam Thomas,Male,AB-,2023-10-11,2023-04-17,Diabetes,James Lopez,Cardiology,7
+520,Adam Thomas,Male,AB-,2023-10-22,2024-12-07,Covid-19,Bethany Leonard,Oncology,7
+520,Adam Thomas,Male,AB-,2024-09-28,2024-02-21,Hypertension,Victor Moore,Pediatrics,7
+521,Michelle Evans,Male,A+,2022-12-30,2023-12-31,Anemia,Linda Patrick,Pediatrics,2
+521,Michelle Evans,Male,A+,2024-02-27,2025-01-08,Covid-19,Micheal Johnson,Cardiology,2
+522,Amanda Mcclure,Female,AB-,2022-07-23,2024-06-09,Pneumonia,Kimberly Williams,Oncology,5
+522,Amanda Mcclure,Female,AB-,2023-10-31,2023-04-12,Covid-19,Carrie Smith,Cardiology,5
+522,Amanda Mcclure,Female,AB-,2024-02-28,2025-02-18,Hypertension,Daniel Perez,Oncology,5
+523,David Hunter,Male,A+,2023-03-27,2023-07-01,Diabetes,Aaron Young,General Medicine,4
+523,David Hunter,Male,A+,2025-03-05,2024-06-28,Anemia,Dr. David Luna,General Medicine,4
+524,Thomas Murphy,Female,AB+,2022-04-28,2023-05-31,Hypertension,James Lopez,Cardiology,3
+524,Thomas Murphy,Female,AB+,2022-10-17,2024-02-23,Pneumonia,Lynn Patrick,Cardiology,3
+525,Joseph Myers,Female,A-,2023-10-02,2024-03-12,Hypertension,Sheryl Bullock,Pediatrics,5
+525,Joseph Myers,Female,A-,2024-11-29,2024-05-03,Pneumonia,Amy Joseph,Oncology,5
+525,Joseph Myers,Female,A-,2025-03-18,2024-11-07,Asthma,James Hutchinson,Neurology,5
+526,Jill George,Female,AB-,2023-01-09,2024-01-14,Asthma,Thomas Gutierrez,General Medicine,4
+526,Jill George,Female,AB-,2024-09-06,2024-06-01,Anemia,Tanya Martinez,Cardiology,4
+527,Anne Conley,Male,A-,2022-04-16,2023-11-15,Covid-19,Linda Patrick,Pediatrics,4
+527,Anne Conley,Male,A-,2022-07-25,2024-05-27,Hypertension,Mrs. Laura Lawson MD,Pediatrics,4
+528,Jennifer Patterson,Female,B+,2022-04-03,2024-11-05,Diabetes,Gerald Martin,Pediatrics,6
+528,Jennifer Patterson,Female,B+,2022-10-27,2025-03-24,Hypertension,Lisa Johnson,Neurology,6
+528,Jennifer Patterson,Female,B+,2024-08-29,2024-01-05,Hypertension,Todd Butler,Oncology,6
+529,Austin Briggs,Male,B+,2022-07-16,2024-11-22,Pneumonia,Linda Foster,General Medicine,4
+529,Austin Briggs,Male,B+,2024-03-10,2023-12-30,Pneumonia,Victor Moore,Pediatrics,4
+530,Lindsay Jarvis,Female,O-,2023-08-28,2024-04-24,Covid-19,Natalie Green,Pediatrics,1
+531,Luis Mosley,Female,O+,2023-07-26,2023-06-24,Covid-19,Natalie Green,Pediatrics,7
+531,Luis Mosley,Female,O+,2024-03-03,2023-11-05,Covid-19,Sharon Scott,Pediatrics,7
+531,Luis Mosley,Female,O+,2024-03-09,2024-04-05,Anemia,Daniel Perez,Oncology,7
+532,Dan Johnson,Female,AB+,2022-08-12,2024-08-27,Covid-19,Roger Morris,Neurology,2
+533,Joshua Knox,Male,A-,2022-10-25,2024-04-07,Covid-19,Lisa Johnson,Neurology,4
+533,Joshua Knox,Male,A-,2023-06-29,2024-01-18,Pneumonia,Tanya Martinez,Cardiology,4
+534,Corey Walters,Male,AB+,2024-10-15,2023-08-15,Anemia,Sheryl Bullock,Pediatrics,3
+535,Emily Griffith,Female,B-,2022-07-18,2023-06-08,Covid-19,Sharon Scott,Pediatrics,3
+536,Jay Lynch,Female,O-,2022-11-04,2023-10-28,Diabetes,Daniel Stevenson,Oncology,6
+536,Jay Lynch,Female,O-,2024-07-13,2024-08-28,Hypertension,Bethany Leonard,Oncology,6
+536,Jay Lynch,Female,O-,2024-12-20,2024-05-26,Covid-19,Sarah Gonzalez,General Medicine,6
+537,Douglas Hart,Female,AB+,2022-08-14,2024-07-09,Covid-19,Sheryl Bullock,Pediatrics,6
+537,Douglas Hart,Female,AB+,2024-09-29,2024-01-31,Pneumonia,Reginald Wallace,Oncology,6
+538,Jason Foster,Female,A-,2022-10-25,2024-02-26,Pneumonia,Crystal Gray DDS,Neurology,2
+539,Katherine Barker,Female,AB+,2023-05-12,2023-08-09,Covid-19,Rose Gonzalez,General Medicine,2
+540,Terry Hernandez,Female,O+,2022-12-02,2023-07-12,Hypertension,Thomas Gutierrez,General Medicine,1
+541,Dawn Turner,Female,B+,2024-10-16,2024-03-29,Covid-19,Carrie Smith,Cardiology,2
+542,April Jones,Female,A-,2023-08-26,2024-04-25,Pneumonia,Austin Scott,Cardiology,6
+542,April Jones,Female,A-,2024-02-20,2023-05-05,Diabetes,Tonya Strickland,General Medicine,6
+542,April Jones,Female,A-,2024-09-22,2023-05-21,Anemia,Linda Foster,General Medicine,6
+543,Christy Harris,Male,A-,2023-05-09,2024-10-05,Anemia,Rose Gonzalez,General Medicine,2
+544,David Washington,Male,AB+,2023-10-15,2023-10-17,Asthma,Victor Moore,Pediatrics,1
+545,Victoria Juarez,Male,O-,2022-10-15,2023-06-14,Diabetes,Michael Aguilar,Neurology,2
+545,Victoria Juarez,Male,O-,2024-07-31,2023-12-19,Hypertension,William Newman,General Medicine,2
+546,Renee Smith,Male,A+,2022-06-03,2023-11-27,Diabetes,Roger Morris,Neurology,3
+546,Renee Smith,Male,A+,2023-10-25,2024-04-05,Anemia,Tanya Martinez,Cardiology,3
+546,Renee Smith,Male,A+,2025-02-14,2023-11-08,Anemia,Sheryl Bullock,Pediatrics,3
+547,Mark Mcmahon,Female,A-,2022-03-29,2025-01-09,Asthma,Michael Holt,Cardiology,8
+547,Mark Mcmahon,Female,A-,2024-01-29,2024-11-19,Diabetes,Dr. David Luna,General Medicine,8
+547,Mark Mcmahon,Female,A-,2024-05-18,2023-07-01,Covid-19,Lynn Patrick,Cardiology,8
+548,Timothy Galvan,Female,O-,2022-10-07,2025-01-08,Covid-19,Lisa Johnson,Neurology,7
+548,Timothy Galvan,Female,O-,2023-10-16,2024-04-13,Anemia,Max Diaz,Neurology,7
+548,Timothy Galvan,Female,O-,2024-09-07,2023-07-12,Covid-19,Russell Thompson,General Medicine,7
+549,Michael Dunn,Female,A+,2022-03-25,2024-09-26,Asthma,Robert Howell,General Medicine,7
+549,Michael Dunn,Female,A+,2022-06-10,2023-05-13,Covid-19,Victor Moore,Pediatrics,7
+549,Michael Dunn,Female,A+,2024-09-02,2023-04-08,Pneumonia,Daniel Perez,Oncology,7
+550,Mike Martin,Female,O+,2023-03-01,2025-03-12,Anemia,Alyssa Anderson,General Medicine,6
+550,Mike Martin,Female,O+,2024-11-30,2024-01-29,Hypertension,Robert Howell,General Medicine,6
+551,Mitchell Fitzgerald,Female,A-,2023-09-07,2024-02-06,Covid-19,Tanya Martinez,Cardiology,4
+551,Mitchell Fitzgerald,Female,A-,2025-03-22,2025-02-19,Anemia,Tonya Strickland,General Medicine,4
+552,Bethany Edwards,Male,B+,2023-05-26,2023-05-05,Hypertension,Daniel Stevenson,Oncology,2
+553,Taylor Martinez,Female,B-,2023-02-16,2024-12-26,Covid-19,Victor Moore,Pediatrics,2
+553,Taylor Martinez,Female,B-,2024-03-07,2023-08-05,Hypertension,Aaron Young,General Medicine,2
+554,Drew Burgess,Male,O-,2022-10-22,2023-10-27,Hypertension,Todd Butler,Oncology,7
+554,Drew Burgess,Male,O-,2024-03-24,2023-08-09,Hypertension,Austin Scott,Cardiology,7
+554,Drew Burgess,Male,O-,2024-05-14,2023-07-29,Asthma,Aaron Young,General Medicine,7
+555,Vincent Brown,Female,A-,2023-06-02,2023-03-28,Asthma,Kenneth Reed,Oncology,5
+555,Vincent Brown,Female,A-,2023-08-16,2025-02-11,Hypertension,William Newman,General Medicine,5
+555,Vincent Brown,Female,A-,2024-08-10,2024-07-11,Diabetes,Lynn Patrick,Cardiology,5
+556,Michael Mooney,Female,B-,2022-06-23,2023-06-02,Anemia,Trevor Foster,General Medicine,8
+556,Michael Mooney,Female,B-,2024-04-17,2024-05-02,Anemia,Amy Joseph,Oncology,8
+556,Michael Mooney,Female,B-,2024-12-31,2025-03-02,Hypertension,Tanya Martinez,Cardiology,8
+557,Laura Ramos,Female,A+,2022-11-29,2024-09-10,Diabetes,Kenneth Reed,Oncology,7
+557,Laura Ramos,Female,A+,2023-05-05,2024-10-01,Diabetes,James Lopez,Cardiology,7
+557,Laura Ramos,Female,A+,2024-06-04,2023-08-13,Pneumonia,Aaron Young,General Medicine,7
+558,John Landry,Female,A+,2024-02-26,2023-09-27,Covid-19,Carrie Smith,Cardiology,2
+559,Wendy Lambert,Male,O+,2022-08-11,2023-07-08,Pneumonia,Ronald Cruz,Neurology,3
+560,Patrick Bauer,Female,O-,2023-11-20,2025-03-19,Diabetes,Austin Scott,Cardiology,8
+560,Patrick Bauer,Female,O-,2024-01-05,2023-05-20,Covid-19,Roger Morris,Neurology,8
+560,Patrick Bauer,Female,O-,2024-07-14,2025-03-11,Asthma,Aaron Young,General Medicine,8
+561,Ryan Ryan,Female,A+,2023-10-25,2023-03-29,Anemia,Alyssa Anderson,General Medicine,2
+562,Kenneth Delgado,Male,B+,2022-06-24,2024-11-24,Pneumonia,Natalie Green,Pediatrics,5
+562,Kenneth Delgado,Male,B+,2023-09-21,2024-06-03,Pneumonia,Linda Foster,General Medicine,5
+562,Kenneth Delgado,Male,B+,2024-04-10,2023-05-15,Pneumonia,Carrie Smith,Cardiology,5
+563,Mary Wright,Female,A-,2022-06-24,2023-06-04,Covid-19,Thomas Gutierrez,General Medicine,4
+563,Mary Wright,Female,A-,2024-12-15,2024-09-17,Hypertension,William Keith,Cardiology,4
+564,Cole Evans,Male,A+,2022-09-21,2024-06-13,Hypertension,Tanya Martinez,Cardiology,4
+564,Cole Evans,Male,A+,2023-10-23,2023-03-25,Anemia,Michael Aguilar,Neurology,4
+565,Debbie Santos,Male,B-,2022-09-10,2024-12-18,Pneumonia,Crystal Gray DDS,Neurology,6
+565,Debbie Santos,Male,B-,2024-03-14,2025-02-10,Hypertension,Sharon Scott,Pediatrics,6
+565,Debbie Santos,Male,B-,2024-10-28,2023-08-10,Covid-19,Austin Scott,Cardiology,6
+566,Emily French,Female,AB+,2023-07-27,2023-08-16,Pneumonia,Linda Foster,General Medicine,6
+566,Emily French,Female,AB+,2024-01-17,2023-05-26,Anemia,Micheal Johnson,Cardiology,6
+566,Emily French,Female,AB+,2025-01-08,2023-05-30,Hypertension,Russell Thompson,General Medicine,6
+567,Brandon Blankenship,Female,O-,2022-05-31,2024-10-22,Diabetes,Daniel Perez,Oncology,8
+567,Brandon Blankenship,Female,O-,2023-10-09,2023-09-17,Anemia,Michael Aguilar,Neurology,8
+567,Brandon Blankenship,Female,O-,2024-02-07,2023-05-05,Hypertension,Robert Howell,General Medicine,8
+568,Sheri Chapman,Male,O-,2024-08-25,2023-07-08,Hypertension,Natalie Green,Pediatrics,2
+569,Paul White,Female,O-,2022-05-14,2024-03-18,Hypertension,Kenneth Reed,Oncology,6
+569,Paul White,Female,O-,2022-07-13,2024-12-12,Diabetes,Gerald Martin,Pediatrics,6
+569,Paul White,Female,O-,2023-01-29,2023-04-28,Pneumonia,Daniel Stevenson,Oncology,6
+570,Keith Adams,Male,A+,2024-01-22,2024-06-28,Covid-19,Tanya Martinez,Cardiology,2
+571,Scott Meza,Male,B+,2022-04-16,2023-03-28,Diabetes,Daniel Stevenson,Oncology,4
+571,Scott Meza,Male,B+,2023-07-25,2024-09-03,Covid-19,Roger Morris,Neurology,4
+571,Scott Meza,Male,B+,2024-04-14,2023-10-10,Anemia,William Keith,Cardiology,4
+572,Tara Taylor,Male,A-,2024-05-16,2024-06-12,Pneumonia,Sharon Scott,Pediatrics,6
+572,Tara Taylor,Male,A-,2025-01-03,2023-05-31,Diabetes,Lisa Johnson,Neurology,6
+572,Tara Taylor,Male,A-,2025-03-17,2024-12-28,Covid-19,Ronald Cruz,Neurology,6
+573,Megan Macias,Female,AB-,2023-06-23,2023-09-17,Pneumonia,Roger Morris,Neurology,6
+573,Megan Macias,Female,AB-,2023-07-23,2024-06-03,Covid-19,James Hutchinson,Neurology,6
+573,Megan Macias,Female,AB-,2023-08-15,2024-09-18,Asthma,Kenneth Reed,Oncology,6
+574,Wayne Morgan,Female,AB-,2024-03-21,2024-02-08,Covid-19,Tonya Strickland,General Medicine,6
+574,Wayne Morgan,Female,AB-,2024-08-22,2024-05-03,Anemia,Tanya Martinez,Cardiology,6
+574,Wayne Morgan,Female,AB-,2024-12-22,2023-07-12,Hypertension,James Hutchinson,Neurology,6
+575,Eric Fitzpatrick,Female,AB+,2023-12-25,2023-12-17,Hypertension,James Hutchinson,Neurology,5
+575,Eric Fitzpatrick,Female,AB+,2024-08-31,2023-09-06,Diabetes,Carrie Smith,Cardiology,5
+575,Eric Fitzpatrick,Female,AB+,2024-10-01,2024-05-29,Pneumonia,Rose Gonzalez,General Medicine,5
+576,Charlotte Gomez,Female,B-,2022-10-15,2024-06-29,Hypertension,Tanya Martinez,Cardiology,4
+576,Charlotte Gomez,Female,B-,2023-04-28,2023-10-27,Asthma,William Keith,Cardiology,4
+577,Jacob Mcclain,Male,O-,2022-08-08,2024-07-21,Pneumonia,Reginald Wallace,Oncology,8
+577,Jacob Mcclain,Male,O-,2022-09-20,2024-02-09,Hypertension,Russell Thompson,General Medicine,8
+577,Jacob Mcclain,Male,O-,2024-03-27,2024-11-08,Anemia,Lisa Johnson,Neurology,8
+578,James Manning,Female,A-,2022-10-30,2024-03-27,Diabetes,Alyssa Anderson,General Medicine,6
+578,James Manning,Female,A-,2023-02-02,2024-12-09,Diabetes,Alyssa Anderson,General Medicine,6
+578,James Manning,Female,A-,2024-06-01,2025-03-13,Covid-19,Reginald Wallace,Oncology,6
+579,Phyllis Ross,Female,AB-,2023-07-20,2024-12-13,Hypertension,Tiffany Calderon,Oncology,6
+579,Phyllis Ross,Female,AB-,2024-07-08,2023-05-28,Asthma,Craig Herman,Oncology,6
+580,Nancy Hamilton,Female,A+,2022-07-12,2023-04-21,Anemia,Austin Scott,Cardiology,6
+580,Nancy Hamilton,Female,A+,2023-02-19,2025-02-22,Diabetes,Sheryl Bullock,Pediatrics,6
+581,Michael Patrick,Male,AB+,2022-06-03,2023-07-22,Covid-19,Russell Thompson,General Medicine,7
+581,Michael Patrick,Male,AB+,2023-04-29,2023-12-08,Asthma,Daniel Perez,Oncology,7
+581,Michael Patrick,Male,AB+,2023-09-22,2024-11-15,Covid-19,James Hutchinson,Neurology,7
+582,Luis Davis,Male,A+,2024-08-13,2024-08-21,Asthma,Crystal Gray DDS,Neurology,4
+582,Luis Davis,Male,A+,2024-10-28,2024-02-01,Anemia,Amy Joseph,Oncology,4
+583,Douglas Bell,Male,O+,2023-03-04,2024-09-06,Covid-19,Kenneth Reed,Oncology,1
+584,Lawrence Jordan,Male,B+,2023-01-03,2023-05-17,Hypertension,Tanya Martinez,Cardiology,5
+584,Lawrence Jordan,Male,B+,2023-06-29,2023-09-06,Anemia,John Garner,Cardiology,5
+584,Lawrence Jordan,Male,B+,2024-03-21,2025-02-15,Covid-19,Sheryl Bullock,Pediatrics,5
+585,Christine Cruz,Female,O+,2023-04-26,2024-05-05,Pneumonia,Tonya Strickland,General Medicine,5
+585,Christine Cruz,Female,O+,2023-10-05,2024-02-28,Covid-19,Kimberly Williams,Oncology,5
+586,John Juarez,Female,A-,2022-11-15,2024-02-14,Diabetes,William Newman,General Medicine,5
+586,John Juarez,Female,A-,2023-04-04,2023-12-12,Hypertension,Aimee Reeves,Oncology,5
+587,Mr. Troy Gibbs,Male,AB-,2023-05-23,2024-05-21,Hypertension,Mrs. Laura Lawson MD,Pediatrics,4
+587,Mr. Troy Gibbs,Male,AB-,2023-12-15,2025-01-22,Hypertension,Craig Herman,Oncology,4
+587,Mr. Troy Gibbs,Male,AB-,2024-06-25,2023-05-10,Anemia,Michael Aguilar,Neurology,4
+588,Jordan Hart,Female,B+,2023-01-19,2024-06-23,Pneumonia,Craig Herman,Oncology,8
+588,Jordan Hart,Female,B+,2024-01-20,2024-03-06,Covid-19,John Garner,Cardiology,8
+588,Jordan Hart,Female,B+,2024-01-30,2023-04-24,Asthma,Bob Bridges,General Medicine,8
+589,Elizabeth Adams,Male,AB+,2023-04-19,2025-02-14,Pneumonia,Robert Howell,General Medicine,4
+589,Elizabeth Adams,Male,AB+,2023-07-03,2025-03-17,Diabetes,Reginald Wallace,Oncology,4
+589,Elizabeth Adams,Male,AB+,2024-07-23,2023-09-11,Hypertension,Leslie Flynn,Neurology,4
+590,Amber Whitney,Male,O-,2024-07-13,2024-04-18,Covid-19,Tanya Martinez,Cardiology,2
+591,Logan Nguyen,Male,AB+,2023-01-22,2024-05-22,Diabetes,William Keith,Cardiology,3
+591,Logan Nguyen,Male,AB+,2023-07-09,2023-08-09,Hypertension,Russell Thompson,General Medicine,3
+592,Derrick Perkins,Male,AB+,2023-03-13,2024-01-16,Pneumonia,Roger Morris,Neurology,3
+592,Derrick Perkins,Male,AB+,2023-07-31,2024-12-05,Covid-19,William Keith,Cardiology,3
+593,Scott Lopez,Male,AB-,2023-06-30,2024-02-03,Covid-19,Tiffany Calderon,Oncology,2
+593,Scott Lopez,Male,AB-,2024-11-28,2025-01-13,Covid-19,Bob Bridges,General Medicine,2
+594,Matthew Powell,Male,O-,2022-06-06,2023-12-06,Hypertension,Leslie Flynn,Neurology,3
+594,Matthew Powell,Male,O-,2022-10-25,2024-05-17,Covid-19,Lynn Patrick,Cardiology,3
+595,Linda Sparks,Female,AB+,2023-08-25,2023-05-05,Anemia,Linda Patrick,Pediatrics,5
+595,Linda Sparks,Female,AB+,2024-02-13,2025-03-14,Covid-19,William Newman,General Medicine,5
+595,Linda Sparks,Female,AB+,2024-02-15,2024-12-18,Hypertension,Reginald Wallace,Oncology,5
+596,Christopher Brown,Female,O+,2022-06-10,2024-01-24,Covid-19,Gerald Martin,Pediatrics,6
+596,Christopher Brown,Female,O+,2023-05-28,2024-09-22,Diabetes,Jill Grant,Neurology,6
+597,Jeffery Hernandez,Male,AB+,2023-09-23,2023-05-26,Diabetes,Amy Joseph,Oncology,5
+597,Jeffery Hernandez,Male,AB+,2023-10-05,2024-03-07,Hypertension,Craig Herman,Oncology,5
+597,Jeffery Hernandez,Male,AB+,2024-11-11,2023-12-10,Hypertension,Crystal Gray DDS,Neurology,5
+598,Tim Miller,Male,O-,2022-11-27,2023-08-31,Hypertension,Reginald Wallace,Oncology,3
+598,Tim Miller,Male,O-,2023-10-11,2024-01-27,Pneumonia,James Lopez,Cardiology,3
+599,Denise Porter,Male,AB-,2024-08-18,2023-08-13,Anemia,Todd Butler,Oncology,2
+600,Frank Anderson,Female,A-,2022-04-09,2024-06-28,Anemia,William Newman,General Medicine,5
+600,Frank Anderson,Female,A-,2022-05-16,2024-05-18,Covid-19,Bob Bridges,General Medicine,5
+601,Samantha Cruz,Female,A-,2023-08-24,2025-02-22,Diabetes,Alyssa Anderson,General Medicine,3
+602,Amy Bailey,Male,AB+,2022-05-30,2024-04-11,Covid-19,William Keith,Cardiology,4
+602,Amy Bailey,Male,AB+,2023-08-11,2023-06-16,Diabetes,Lynn Patrick,Cardiology,4
+602,Amy Bailey,Male,AB+,2024-11-26,2024-09-18,Pneumonia,Bethany Leonard,Oncology,4
+603,Michael Bates,Female,A-,2022-05-06,2024-08-23,Asthma,Tonya Strickland,General Medicine,6
+603,Michael Bates,Female,A-,2023-07-18,2024-10-12,Asthma,Daniel Perez,Oncology,6
+603,Michael Bates,Female,A-,2024-10-12,2023-06-12,Covid-19,Michael Aguilar,Neurology,6
+604,Charles Rose,Female,O+,2023-03-22,2023-06-10,Anemia,Sarah Gonzalez,General Medicine,3
+605,Jeff Vaughan,Female,B-,2022-08-01,2023-06-10,Asthma,Reginald Wallace,Oncology,7
+605,Jeff Vaughan,Female,B-,2024-03-12,2024-11-18,Anemia,Max Diaz,Neurology,7
+605,Jeff Vaughan,Female,B-,2024-05-21,2024-01-20,Diabetes,Daniel Stevenson,Oncology,7
+606,Beth Lewis,Female,B+,2022-08-19,2024-07-03,Covid-19,Victor Moore,Pediatrics,3
+606,Beth Lewis,Female,B+,2022-11-01,2023-12-05,Covid-19,Trevor Foster,General Medicine,3
+606,Beth Lewis,Female,B+,2025-02-23,2023-04-08,Asthma,Bethany Leonard,Oncology,3
+607,Carmen Pratt,Male,A-,2023-06-26,2024-09-21,Covid-19,Lisa Johnson,Neurology,6
+607,Carmen Pratt,Male,A-,2024-02-14,2024-09-04,Pneumonia,Russell Thompson,General Medicine,6
+608,Adam Browning,Male,O-,2023-11-19,2023-05-05,Covid-19,Robert Howell,General Medicine,6
+608,Adam Browning,Male,O-,2025-02-23,2024-09-20,Hypertension,Tanya Martinez,Cardiology,6
+609,Brandon Parker,Female,B+,2022-12-25,2023-08-02,Anemia,Sharon Scott,Pediatrics,4
+609,Brandon Parker,Female,B+,2024-12-03,2023-04-12,Anemia,Amy Joseph,Oncology,4
+610,Janet Willis,Male,A-,2023-03-23,2023-11-24,Anemia,Victor Moore,Pediatrics,7
+610,Janet Willis,Male,A-,2023-12-15,2024-10-01,Anemia,Natalie Green,Pediatrics,7
+610,Janet Willis,Male,A-,2024-11-13,2024-01-07,Asthma,Trevor Foster,General Medicine,7
+611,Gina Ward,Male,O+,2022-08-01,2024-09-05,Hypertension,Craig Herman,Oncology,7
+611,Gina Ward,Male,O+,2022-12-25,2023-03-25,Anemia,Dr. David Luna,General Medicine,7
+611,Gina Ward,Male,O+,2023-05-15,2024-09-17,Pneumonia,Michael Aguilar,Neurology,7
+612,Brenda Harrell,Male,B+,2022-07-31,2024-08-23,Covid-19,Alyssa Anderson,General Medicine,3
+612,Brenda Harrell,Male,B+,2022-10-21,2023-08-13,Pneumonia,Reginald Wallace,Oncology,3
+613,Benjamin Page,Male,A-,2023-07-25,2024-11-23,Anemia,William Keith,Cardiology,5
+613,Benjamin Page,Male,A-,2024-02-03,2025-02-21,Asthma,James Lopez,Cardiology,5
+614,Jose Weber,Male,AB-,2022-06-25,2023-04-02,Covid-19,Victor Moore,Pediatrics,6
+614,Jose Weber,Male,AB-,2022-11-25,2025-01-20,Anemia,Max Diaz,Neurology,6
+614,Jose Weber,Male,AB-,2024-08-20,2023-12-27,Asthma,Aimee Reeves,Oncology,6
+615,Christopher Ross,Female,AB-,2024-01-02,2024-11-03,Hypertension,Tonya Strickland,General Medicine,4
+615,Christopher Ross,Female,AB-,2025-03-15,2025-03-07,Asthma,Carrie Smith,Cardiology,4
+616,Brian Moyer,Female,O-,2022-06-11,2023-05-25,Pneumonia,Aimee Reeves,Oncology,1
+617,Tiffany Thomas,Male,AB-,2023-08-03,2023-06-19,Pneumonia,Linda Patrick,Pediatrics,1
+618,Angela Jones,Male,AB-,2023-08-30,2023-09-07,Pneumonia,James Lopez,Cardiology,2
+619,Paul Martin,Female,O+,2023-01-03,2025-02-26,Hypertension,Russell Thompson,General Medicine,2
+620,Samantha Navarro,Female,A+,2023-09-15,2024-12-03,Hypertension,Jill Grant,Neurology,1
+621,Patrick Lopez,Female,A-,2023-05-02,2024-02-29,Diabetes,Trevor Foster,General Medicine,6
+621,Patrick Lopez,Female,A-,2025-01-05,2024-09-08,Hypertension,Tonya Strickland,General Medicine,6
+621,Patrick Lopez,Female,A-,2025-02-23,2024-06-23,Diabetes,Sharon Scott,Pediatrics,6
+622,Alexis Mosley,Female,AB-,2022-05-13,2024-02-28,Covid-19,Rose Gonzalez,General Medicine,6
+622,Alexis Mosley,Female,AB-,2024-11-08,2023-12-13,Diabetes,Crystal Gray DDS,Neurology,6
+622,Alexis Mosley,Female,AB-,2024-12-03,2025-02-13,Anemia,William Newman,General Medicine,6
+623,Judy Brooks,Female,A+,2023-06-06,2023-04-28,Asthma,Tanya Martinez,Cardiology,3
+624,Jennifer Crawford,Male,O-,2023-01-16,2025-01-08,Hypertension,Linda Patrick,Pediatrics,6
+624,Jennifer Crawford,Male,O-,2024-02-11,2024-09-21,Asthma,Carrie Smith,Cardiology,6
+624,Jennifer Crawford,Male,O-,2024-04-27,2023-06-10,Anemia,Dr. David Luna,General Medicine,6
+625,Ashley Gates,Female,A-,2022-06-09,2025-03-16,Diabetes,Ronald Cruz,Neurology,7
+625,Ashley Gates,Female,A-,2022-10-11,2024-03-19,Anemia,Todd Butler,Oncology,7
+625,Ashley Gates,Female,A-,2024-10-04,2024-05-25,Covid-19,Michael Aguilar,Neurology,7
+626,Terry Johnson,Male,AB+,2023-09-25,2024-09-25,Anemia,James Hutchinson,Neurology,4
+626,Terry Johnson,Male,AB+,2023-10-14,2024-08-06,Asthma,Daniel Stevenson,Oncology,4
+626,Terry Johnson,Male,AB+,2024-09-26,2024-08-29,Diabetes,Lisa Johnson,Neurology,4
+627,Matthew Poole,Female,A+,2022-05-07,2025-03-03,Hypertension,Amy Joseph,Oncology,3
+627,Matthew Poole,Female,A+,2023-03-18,2024-08-23,Diabetes,Sarah Gonzalez,General Medicine,3
+628,Caitlin Morris,Female,B-,2022-04-09,2024-01-23,Pneumonia,Dr. David Luna,General Medicine,6
+628,Caitlin Morris,Female,B-,2022-07-05,2023-05-01,Anemia,Alyssa Anderson,General Medicine,6
+628,Caitlin Morris,Female,B-,2023-06-15,2024-09-01,Diabetes,Reginald Wallace,Oncology,6
+629,Nicholas Lucero,Female,AB-,2022-04-12,2023-08-29,Asthma,Dr. David Luna,General Medicine,6
+629,Nicholas Lucero,Female,AB-,2023-07-10,2024-11-14,Diabetes,Daniel Perez,Oncology,6
+629,Nicholas Lucero,Female,AB-,2024-11-15,2023-09-08,Anemia,Hannah Diaz DDS,Pediatrics,6
+630,Margaret Riley,Male,A+,2022-03-29,2023-10-26,Asthma,James Lopez,Cardiology,5
+630,Margaret Riley,Male,A+,2024-09-09,2023-06-25,Asthma,John Garner,Cardiology,5
+630,Margaret Riley,Male,A+,2025-02-28,2025-02-18,Hypertension,Russell Thompson,General Medicine,5
+631,Isaiah Massey MD,Female,A-,2022-05-12,2025-02-04,Hypertension,Sheryl Bullock,Pediatrics,6
+631,Isaiah Massey MD,Female,A-,2023-09-16,2023-06-30,Asthma,Crystal Gray DDS,Neurology,6
+632,Adam White,Female,A-,2022-06-03,2024-04-21,Pneumonia,Kenneth Reed,Oncology,6
+632,Adam White,Female,A-,2023-02-21,2024-02-20,Hypertension,James Hutchinson,Neurology,6
+633,Allen Johnson,Male,A+,2023-06-09,2023-05-14,Anemia,Todd Butler,Oncology,2
+633,Allen Johnson,Male,A+,2024-10-30,2024-09-17,Anemia,Sheryl Bullock,Pediatrics,2
+634,Hannah Arnold,Male,AB-,2022-07-14,2024-05-19,Hypertension,Carrie Smith,Cardiology,2
+635,Tiffany Freeman,Female,B+,2022-08-17,2023-09-12,Hypertension,Todd Butler,Oncology,6
+635,Tiffany Freeman,Female,B+,2023-07-03,2024-07-23,Hypertension,Amy Joseph,Oncology,6
+635,Tiffany Freeman,Female,B+,2024-11-01,2025-02-28,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,6
+636,Tina King,Female,O-,2022-12-20,2024-05-21,Hypertension,Aimee Reeves,Oncology,5
+636,Tina King,Female,O-,2024-11-04,2024-07-15,Hypertension,Jill Grant,Neurology,5
+636,Tina King,Female,O-,2025-01-03,2023-12-11,Anemia,James Hutchinson,Neurology,5
+637,Jacqueline Chan,Female,AB+,2023-04-07,2025-02-28,Anemia,Kenneth Reed,Oncology,2
+637,Jacqueline Chan,Female,AB+,2023-10-03,2023-12-18,Hypertension,Reginald Wallace,Oncology,2
+638,Daniel Robinson,Female,O-,2023-10-26,2024-09-07,Covid-19,Michael Holt,Cardiology,1
+639,Jennifer Martinez MD,Male,O-,2022-11-07,2023-04-29,Asthma,Linda Patrick,Pediatrics,6
+639,Jennifer Martinez MD,Male,O-,2023-10-07,2024-01-20,Covid-19,Russell Thompson,General Medicine,6
+639,Jennifer Martinez MD,Male,O-,2024-08-21,2023-12-14,Asthma,Linda Foster,General Medicine,6
+640,Walter Johnson,Male,O-,2022-06-25,2024-02-04,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,4
+640,Walter Johnson,Male,O-,2022-07-12,2023-04-19,Anemia,Leslie Flynn,Neurology,4
+640,Walter Johnson,Male,O-,2024-04-19,2024-06-09,Diabetes,Aaron Young,General Medicine,4
+641,Jennifer Horton,Male,AB+,2024-09-07,2023-04-04,Anemia,Russell Thompson,General Medicine,1
+642,Nathaniel Burnett,Female,O+,2023-12-02,2024-06-10,Asthma,Aimee Reeves,Oncology,8
+642,Nathaniel Burnett,Female,O+,2024-01-19,2025-03-03,Asthma,Russell Thompson,General Medicine,8
+642,Nathaniel Burnett,Female,O+,2024-12-19,2023-04-08,Anemia,Mrs. Laura Lawson MD,Pediatrics,8
+643,Christopher Taylor,Male,O-,2022-07-17,2024-05-22,Asthma,Russell Thompson,General Medicine,2
+643,Christopher Taylor,Male,O-,2024-07-22,2023-05-09,Covid-19,John Garner,Cardiology,2
+644,Vanessa Morris,Male,B+,2023-11-15,2024-10-02,Diabetes,Kenneth Reed,Oncology,3
+645,Daniel Cardenas,Female,O+,2023-05-07,2023-04-28,Covid-19,Jill Grant,Neurology,4
+645,Daniel Cardenas,Female,O+,2024-02-05,2024-03-29,Covid-19,Amy Joseph,Oncology,4
+646,Janice Chavez,Female,B+,2023-04-04,2024-03-31,Hypertension,Lisa Johnson,Neurology,9
+646,Janice Chavez,Female,B+,2024-05-11,2023-10-18,Asthma,Sharon Scott,Pediatrics,9
+646,Janice Chavez,Female,B+,2025-03-09,2025-02-17,Pneumonia,Tiffany Calderon,Oncology,9
+647,Joel Adams,Male,O+,2022-10-05,2024-10-01,Anemia,Daniel Stevenson,Oncology,2
+647,Joel Adams,Male,O+,2025-03-07,2024-09-03,Pneumonia,Dr. David Luna,General Medicine,2
+648,Dominic Davis,Female,O-,2023-01-20,2024-06-09,Covid-19,Robert Howell,General Medicine,7
+648,Dominic Davis,Female,O-,2023-02-26,2024-08-20,Diabetes,Thomas Gutierrez,General Medicine,7
+648,Dominic Davis,Female,O-,2023-06-16,2023-11-18,Anemia,Bethany Leonard,Oncology,7
+649,Maria Haley,Male,A-,2023-03-09,2023-04-09,Pneumonia,Kenneth Reed,Oncology,4
+649,Maria Haley,Male,A-,2023-10-28,2025-01-22,Asthma,Michael Holt,Cardiology,4
+649,Maria Haley,Male,A-,2024-09-12,2024-09-17,Hypertension,Austin Scott,Cardiology,4
+650,Melissa Sullivan,Female,O-,2022-03-29,2024-01-23,Anemia,Carrie Smith,Cardiology,7
+650,Melissa Sullivan,Female,O-,2023-10-31,2024-11-03,Asthma,Aaron Young,General Medicine,7
+650,Melissa Sullivan,Female,O-,2024-04-25,2024-03-15,Diabetes,Victor Moore,Pediatrics,7
+651,Jonathan Graves,Male,O-,2022-11-24,2023-12-09,Asthma,Dr. David Luna,General Medicine,1
+652,William Ibarra,Female,B+,2023-02-26,2023-07-27,Covid-19,Todd Butler,Oncology,6
+652,William Ibarra,Female,B+,2023-08-16,2023-03-31,Pneumonia,Bethany Leonard,Oncology,6
+652,William Ibarra,Female,B+,2024-12-02,2023-12-20,Anemia,Tiffany Calderon,Oncology,6
+653,Carol Thomas,Male,O-,2022-04-11,2023-05-20,Asthma,Thomas Gutierrez,General Medicine,3
+653,Carol Thomas,Male,O-,2024-04-29,2023-09-06,Covid-19,Aimee Reeves,Oncology,3
+654,Ronald Turner,Female,B-,2023-04-25,2023-07-03,Hypertension,Aaron Young,General Medicine,9
+654,Ronald Turner,Female,B-,2023-11-04,2023-11-23,Anemia,Thomas Gutierrez,General Medicine,9
+654,Ronald Turner,Female,B-,2023-11-22,2023-08-14,Hypertension,Natalie Green,Pediatrics,9
+655,Patrick Lee,Male,B+,2023-04-24,2023-08-14,Pneumonia,Craig Herman,Oncology,4
+655,Patrick Lee,Male,B+,2023-06-12,2023-06-15,Pneumonia,James Lopez,Cardiology,4
+655,Patrick Lee,Male,B+,2024-03-07,2024-05-15,Pneumonia,Russell Thompson,General Medicine,4
+656,Kevin Miles,Male,A-,2024-09-14,2023-05-11,Hypertension,Hannah Diaz DDS,Pediatrics,1
+657,Kelly Roberts,Female,A-,2024-11-24,2023-08-17,Diabetes,Mrs. Laura Lawson MD,Pediatrics,2
+657,Kelly Roberts,Female,A-,2025-01-15,2024-06-11,Anemia,Victor Moore,Pediatrics,2
+658,Jeffrey Keller,Male,O-,2022-11-12,2023-09-10,Anemia,Sharon Scott,Pediatrics,8
+658,Jeffrey Keller,Male,O-,2023-03-03,2023-11-19,Diabetes,Alyssa Anderson,General Medicine,8
+658,Jeffrey Keller,Male,O-,2025-03-20,2024-11-19,Diabetes,Leslie Flynn,Neurology,8
+659,Christina Richards MD,Male,AB+,2023-08-21,2025-01-17,Covid-19,Russell Thompson,General Medicine,3
+660,Jeffrey Liu,Male,B+,2022-08-19,2023-05-18,Pneumonia,William Keith,Cardiology,1
+661,Lori Gardner,Male,B+,2022-04-17,2024-10-17,Hypertension,Kimberly Williams,Oncology,4
+661,Lori Gardner,Male,B+,2022-05-13,2024-06-10,Pneumonia,James Lopez,Cardiology,4
+662,Allison Wang,Female,A+,2022-05-25,2024-08-05,Pneumonia,Thomas Gutierrez,General Medicine,3
+662,Allison Wang,Female,A+,2024-01-09,2025-01-04,Hypertension,Ronald Cruz,Neurology,3
+663,Aaron Aguirre,Female,O-,2022-04-02,2024-07-31,Asthma,Tonya Strickland,General Medicine,7
+663,Aaron Aguirre,Female,O-,2023-09-29,2023-09-30,Pneumonia,Roger Morris,Neurology,7
+663,Aaron Aguirre,Female,O-,2025-02-08,2023-04-30,Diabetes,Aaron Young,General Medicine,7
+664,Kevin Dixon,Male,AB-,2023-12-28,2024-04-24,Covid-19,Todd Butler,Oncology,5
+664,Kevin Dixon,Male,AB-,2024-07-12,2024-05-29,Covid-19,Sarah Gonzalez,General Medicine,5
+665,Taylor Shaffer,Female,AB-,2022-04-15,2023-07-20,Hypertension,Lisa Johnson,Neurology,3
+665,Taylor Shaffer,Female,AB-,2023-04-22,2023-09-29,Pneumonia,Ronald Cruz,Neurology,3
+666,Jonathan Myers,Male,B-,2022-09-22,2023-06-01,Anemia,Gerald Martin,Pediatrics,7
+666,Jonathan Myers,Male,B-,2023-11-11,2024-01-23,Pneumonia,Michael Holt,Cardiology,7
+666,Jonathan Myers,Male,B-,2024-02-12,2023-09-11,Covid-19,Michael Holt,Cardiology,7
+667,Patrick Allen,Female,AB-,2022-04-04,2023-10-29,Covid-19,Michael Holt,Cardiology,5
+667,Patrick Allen,Female,AB-,2022-10-22,2024-07-15,Pneumonia,Alyssa Anderson,General Medicine,5
+668,Robert Hernandez,Male,O-,2024-03-03,2023-12-09,Hypertension,Lisa Johnson,Neurology,5
+668,Robert Hernandez,Male,O-,2025-02-10,2023-12-09,Anemia,Tonya Strickland,General Medicine,5
+669,Judy Smith,Female,AB-,2024-08-14,2024-05-30,Asthma,Thomas Gutierrez,General Medicine,1
+670,Rachel Ramirez,Female,AB+,2023-08-09,2025-01-18,Asthma,Austin Scott,Cardiology,6
+670,Rachel Ramirez,Female,AB+,2024-07-15,2024-03-09,Asthma,Kenneth Reed,Oncology,6
+671,Sandra Jones,Female,B+,2024-08-19,2025-01-21,Covid-19,Reginald Wallace,Oncology,1
+672,David Johnson,Male,B+,2023-01-08,2023-06-01,Asthma,Tonya Strickland,General Medicine,1
+673,Jeffrey Mitchell,Female,A+,2022-12-15,2024-06-27,Diabetes,Lisa Johnson,Neurology,6
+673,Jeffrey Mitchell,Female,A+,2024-10-02,2024-11-12,Anemia,Craig Herman,Oncology,6
+674,Sharon Peterson,Female,O-,2022-12-10,2024-01-25,Anemia,Sharon Scott,Pediatrics,2
+674,Sharon Peterson,Female,O-,2024-01-11,2023-11-22,Diabetes,Kimberly Williams,Oncology,2
+675,James Jones,Male,A-,2022-06-05,2023-09-20,Hypertension,Gerald Martin,Pediatrics,6
+675,James Jones,Male,A-,2023-04-02,2024-02-13,Covid-19,Reginald Wallace,Oncology,6
+676,Todd Nielsen,Female,A-,2022-12-28,2024-12-03,Anemia,John Garner,Cardiology,4
+676,Todd Nielsen,Female,A-,2025-01-30,2024-12-08,Anemia,Jill Grant,Neurology,4
+677,Stephanie Aguilar,Male,O+,2022-04-07,2025-02-09,Hypertension,James Lopez,Cardiology,4
+677,Stephanie Aguilar,Male,O+,2025-03-07,2023-07-12,Pneumonia,Lynn Patrick,Cardiology,4
+678,Robert Elliott DDS,Female,B+,2023-01-08,2023-05-24,Anemia,William Keith,Cardiology,7
+678,Robert Elliott DDS,Female,B+,2023-09-25,2024-05-02,Asthma,Michael Aguilar,Neurology,7
+678,Robert Elliott DDS,Female,B+,2024-03-04,2024-01-06,Anemia,Robert Howell,General Medicine,7
+679,Marie Reynolds,Female,A-,2022-05-02,2024-09-14,Pneumonia,Craig Herman,Oncology,7
+679,Marie Reynolds,Female,A-,2023-04-26,2024-03-17,Covid-19,James Lopez,Cardiology,7
+679,Marie Reynolds,Female,A-,2024-03-13,2025-02-13,Covid-19,Rose Gonzalez,General Medicine,7
+680,James Martinez,Male,AB-,2022-03-26,2025-02-26,Covid-19,Aimee Reeves,Oncology,4
+680,James Martinez,Male,AB-,2024-10-05,2023-06-30,Pneumonia,Bethany Leonard,Oncology,4
+681,Crystal Burgess,Female,A+,2022-08-13,2024-12-06,Hypertension,Victor Moore,Pediatrics,3
+681,Crystal Burgess,Female,A+,2024-02-14,2023-06-21,Hypertension,Kenneth Reed,Oncology,3
+682,Gregory Rios,Female,A+,2023-09-10,2025-01-06,Diabetes,Bethany Leonard,Oncology,2
+683,Teresa Deleon,Female,O-,2022-12-01,2023-09-16,Covid-19,Sarah Gonzalez,General Medicine,7
+683,Teresa Deleon,Female,O-,2022-12-31,2023-08-18,Covid-19,Craig Herman,Oncology,7
+683,Teresa Deleon,Female,O-,2024-07-27,2023-03-29,Asthma,Thomas Gutierrez,General Medicine,7
+684,Chad Daugherty,Male,AB+,2022-12-11,2023-06-09,Hypertension,Natalie Green,Pediatrics,3
+684,Chad Daugherty,Male,AB+,2024-01-24,2024-09-19,Asthma,Jill Grant,Neurology,3
+685,James Wilcox,Male,O-,2024-12-24,2024-12-01,Diabetes,Lisa Johnson,Neurology,1
+686,Cody Jordan,Male,A+,2024-10-24,2024-10-08,Asthma,Mrs. Laura Lawson MD,Pediatrics,3
+687,Tanya Goodwin,Female,A-,2022-07-07,2023-12-23,Pneumonia,Thomas Gutierrez,General Medicine,5
+687,Tanya Goodwin,Female,A-,2025-01-13,2023-08-04,Pneumonia,Ronald Cruz,Neurology,5
+688,Julie Riddle,Female,B+,2024-06-16,2024-11-24,Diabetes,Michael Aguilar,Neurology,3
+689,Heidi Hopkins,Male,A+,2022-10-04,2024-05-03,Anemia,Reginald Wallace,Oncology,2
+690,Karen Richard,Female,AB-,2024-08-30,2025-02-28,Anemia,Micheal Johnson,Cardiology,1
+691,Christopher Pitts,Male,AB-,2022-03-31,2024-09-08,Pneumonia,Sarah Gonzalez,General Medicine,3
+691,Christopher Pitts,Male,AB-,2024-04-22,2024-10-06,Asthma,Linda Patrick,Pediatrics,3
+692,Miguel Green,Female,A+,2023-10-14,2024-06-06,Diabetes,Micheal Johnson,Cardiology,3
+693,Cynthia Nguyen,Male,A+,2022-08-18,2024-02-24,Asthma,Leslie Flynn,Neurology,3
+694,Andrew Conrad,Female,B-,2022-09-06,2024-11-14,Covid-19,Victor Moore,Pediatrics,4
+694,Andrew Conrad,Female,B-,2022-09-15,2024-04-18,Hypertension,Tanya Martinez,Cardiology,4
+695,Amanda Barber,Male,AB+,2024-02-01,2023-09-05,Anemia,Russell Thompson,General Medicine,2
+696,Cory Johnston,Male,O+,2024-07-03,2024-01-07,Pneumonia,Trevor Foster,General Medicine,2
+697,Lisa Cole,Male,O+,2023-08-23,2024-05-25,Anemia,Robert Howell,General Medicine,3
+698,Bruce Ortiz,Male,A+,2024-07-27,2023-05-27,Diabetes,Aimee Reeves,Oncology,2
+699,Michelle Harrison,Male,AB+,2024-09-24,2025-02-06,Pneumonia,Sarah Gonzalez,General Medicine,3
+700,James Hawkins,Female,A-,2023-07-24,2024-06-08,Pneumonia,Alyssa Anderson,General Medicine,2
+701,John Taylor,Male,AB-,2024-03-14,2024-09-11,Anemia,Tanya Martinez,Cardiology,1
+702,Anne Evans,Male,B-,2022-08-18,2024-01-15,Diabetes,Linda Foster,General Medicine,8
+702,Anne Evans,Male,B-,2024-03-24,2023-08-02,Asthma,Kimberly Williams,Oncology,8
+702,Anne Evans,Male,B-,2025-03-22,2024-09-11,Pneumonia,Aaron Young,General Medicine,8
+703,Tiffany Williams,Male,O+,2022-06-02,2024-09-25,Asthma,Trevor Foster,General Medicine,5
+703,Tiffany Williams,Male,O+,2022-06-11,2024-10-27,Pneumonia,Tanya Martinez,Cardiology,5
+703,Tiffany Williams,Male,O+,2024-08-04,2024-04-29,Covid-19,John Garner,Cardiology,5
+704,Mr. Christopher Crosby,Female,A+,2023-03-27,2024-03-30,Pneumonia,Leslie Flynn,Neurology,3
+704,Mr. Christopher Crosby,Female,A+,2023-09-03,2025-03-06,Asthma,Jill Grant,Neurology,3
+705,Ronnie Johnson,Female,B-,2024-07-03,2024-11-08,Hypertension,Trevor Foster,General Medicine,2
+706,Wendy Dennis,Female,B+,2023-02-23,2023-05-16,Hypertension,Reginald Wallace,Oncology,7
+706,Wendy Dennis,Female,B+,2024-07-22,2024-01-10,Covid-19,Todd Butler,Oncology,7
+706,Wendy Dennis,Female,B+,2025-03-15,2024-07-06,Asthma,James Hutchinson,Neurology,7
+707,Timothy Bauer,Male,O-,2024-10-25,2023-07-23,Hypertension,Bob Bridges,General Medicine,2
+708,John Lopez,Male,A+,2024-05-22,2025-02-27,Covid-19,Roger Morris,Neurology,2
+709,Dennis James,Female,AB-,2022-12-17,2024-12-08,Hypertension,Gerald Martin,Pediatrics,6
+709,Dennis James,Female,AB-,2024-05-23,2023-10-25,Diabetes,Sheryl Bullock,Pediatrics,6
+709,Dennis James,Female,AB-,2024-09-13,2024-03-31,Pneumonia,Tanya Martinez,Cardiology,6
+710,Kimberly Phillips,Male,AB+,2023-08-22,2025-02-07,Anemia,Aaron Young,General Medicine,2
+711,Hannah Sanders,Female,O+,2023-07-21,2025-01-25,Covid-19,Amy Joseph,Oncology,3
+712,Jennifer Lamb,Male,O-,2022-06-15,2024-08-16,Pneumonia,Rose Gonzalez,General Medicine,3
+712,Jennifer Lamb,Male,O-,2022-08-21,2024-04-27,Diabetes,Leslie Flynn,Neurology,3
+713,Ashley Donaldson,Male,O-,2022-10-25,2023-08-02,Hypertension,Tiffany Calderon,Oncology,3
+713,Ashley Donaldson,Male,O-,2024-04-03,2023-07-29,Covid-19,Craig Herman,Oncology,3
+714,Victoria Massey,Male,A-,2022-03-26,2023-05-05,Anemia,Ronald Cruz,Neurology,2
+715,Raven Williams,Female,B+,2022-12-25,2024-05-26,Covid-19,Dr. David Luna,General Medicine,2
+716,Patrick Weaver,Male,O-,2022-10-09,2024-07-22,Diabetes,Jill Grant,Neurology,6
+716,Patrick Weaver,Male,O-,2023-02-20,2024-07-14,Asthma,Rose Gonzalez,General Medicine,6
+716,Patrick Weaver,Male,O-,2023-06-25,2024-05-14,Pneumonia,Thomas Gutierrez,General Medicine,6
+717,Dale Baker,Female,B+,2022-06-24,2023-10-06,Diabetes,Russell Thompson,General Medicine,5
+717,Dale Baker,Female,B+,2023-03-15,2023-07-08,Asthma,Robert Howell,General Medicine,5
+717,Dale Baker,Female,B+,2025-01-17,2023-07-23,Hypertension,Linda Foster,General Medicine,5
+718,Michael Hunter,Female,AB-,2022-08-09,2023-10-26,Anemia,Lynn Patrick,Cardiology,4
+718,Michael Hunter,Female,AB-,2023-06-01,2024-04-06,Asthma,John Garner,Cardiology,4
+719,Jillian Woods,Male,B+,2022-10-15,2025-03-12,Covid-19,Max Diaz,Neurology,5
+719,Jillian Woods,Male,B+,2023-02-16,2024-10-12,Covid-19,Jill Grant,Neurology,5
+719,Jillian Woods,Male,B+,2023-06-01,2024-08-14,Anemia,Craig Herman,Oncology,5
+720,Kara Sharp,Male,AB-,2022-09-11,2023-05-15,Asthma,Sarah Gonzalez,General Medicine,4
+720,Kara Sharp,Male,AB-,2024-06-17,2024-10-25,Pneumonia,Dr. David Luna,General Medicine,4
+721,Nicole Norton,Male,O+,2023-01-23,2024-09-19,Anemia,Austin Scott,Cardiology,6
+721,Nicole Norton,Male,O+,2024-01-08,2023-12-29,Hypertension,John Garner,Cardiology,6
+721,Nicole Norton,Male,O+,2024-09-06,2024-07-04,Covid-19,Victor Moore,Pediatrics,6
+722,Paul Martin,Male,A+,2022-04-09,2024-08-28,Covid-19,Russell Thompson,General Medicine,6
+722,Paul Martin,Male,A+,2022-10-07,2024-10-16,Anemia,Sheryl Bullock,Pediatrics,6
+723,Bruce Forbes,Male,A+,2024-11-23,2024-10-15,Pneumonia,Sharon Scott,Pediatrics,1
+724,Timothy Ho,Female,O+,2022-04-14,2023-07-02,Pneumonia,Robert Howell,General Medicine,7
+724,Timothy Ho,Female,O+,2022-05-20,2024-07-29,Diabetes,Max Diaz,Neurology,7
+724,Timothy Ho,Female,O+,2023-02-10,2023-05-03,Asthma,Crystal Gray DDS,Neurology,7
+725,Abigail Miles MD,Female,AB-,2023-02-28,2025-01-15,Covid-19,William Newman,General Medicine,5
+725,Abigail Miles MD,Female,AB-,2023-05-29,2025-03-21,Asthma,James Lopez,Cardiology,5
+725,Abigail Miles MD,Female,AB-,2025-03-10,2023-07-18,Diabetes,Linda Foster,General Medicine,5
+726,Sophia Cooper,Female,A+,2022-10-14,2023-07-04,Covid-19,Jill Grant,Neurology,3
+726,Sophia Cooper,Female,A+,2024-02-04,2024-04-14,Anemia,Amy Joseph,Oncology,3
+727,Christian Cross,Male,O+,2022-09-01,2023-09-30,Pneumonia,Kenneth Reed,Oncology,6
+727,Christian Cross,Male,O+,2022-10-08,2024-09-15,Asthma,Bethany Leonard,Oncology,6
+727,Christian Cross,Male,O+,2023-10-03,2025-01-13,Covid-19,Austin Scott,Cardiology,6
+728,Aaron Hall,Female,A+,2023-01-20,2023-04-26,Pneumonia,Alyssa Anderson,General Medicine,4
+728,Aaron Hall,Female,A+,2023-10-25,2024-10-02,Diabetes,Trevor Foster,General Medicine,4
+729,Jessica Ortega,Female,O+,2022-10-13,2024-04-18,Hypertension,Roger Morris,Neurology,3
+730,Theresa Bass,Male,O-,2022-08-17,2024-02-12,Hypertension,Roger Morris,Neurology,2
+731,Jacob Owens,Female,AB+,2023-08-28,2025-02-10,Hypertension,Linda Patrick,Pediatrics,3
+732,Eric Davis,Female,AB+,2022-06-06,2024-02-04,Covid-19,Roger Morris,Neurology,3
+733,Tanya Osborn,Female,B+,2023-01-25,2023-03-27,Covid-19,Linda Patrick,Pediatrics,5
+733,Tanya Osborn,Female,B+,2023-04-22,2024-01-26,Pneumonia,Robert Howell,General Medicine,5
+733,Tanya Osborn,Female,B+,2025-02-16,2024-12-24,Pneumonia,Crystal Gray DDS,Neurology,5
+734,Ryan Brown,Female,AB-,2022-06-22,2023-12-17,Diabetes,Russell Thompson,General Medicine,6
+734,Ryan Brown,Female,AB-,2024-02-06,2024-03-13,Pneumonia,Gerald Martin,Pediatrics,6
+734,Ryan Brown,Female,AB-,2024-10-04,2023-09-20,Hypertension,Sheryl Bullock,Pediatrics,6
+735,Jennifer Monroe,Female,O+,2024-03-07,2023-12-26,Hypertension,Reginald Wallace,Oncology,2
+736,Melissa Ortiz,Male,AB+,2023-12-03,2025-02-23,Diabetes,Linda Patrick,Pediatrics,6
+736,Melissa Ortiz,Male,AB+,2024-09-18,2023-06-07,Pneumonia,Sarah Gonzalez,General Medicine,6
+736,Melissa Ortiz,Male,AB+,2024-10-29,2024-05-15,Asthma,Leslie Flynn,Neurology,6
+737,Catherine Miller,Male,AB+,2022-04-29,2024-08-12,Covid-19,Leslie Flynn,Neurology,3
+737,Catherine Miller,Male,AB+,2022-07-13,2024-09-06,Pneumonia,Sheryl Bullock,Pediatrics,3
+737,Catherine Miller,Male,AB+,2023-03-08,2023-07-05,Anemia,Aimee Reeves,Oncology,3
+738,Nancy Collins,Male,O+,2022-08-11,2024-02-10,Diabetes,Linda Foster,General Medicine,5
+738,Nancy Collins,Male,O+,2022-12-01,2024-07-01,Diabetes,Alyssa Anderson,General Medicine,5
+739,Jeffrey Davis,Female,A-,2025-02-17,2025-02-08,Hypertension,Victor Moore,Pediatrics,2
+739,Jeffrey Davis,Female,A-,2025-02-22,2024-10-21,Diabetes,Alyssa Anderson,General Medicine,2
+740,Jessica Brewer DDS,Male,O-,2022-07-17,2024-03-23,Hypertension,Linda Foster,General Medicine,3
+741,Thomas Holmes,Female,O+,2022-11-27,2024-06-19,Hypertension,William Newman,General Medicine,4
+741,Thomas Holmes,Female,O+,2023-07-01,2024-01-12,Hypertension,Robert Howell,General Medicine,4
+741,Thomas Holmes,Female,O+,2024-10-24,2023-04-25,Covid-19,Jill Grant,Neurology,4
+742,Lori Booth,Female,AB+,2022-05-09,2023-10-15,Anemia,John Garner,Cardiology,8
+742,Lori Booth,Female,AB+,2022-09-26,2024-11-23,Pneumonia,John Garner,Cardiology,8
+742,Lori Booth,Female,AB+,2024-06-26,2023-09-10,Hypertension,Michael Holt,Cardiology,8
+743,Nicole Gonzales,Male,AB-,2023-04-14,2025-01-07,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,7
+743,Nicole Gonzales,Male,AB-,2023-05-27,2023-05-15,Anemia,Amy Joseph,Oncology,7
+743,Nicole Gonzales,Male,AB-,2024-07-12,2024-12-21,Asthma,Carrie Smith,Cardiology,7
+744,Timothy Young,Female,AB-,2022-11-14,2024-06-07,Covid-19,Max Diaz,Neurology,7
+744,Timothy Young,Female,AB-,2023-11-23,2023-07-28,Hypertension,Mrs. Laura Lawson MD,Pediatrics,7
+744,Timothy Young,Female,AB-,2024-11-12,2024-01-19,Anemia,William Newman,General Medicine,7
+745,Traci Bender,Male,O-,2022-07-29,2024-12-06,Asthma,Daniel Stevenson,Oncology,5
+745,Traci Bender,Male,O-,2023-02-03,2025-03-23,Hypertension,William Newman,General Medicine,5
+746,Aaron Hernandez,Female,O+,2022-09-25,2024-02-14,Anemia,Gerald Martin,Pediatrics,5
+746,Aaron Hernandez,Female,O+,2024-04-19,2023-04-04,Asthma,Tonya Strickland,General Medicine,5
+746,Aaron Hernandez,Female,O+,2024-05-11,2023-05-07,Asthma,John Garner,Cardiology,5
+747,John Mcdaniel,Male,A-,2023-10-15,2024-02-03,Pneumonia,Kenneth Reed,Oncology,4
+747,John Mcdaniel,Male,A-,2024-08-06,2025-02-09,Pneumonia,James Hutchinson,Neurology,4
+748,Stephanie Weiss,Female,O-,2023-10-18,2025-01-06,Hypertension,Gerald Martin,Pediatrics,4
+748,Stephanie Weiss,Female,O-,2024-01-02,2025-01-06,Covid-19,Carrie Smith,Cardiology,4
+749,April Greene,Male,A+,2023-11-25,2024-03-16,Covid-19,Robert Howell,General Medicine,3
+750,Christopher Hernandez,Male,AB-,2022-05-27,2024-01-16,Asthma,Russell Thompson,General Medicine,7
+750,Christopher Hernandez,Male,AB-,2023-03-23,2024-09-19,Anemia,Thomas Gutierrez,General Medicine,7
+750,Christopher Hernandez,Male,AB-,2023-11-27,2025-03-16,Diabetes,Bob Bridges,General Medicine,7
+751,Alexandria Flores,Male,B+,2022-11-17,2023-05-29,Asthma,Roger Morris,Neurology,4
+751,Alexandria Flores,Male,B+,2023-11-26,2023-12-31,Hypertension,Alyssa Anderson,General Medicine,4
+751,Alexandria Flores,Male,B+,2024-08-26,2024-04-25,Diabetes,Gerald Martin,Pediatrics,4
+752,Sarah Bonilla,Male,B-,2023-07-08,2024-06-18,Hypertension,Michael Aguilar,Neurology,4
+752,Sarah Bonilla,Male,B-,2023-10-07,2023-05-10,Asthma,Reginald Wallace,Oncology,4
+753,Lisa Brennan,Female,O-,2023-04-24,2023-11-13,Covid-19,Todd Butler,Oncology,6
+753,Lisa Brennan,Female,O-,2023-06-13,2024-11-18,Pneumonia,Natalie Green,Pediatrics,6
+754,Michael Wang,Female,A+,2023-11-23,2023-08-24,Diabetes,Mrs. Laura Lawson MD,Pediatrics,5
+754,Michael Wang,Female,A+,2024-02-08,2024-02-23,Hypertension,Carrie Smith,Cardiology,5
+754,Michael Wang,Female,A+,2025-01-07,2023-04-22,Covid-19,John Garner,Cardiology,5
+755,Heather Johnson,Male,AB-,2024-10-19,2024-11-12,Asthma,Ronald Cruz,Neurology,2
+755,Heather Johnson,Male,AB-,2025-02-20,2023-11-17,Hypertension,Tonya Strickland,General Medicine,2
+756,Melissa Sanchez,Female,O-,2023-01-11,2024-10-02,Hypertension,Daniel Perez,Oncology,3
+756,Melissa Sanchez,Female,O-,2023-03-09,2024-06-07,Asthma,Michael Aguilar,Neurology,3
+757,Alex Clements,Female,A-,2022-04-07,2023-11-14,Covid-19,Bob Bridges,General Medicine,4
+757,Alex Clements,Female,A-,2024-01-01,2023-12-17,Covid-19,William Keith,Cardiology,4
+758,Timothy Hill,Male,O-,2024-12-24,2024-07-06,Diabetes,Linda Foster,General Medicine,3
+759,Joel Tyler,Female,O-,2022-10-12,2025-01-10,Pneumonia,Craig Herman,Oncology,5
+759,Joel Tyler,Female,O-,2023-10-31,2023-08-01,Anemia,Dr. David Luna,General Medicine,5
+759,Joel Tyler,Female,O-,2024-02-27,2023-08-19,Anemia,Max Diaz,Neurology,5
+760,Justin Cooper,Female,B-,2022-09-23,2023-06-01,Pneumonia,Roger Morris,Neurology,8
+760,Justin Cooper,Female,B-,2022-10-20,2024-02-24,Asthma,Tiffany Calderon,Oncology,8
+760,Justin Cooper,Female,B-,2022-12-12,2024-01-18,Covid-19,Mrs. Laura Lawson MD,Pediatrics,8
+761,Haley Clark,Male,A+,2023-04-26,2023-09-09,Diabetes,Sharon Scott,Pediatrics,6
+761,Haley Clark,Male,A+,2023-06-27,2023-07-17,Diabetes,Robert Howell,General Medicine,6
+761,Haley Clark,Male,A+,2023-12-23,2024-08-22,Asthma,Sharon Scott,Pediatrics,6
+762,Phillip Potter,Male,AB-,2022-10-24,2025-03-08,Anemia,James Hutchinson,Neurology,4
+762,Phillip Potter,Male,AB-,2023-09-09,2025-03-24,Hypertension,Trevor Foster,General Medicine,4
+763,Willie Duncan,Female,A-,2023-05-13,2024-08-29,Pneumonia,Sharon Scott,Pediatrics,7
+763,Willie Duncan,Female,A-,2025-01-04,2024-05-28,Covid-19,Tiffany Calderon,Oncology,7
+763,Willie Duncan,Female,A-,2025-03-09,2023-11-28,Pneumonia,Reginald Wallace,Oncology,7
+764,Mary Mcdaniel,Female,O+,2022-11-15,2023-06-11,Asthma,Leslie Flynn,Neurology,3
+764,Mary Mcdaniel,Female,O+,2025-02-12,2024-04-27,Diabetes,Alyssa Anderson,General Medicine,3
+765,Ronald Hines,Female,B-,2022-05-25,2024-05-12,Asthma,Austin Scott,Cardiology,3
+765,Ronald Hines,Female,B-,2024-05-30,2024-07-31,Covid-19,Lisa Johnson,Neurology,3
+766,Kathy Miller,Female,AB-,2022-08-24,2024-10-19,Pneumonia,Amy Joseph,Oncology,5
+766,Kathy Miller,Female,AB-,2024-04-28,2024-06-28,Hypertension,Craig Herman,Oncology,5
+766,Kathy Miller,Female,AB-,2025-02-24,2024-07-16,Diabetes,Austin Scott,Cardiology,5
+767,Candice Wood,Male,A-,2023-12-18,2023-07-17,Covid-19,Carrie Smith,Cardiology,4
+767,Candice Wood,Male,A-,2024-11-16,2025-03-16,Covid-19,Thomas Gutierrez,General Medicine,4
+768,Larry Fritz,Male,A-,2024-12-12,2023-09-27,Anemia,Michael Aguilar,Neurology,1
+769,Jason Green,Female,B+,2022-08-03,2024-08-17,Asthma,Ronald Cruz,Neurology,5
+769,Jason Green,Female,B+,2023-07-21,2025-02-26,Hypertension,Bob Bridges,General Medicine,5
+770,Mitchell Hunt,Female,A-,2024-10-13,2024-06-10,Covid-19,Tanya Martinez,Cardiology,1
+771,Christine Davis,Female,O-,2023-01-31,2024-06-01,Anemia,William Keith,Cardiology,5
+771,Christine Davis,Female,O-,2023-05-08,2023-09-12,Asthma,Bob Bridges,General Medicine,5
+771,Christine Davis,Female,O-,2025-02-17,2024-01-14,Covid-19,Leslie Flynn,Neurology,5
+772,Brittany Roberts,Male,O+,2022-10-19,2024-10-04,Covid-19,Tanya Martinez,Cardiology,4
+772,Brittany Roberts,Male,O+,2023-03-31,2025-02-11,Hypertension,Ronald Cruz,Neurology,4
+772,Brittany Roberts,Male,O+,2023-09-02,2024-12-09,Pneumonia,James Hutchinson,Neurology,4
+773,Shannon Scott,Female,B+,2023-06-05,2024-03-17,Anemia,Linda Patrick,Pediatrics,1
+774,Carolyn Cooper,Male,O-,2022-06-22,2024-01-02,Covid-19,Aimee Reeves,Oncology,9
+774,Carolyn Cooper,Male,O-,2023-01-08,2025-02-12,Hypertension,Carrie Smith,Cardiology,9
+774,Carolyn Cooper,Male,O-,2023-10-13,2024-08-23,Covid-19,John Garner,Cardiology,9
+775,Mr. Michael Brown,Male,A-,2024-06-27,2023-09-24,Diabetes,James Lopez,Cardiology,2
+776,Andrew Sims,Male,B+,2023-03-09,2023-10-01,Anemia,Sharon Scott,Pediatrics,5
+776,Andrew Sims,Male,B+,2023-05-04,2023-08-29,Pneumonia,Dr. David Luna,General Medicine,5
+777,Mitchell Thompson,Male,AB-,2022-05-17,2024-12-12,Diabetes,William Keith,Cardiology,8
+777,Mitchell Thompson,Male,AB-,2022-07-23,2023-05-25,Asthma,James Hutchinson,Neurology,8
+777,Mitchell Thompson,Male,AB-,2025-02-28,2023-09-28,Anemia,William Newman,General Medicine,8
+778,Joshua Harrington,Male,O-,2023-10-14,2025-01-11,Asthma,Jill Grant,Neurology,3
+778,Joshua Harrington,Male,O-,2025-01-26,2024-05-08,Covid-19,Tonya Strickland,General Medicine,3
+779,Lauren Callahan,Female,AB-,2022-05-07,2024-01-09,Asthma,Aaron Young,General Medicine,8
+779,Lauren Callahan,Female,AB-,2023-05-13,2024-01-06,Anemia,Crystal Gray DDS,Neurology,8
+779,Lauren Callahan,Female,AB-,2024-05-08,2024-02-03,Asthma,Natalie Green,Pediatrics,8
+780,Tiffany Evans,Male,A-,2023-11-21,2025-03-05,Hypertension,Roger Morris,Neurology,7
+780,Tiffany Evans,Male,A-,2024-03-19,2024-11-18,Anemia,Austin Scott,Cardiology,7
+780,Tiffany Evans,Male,A-,2025-02-28,2024-06-04,Pneumonia,Jill Grant,Neurology,7
+781,William Ruiz,Male,O+,2024-05-08,2023-12-06,Diabetes,William Keith,Cardiology,2
+781,William Ruiz,Male,O+,2025-02-05,2023-10-19,Pneumonia,Austin Scott,Cardiology,2
+782,Cindy Shaw,Female,AB-,2023-05-15,2024-10-05,Diabetes,Bethany Leonard,Oncology,7
+782,Cindy Shaw,Female,AB-,2024-02-27,2024-01-30,Hypertension,Leslie Flynn,Neurology,7
+782,Cindy Shaw,Female,AB-,2024-09-21,2024-09-28,Hypertension,Crystal Gray DDS,Neurology,7
+783,Jose Wells,Female,AB+,2023-01-28,2023-12-30,Anemia,Kimberly Williams,Oncology,4
+783,Jose Wells,Female,AB+,2024-12-06,2023-12-10,Diabetes,Craig Herman,Oncology,4
+784,Abigail Case,Male,B+,2023-04-01,2024-02-27,Asthma,Natalie Green,Pediatrics,3
+784,Abigail Case,Male,B+,2023-10-21,2024-06-05,Pneumonia,Hannah Diaz DDS,Pediatrics,3
+785,Nancy Salinas,Female,A-,2023-05-19,2024-01-24,Covid-19,Lisa Johnson,Neurology,6
+785,Nancy Salinas,Female,A-,2023-11-15,2025-03-17,Asthma,Rose Gonzalez,General Medicine,6
+785,Nancy Salinas,Female,A-,2024-03-27,2025-01-18,Hypertension,Hannah Diaz DDS,Pediatrics,6
+786,Ms. Amy Brown,Female,AB-,2022-07-01,2024-02-22,Pneumonia,Craig Herman,Oncology,7
+786,Ms. Amy Brown,Female,AB-,2024-05-14,2024-01-15,Hypertension,Linda Foster,General Medicine,7
+786,Ms. Amy Brown,Female,AB-,2024-10-03,2024-11-17,Covid-19,Tanya Martinez,Cardiology,7
+787,Kristina Gonzales,Female,B+,2022-07-25,2023-08-09,Diabetes,Alyssa Anderson,General Medicine,8
+787,Kristina Gonzales,Female,B+,2023-02-12,2025-02-25,Anemia,Natalie Green,Pediatrics,8
+787,Kristina Gonzales,Female,B+,2023-06-03,2023-07-01,Pneumonia,Daniel Perez,Oncology,8
+788,Jill Wilkerson,Male,B+,2023-09-09,2023-11-01,Diabetes,Aaron Young,General Medicine,5
+788,Jill Wilkerson,Male,B+,2023-10-20,2023-04-11,Hypertension,Bethany Leonard,Oncology,5
+789,Rebecca Decker,Female,A+,2022-04-06,2024-06-11,Anemia,Leslie Flynn,Neurology,6
+789,Rebecca Decker,Female,A+,2023-08-22,2025-03-12,Diabetes,Tiffany Calderon,Oncology,6
+789,Rebecca Decker,Female,A+,2024-07-03,2024-09-16,Asthma,Crystal Gray DDS,Neurology,6
+790,Phyllis Schmidt,Male,B+,2024-11-09,2025-03-06,Pneumonia,Robert Howell,General Medicine,1
+791,Angel Holland,Female,B+,2022-08-07,2024-12-16,Diabetes,Sheryl Bullock,Pediatrics,5
+791,Angel Holland,Female,B+,2023-07-13,2024-04-22,Pneumonia,William Newman,General Medicine,5
+792,David Walker,Male,O-,2023-09-06,2023-08-15,Pneumonia,Bethany Leonard,Oncology,1
+793,Terry Williams,Male,O-,2022-11-01,2023-11-30,Pneumonia,Daniel Stevenson,Oncology,3
+793,Terry Williams,Male,O-,2023-12-04,2024-06-29,Anemia,Michael Aguilar,Neurology,3
+794,Crystal Gillespie PhD,Female,A-,2023-10-22,2024-06-14,Anemia,Dr. David Luna,General Medicine,1
+795,Daniel James,Female,B-,2023-07-07,2025-01-08,Hypertension,Max Diaz,Neurology,8
+795,Daniel James,Female,B-,2023-11-07,2024-01-27,Diabetes,Lisa Johnson,Neurology,8
+795,Daniel James,Female,B-,2024-02-16,2023-08-13,Anemia,Daniel Stevenson,Oncology,8
+796,Emily Lee,Female,B+,2022-09-16,2025-01-15,Diabetes,Lynn Patrick,Cardiology,7
+796,Emily Lee,Female,B+,2023-04-01,2023-04-04,Hypertension,Roger Morris,Neurology,7
+796,Emily Lee,Female,B+,2024-02-27,2025-01-28,Asthma,Alyssa Anderson,General Medicine,7
+797,Jessica Abbott,Female,A-,2023-04-01,2024-01-04,Hypertension,Aimee Reeves,Oncology,4
+797,Jessica Abbott,Female,A-,2023-05-28,2023-07-09,Anemia,Linda Patrick,Pediatrics,4
+798,Bethany Moore,Male,B+,2024-09-24,2023-06-25,Pneumonia,Tonya Strickland,General Medicine,2
+799,Tim Buchanan,Male,O-,2023-05-11,2023-08-13,Pneumonia,Tonya Strickland,General Medicine,5
+799,Tim Buchanan,Male,O-,2023-11-12,2023-06-28,Hypertension,Kimberly Williams,Oncology,5
+800,Amber Bennett,Male,A+,2023-06-12,2023-05-04,Diabetes,Todd Butler,Oncology,8
+800,Amber Bennett,Male,A+,2024-12-29,2024-05-20,Diabetes,Robert Howell,General Medicine,8
+800,Amber Bennett,Male,A+,2025-01-25,2023-10-16,Asthma,Michael Holt,Cardiology,8
+801,Kimberly Taylor,Male,A+,2022-11-24,2025-03-24,Pneumonia,Bob Bridges,General Medicine,6
+801,Kimberly Taylor,Male,A+,2023-04-13,2024-11-29,Asthma,Austin Scott,Cardiology,6
+801,Kimberly Taylor,Male,A+,2024-09-16,2023-08-23,Hypertension,Todd Butler,Oncology,6
+802,Jose Trujillo,Female,B-,2023-12-30,2024-12-18,Pneumonia,William Keith,Cardiology,2
+803,Elizabeth Page,Female,A+,2022-09-21,2023-11-13,Pneumonia,Alyssa Anderson,General Medicine,4
+803,Elizabeth Page,Female,A+,2023-07-30,2025-02-10,Pneumonia,Crystal Gray DDS,Neurology,4
+804,Alexis Walters,Female,O+,2022-06-19,2024-03-10,Covid-19,James Lopez,Cardiology,6
+804,Alexis Walters,Female,O+,2023-07-17,2023-09-06,Anemia,Michael Aguilar,Neurology,6
+804,Alexis Walters,Female,O+,2024-08-21,2024-02-08,Anemia,Austin Scott,Cardiology,6
+805,Jody Baker MD,Female,AB-,2023-03-01,2024-08-16,Asthma,Gerald Martin,Pediatrics,2
+805,Jody Baker MD,Female,AB-,2024-03-05,2023-09-16,Covid-19,Thomas Gutierrez,General Medicine,2
+806,Jessica Johnson,Male,AB+,2022-09-02,2025-02-26,Pneumonia,Hannah Diaz DDS,Pediatrics,3
+807,Juan Ayers,Female,AB-,2025-02-14,2025-02-23,Covid-19,Daniel Perez,Oncology,2
+808,Heidi Hall,Male,A+,2022-04-22,2023-04-17,Hypertension,Jill Grant,Neurology,6
+808,Heidi Hall,Male,A+,2024-07-01,2024-08-07,Pneumonia,Kimberly Williams,Oncology,6
+808,Heidi Hall,Male,A+,2025-02-23,2024-10-12,Covid-19,Lynn Patrick,Cardiology,6
+809,Tyler Rush,Male,AB-,2022-09-30,2024-04-13,Hypertension,James Hutchinson,Neurology,2
+810,Jason Thomas,Female,AB-,2022-12-09,2023-07-13,Covid-19,John Garner,Cardiology,6
+810,Jason Thomas,Female,AB-,2023-09-29,2025-03-08,Diabetes,Dr. David Luna,General Medicine,6
+810,Jason Thomas,Female,AB-,2024-06-26,2024-12-22,Hypertension,Carrie Smith,Cardiology,6
+811,Laurie Chambers,Female,B-,2022-09-27,2023-05-25,Hypertension,Trevor Foster,General Medicine,4
+811,Laurie Chambers,Female,B-,2023-10-18,2024-10-11,Hypertension,Dr. David Luna,General Medicine,4
+811,Laurie Chambers,Female,B-,2024-07-24,2024-03-05,Diabetes,Linda Foster,General Medicine,4
+812,Calvin Paul,Female,B+,2022-08-15,2025-03-05,Anemia,Kenneth Reed,Oncology,5
+812,Calvin Paul,Female,B+,2024-08-06,2023-10-29,Anemia,Kimberly Williams,Oncology,5
+813,Melissa Bauer,Female,O-,2023-02-12,2023-12-31,Hypertension,Todd Butler,Oncology,8
+813,Melissa Bauer,Female,O-,2023-08-01,2023-07-24,Pneumonia,Michael Holt,Cardiology,8
+813,Melissa Bauer,Female,O-,2025-01-10,2023-10-27,Hypertension,Sharon Scott,Pediatrics,8
+814,Brian Carrillo,Female,AB+,2022-12-23,2024-02-24,Hypertension,Ronald Cruz,Neurology,2
+815,Mary Garcia,Male,O-,2024-05-18,2024-12-03,Covid-19,Rose Gonzalez,General Medicine,2
+816,Cynthia Carpenter,Male,O-,2023-05-13,2025-01-08,Covid-19,Carrie Smith,Cardiology,4
+816,Cynthia Carpenter,Male,O-,2024-03-09,2023-10-12,Covid-19,Todd Butler,Oncology,4
+816,Cynthia Carpenter,Male,O-,2025-02-13,2024-08-11,Covid-19,Michael Aguilar,Neurology,4
+817,Allison Bautista,Male,AB-,2025-02-11,2024-04-14,Pneumonia,Michael Aguilar,Neurology,1
+818,Caitlyn Hansen,Male,O+,2022-06-08,2023-06-20,Diabetes,Tonya Strickland,General Medicine,2
+819,Ann Sullivan,Female,B-,2024-05-05,2023-08-22,Anemia,Sharon Scott,Pediatrics,6
+819,Ann Sullivan,Female,B-,2024-12-17,2023-07-30,Covid-19,Ronald Cruz,Neurology,6
+819,Ann Sullivan,Female,B-,2024-12-25,2025-03-19,Anemia,Gerald Martin,Pediatrics,6
+820,Eric Hunter,Male,A-,2023-12-23,2024-12-02,Anemia,Linda Patrick,Pediatrics,7
+820,Eric Hunter,Male,A-,2025-02-08,2023-04-13,Asthma,Tiffany Calderon,Oncology,7
+820,Eric Hunter,Male,A-,2025-03-03,2024-05-08,Anemia,Max Diaz,Neurology,7
+821,Suzanne Alvarado,Male,O+,2023-09-06,2025-02-01,Hypertension,Aaron Young,General Medicine,2
+822,Mrs. Amanda Kelley DDS,Female,AB+,2022-11-09,2023-09-13,Anemia,Roger Morris,Neurology,3
+823,Alex Salazar,Male,B+,2024-02-13,2024-03-18,Anemia,Todd Butler,Oncology,1
+824,Steven Giles,Female,O-,2024-02-26,2023-07-05,Pneumonia,Aimee Reeves,Oncology,3
+825,Ashley Mckenzie,Male,B+,2024-09-06,2024-02-21,Hypertension,Rose Gonzalez,General Medicine,2
+826,Carolyn Castro,Female,AB-,2023-12-06,2024-09-04,Anemia,Max Diaz,Neurology,2
+827,Terri Andersen,Female,O+,2023-01-11,2023-08-23,Anemia,Dr. David Luna,General Medicine,5
+827,Terri Andersen,Female,O+,2023-08-10,2024-02-03,Pneumonia,Linda Patrick,Pediatrics,5
+827,Terri Andersen,Female,O+,2024-03-21,2023-03-27,Anemia,James Lopez,Cardiology,5
+828,Heather Wilson,Female,A+,2022-06-29,2024-08-07,Pneumonia,Gerald Martin,Pediatrics,5
+828,Heather Wilson,Female,A+,2022-09-14,2023-10-27,Diabetes,Sharon Scott,Pediatrics,5
+829,Tracy Berry,Male,AB+,2022-06-05,2025-03-12,Asthma,Linda Foster,General Medicine,3
+829,Tracy Berry,Male,AB+,2024-11-26,2024-09-18,Covid-19,Bob Bridges,General Medicine,3
+830,James Perez,Female,B-,2022-11-16,2024-12-15,Covid-19,Lisa Johnson,Neurology,5
+830,James Perez,Female,B-,2023-09-30,2024-12-17,Covid-19,Carrie Smith,Cardiology,5
+830,James Perez,Female,B-,2024-02-05,2025-03-18,Pneumonia,Tiffany Calderon,Oncology,5
+831,William Smith,Male,O-,2024-07-06,2023-05-12,Diabetes,Alyssa Anderson,General Medicine,2
+832,Michael Moore,Male,A+,2022-05-02,2025-03-14,Diabetes,Sarah Gonzalez,General Medicine,2
+832,Michael Moore,Male,A+,2023-10-16,2023-12-02,Covid-19,James Lopez,Cardiology,2
+833,Emily Carter,Female,AB-,2022-05-20,2023-04-13,Covid-19,Robert Howell,General Medicine,6
+833,Emily Carter,Female,AB-,2024-12-27,2024-05-01,Pneumonia,Bob Bridges,General Medicine,6
+833,Emily Carter,Female,AB-,2025-01-10,2023-04-29,Covid-19,Roger Morris,Neurology,6
+834,Mary Jones,Female,O+,2022-10-09,2023-05-15,Asthma,Bob Bridges,General Medicine,6
+834,Mary Jones,Female,O+,2022-11-16,2024-04-03,Hypertension,Leslie Flynn,Neurology,6
+834,Mary Jones,Female,O+,2025-02-17,2023-08-10,Anemia,Bethany Leonard,Oncology,6
+835,Kristine Park,Male,A-,2023-07-18,2023-08-16,Hypertension,Sarah Gonzalez,General Medicine,4
+835,Kristine Park,Male,A-,2023-08-03,2024-03-18,Asthma,James Hutchinson,Neurology,4
+836,Brian Hoffman,Female,B+,2023-01-21,2023-06-26,Hypertension,Alyssa Anderson,General Medicine,7
+836,Brian Hoffman,Female,B+,2024-01-14,2023-04-14,Pneumonia,Sarah Gonzalez,General Medicine,7
+836,Brian Hoffman,Female,B+,2025-01-17,2025-01-10,Pneumonia,Leslie Flynn,Neurology,7
+837,Kimberly Williams,Female,O-,2023-03-12,2024-06-12,Diabetes,Daniel Stevenson,Oncology,3
+837,Kimberly Williams,Female,O-,2024-10-18,2023-11-13,Pneumonia,William Keith,Cardiology,3
+838,Stephanie Joseph,Female,O-,2025-03-04,2024-11-28,Covid-19,Sharon Scott,Pediatrics,2
+839,Suzanne Rivera,Male,AB+,2022-10-02,2024-11-11,Hypertension,Lisa Johnson,Neurology,7
+839,Suzanne Rivera,Male,AB+,2023-02-26,2024-11-06,Anemia,Bob Bridges,General Medicine,7
+839,Suzanne Rivera,Male,AB+,2023-12-03,2024-05-08,Anemia,Dr. David Luna,General Medicine,7
+840,Martha Mcintyre,Male,B-,2024-11-23,2024-09-14,Anemia,Max Diaz,Neurology,1
+841,Michael Jones,Female,O+,2022-05-18,2023-08-26,Asthma,Russell Thompson,General Medicine,6
+841,Michael Jones,Female,O+,2022-08-06,2024-04-11,Hypertension,Lynn Patrick,Cardiology,6
+841,Michael Jones,Female,O+,2022-12-05,2025-02-27,Diabetes,Sarah Gonzalez,General Medicine,6
+842,Dominique Hudson,Male,AB+,2022-09-29,2023-08-25,Pneumonia,Tiffany Calderon,Oncology,8
+842,Dominique Hudson,Male,AB+,2023-09-13,2023-12-22,Diabetes,Linda Foster,General Medicine,8
+842,Dominique Hudson,Male,AB+,2023-11-02,2024-07-20,Pneumonia,Aaron Young,General Medicine,8
+843,James Miller,Female,O+,2022-11-19,2024-04-30,Pneumonia,Trevor Foster,General Medicine,3
+844,Misty Williams,Male,B+,2022-05-05,2024-07-03,Covid-19,William Keith,Cardiology,2
+844,Misty Williams,Male,B+,2023-11-22,2023-08-08,Asthma,Michael Holt,Cardiology,2
+845,Kathy Perez,Male,AB+,2024-09-04,2024-10-09,Covid-19,Daniel Stevenson,Oncology,8
+845,Kathy Perez,Male,AB+,2024-11-29,2025-01-17,Anemia,Aaron Young,General Medicine,8
+845,Kathy Perez,Male,AB+,2024-12-20,2023-08-16,Pneumonia,Robert Howell,General Medicine,8
+846,Victor Brown,Female,O-,2022-10-09,2024-10-03,Covid-19,Micheal Johnson,Cardiology,7
+846,Victor Brown,Female,O-,2023-04-11,2023-12-17,Hypertension,Sharon Scott,Pediatrics,7
+846,Victor Brown,Female,O-,2024-04-15,2024-11-23,Diabetes,Robert Howell,General Medicine,7
+847,Melinda Smith,Female,B+,2023-09-23,2024-12-26,Hypertension,Austin Scott,Cardiology,5
+847,Melinda Smith,Female,B+,2023-10-26,2024-07-14,Hypertension,Austin Scott,Cardiology,5
+847,Melinda Smith,Female,B+,2025-01-12,2024-09-05,Pneumonia,Sharon Scott,Pediatrics,5
+848,Susan Pineda,Male,AB+,2023-02-19,2025-02-28,Asthma,Kenneth Reed,Oncology,3
+849,Dustin Simon,Male,A+,2022-12-12,2023-07-20,Pneumonia,Bethany Leonard,Oncology,5
+849,Dustin Simon,Male,A+,2023-03-24,2023-07-18,Anemia,Linda Foster,General Medicine,5
+850,Heather Mcmahon,Male,B+,2024-12-13,2024-09-13,Hypertension,Trevor Foster,General Medicine,1
+851,Tiffany Daniel,Female,AB-,2024-02-10,2023-09-17,Covid-19,Reginald Wallace,Oncology,2
+852,Tina Berg,Female,B+,2023-01-14,2025-02-16,Anemia,Linda Patrick,Pediatrics,4
+852,Tina Berg,Female,B+,2025-03-15,2024-07-15,Anemia,Reginald Wallace,Oncology,4
+853,Daniel Bradley,Male,O-,2022-03-27,2023-11-03,Covid-19,Hannah Diaz DDS,Pediatrics,8
+853,Daniel Bradley,Male,O-,2024-06-13,2024-07-05,Covid-19,Reginald Wallace,Oncology,8
+853,Daniel Bradley,Male,O-,2024-10-24,2023-08-07,Hypertension,Linda Patrick,Pediatrics,8
+854,Pamela Schmidt,Female,B+,2023-10-10,2025-01-15,Anemia,Tanya Martinez,Cardiology,6
+854,Pamela Schmidt,Female,B+,2024-03-29,2024-09-11,Anemia,Kenneth Reed,Oncology,6
+854,Pamela Schmidt,Female,B+,2025-03-06,2024-12-27,Covid-19,William Keith,Cardiology,6
+855,Chris Lewis,Female,O+,2022-10-11,2023-09-17,Pneumonia,Crystal Gray DDS,Neurology,6
+855,Chris Lewis,Female,O+,2023-03-04,2024-11-21,Hypertension,Reginald Wallace,Oncology,6
+855,Chris Lewis,Female,O+,2023-09-25,2023-09-16,Asthma,John Garner,Cardiology,6
+856,Bryan Kent,Female,AB-,2022-08-07,2024-04-22,Hypertension,Max Diaz,Neurology,5
+856,Bryan Kent,Female,AB-,2023-09-19,2023-04-20,Pneumonia,Leslie Flynn,Neurology,5
+856,Bryan Kent,Female,AB-,2024-01-11,2024-02-19,Diabetes,Hannah Diaz DDS,Pediatrics,5
+857,James Gray,Female,AB-,2022-08-14,2025-02-26,Pneumonia,Roger Morris,Neurology,3
+857,James Gray,Female,AB-,2024-03-23,2024-01-27,Hypertension,Roger Morris,Neurology,3
+858,Chad Evans,Male,O-,2022-06-09,2024-05-26,Asthma,Gerald Martin,Pediatrics,8
+858,Chad Evans,Male,O-,2024-03-07,2023-04-29,Diabetes,Micheal Johnson,Cardiology,8
+858,Chad Evans,Male,O-,2024-05-27,2023-08-17,Diabetes,Leslie Flynn,Neurology,8
+859,Holly King DDS,Female,A-,2023-11-19,2024-07-08,Hypertension,Max Diaz,Neurology,3
+859,Holly King DDS,Female,A-,2024-05-06,2024-11-25,Asthma,Amy Joseph,Oncology,3
+860,Paul Wolf,Female,O+,2022-09-28,2024-11-07,Pneumonia,William Newman,General Medicine,6
+860,Paul Wolf,Female,O+,2022-11-26,2024-12-28,Covid-19,Carrie Smith,Cardiology,6
+860,Paul Wolf,Female,O+,2024-05-18,2024-12-10,Covid-19,Craig Herman,Oncology,6
+861,Michael Terry,Male,AB-,2023-01-29,2024-01-15,Pneumonia,Sarah Gonzalez,General Medicine,2
+862,Tamara Miller,Female,B-,2022-04-15,2024-04-09,Asthma,William Keith,Cardiology,7
+862,Tamara Miller,Female,B-,2022-05-23,2023-06-09,Diabetes,Sheryl Bullock,Pediatrics,7
+862,Tamara Miller,Female,B-,2022-10-04,2023-07-24,Asthma,Dr. David Luna,General Medicine,7
+863,Adam Roman,Male,AB-,2023-09-26,2024-08-06,Diabetes,John Garner,Cardiology,3
+863,Adam Roman,Male,AB-,2023-11-30,2023-06-10,Anemia,Victor Moore,Pediatrics,3
+864,Tammy Lopez,Male,AB+,2024-08-01,2023-09-13,Hypertension,Tanya Martinez,Cardiology,3
+864,Tammy Lopez,Male,AB+,2024-08-08,2024-09-01,Pneumonia,Trevor Foster,General Medicine,3
+865,Michelle Simpson,Male,B-,2023-01-03,2024-09-23,Covid-19,Kenneth Reed,Oncology,2
+865,Michelle Simpson,Male,B-,2024-08-11,2024-07-27,Covid-19,Micheal Johnson,Cardiology,2
+866,Deborah Humphrey,Male,A-,2022-08-11,2025-01-20,Hypertension,Craig Herman,Oncology,1
+867,Donna Simmons,Male,A+,2023-05-06,2024-05-12,Covid-19,Michael Holt,Cardiology,8
+867,Donna Simmons,Male,A+,2024-04-28,2024-08-23,Diabetes,Leslie Flynn,Neurology,8
+867,Donna Simmons,Male,A+,2024-11-28,2024-02-25,Pneumonia,Carrie Smith,Cardiology,8
+868,Stephanie Griffin,Female,O-,2023-04-30,2024-11-19,Pneumonia,Tanya Martinez,Cardiology,3
+869,Karen Porter,Female,B+,2023-01-30,2023-12-01,Anemia,Bethany Leonard,Oncology,5
+869,Karen Porter,Female,B+,2023-12-10,2024-03-30,Pneumonia,Gerald Martin,Pediatrics,5
+869,Karen Porter,Female,B+,2024-02-10,2024-10-30,Asthma,Gerald Martin,Pediatrics,5
+870,Oscar Cruz,Female,B-,2022-11-05,2023-09-03,Asthma,Crystal Gray DDS,Neurology,5
+870,Oscar Cruz,Female,B-,2023-05-07,2023-07-04,Covid-19,Alyssa Anderson,General Medicine,5
+871,Alan Kennedy,Female,AB-,2023-02-24,2024-09-11,Covid-19,Crystal Gray DDS,Neurology,3
+872,Caitlin Costa,Male,B+,2022-11-17,2023-07-13,Pneumonia,Alyssa Anderson,General Medicine,5
+872,Caitlin Costa,Male,B+,2022-11-30,2025-03-08,Anemia,Michael Holt,Cardiology,5
+873,Eric Moore,Male,O-,2024-05-22,2023-04-07,Covid-19,Max Diaz,Neurology,3
+873,Eric Moore,Male,O-,2024-12-05,2023-06-15,Pneumonia,Michael Aguilar,Neurology,3
+874,Jacob Sanchez,Female,AB+,2023-04-23,2023-07-22,Diabetes,Trevor Foster,General Medicine,4
+874,Jacob Sanchez,Female,AB+,2024-10-23,2023-11-06,Diabetes,Jill Grant,Neurology,4
+875,Danielle Elliott,Female,B+,2023-09-13,2024-06-02,Diabetes,Michael Holt,Cardiology,5
+875,Danielle Elliott,Female,B+,2025-01-29,2025-01-19,Hypertension,Aimee Reeves,Oncology,5
+876,Raven Hill,Female,O-,2024-08-20,2023-07-22,Anemia,Kenneth Reed,Oncology,5
+876,Raven Hill,Female,O-,2024-11-29,2025-01-21,Covid-19,Tonya Strickland,General Medicine,5
+876,Raven Hill,Female,O-,2025-01-21,2024-09-07,Asthma,Roger Morris,Neurology,5
+877,Mr. Stephen Gonzalez,Female,O+,2022-06-21,2024-01-11,Asthma,Craig Herman,Oncology,5
+877,Mr. Stephen Gonzalez,Female,O+,2023-01-05,2023-08-10,Diabetes,Hannah Diaz DDS,Pediatrics,5
+877,Mr. Stephen Gonzalez,Female,O+,2023-09-25,2024-02-02,Hypertension,Michael Holt,Cardiology,5
+878,Jenny Cardenas,Female,B-,2023-01-03,2024-12-21,Asthma,Victor Moore,Pediatrics,4
+878,Jenny Cardenas,Female,B-,2024-11-08,2023-12-12,Covid-19,Kimberly Williams,Oncology,4
+879,Olivia Rodriguez,Male,O+,2023-02-15,2024-01-07,Diabetes,Dr. David Luna,General Medicine,7
+879,Olivia Rodriguez,Male,O+,2023-11-20,2023-09-29,Asthma,Micheal Johnson,Cardiology,7
+879,Olivia Rodriguez,Male,O+,2025-01-07,2023-05-02,Pneumonia,Trevor Foster,General Medicine,7
+880,Jackie Stewart,Female,B-,2024-04-06,2025-01-24,Diabetes,Crystal Gray DDS,Neurology,4
+880,Jackie Stewart,Female,B-,2024-12-06,2024-11-27,Covid-19,Linda Foster,General Medicine,4
+881,Michelle Crawford,Female,O+,2023-04-09,2023-05-15,Asthma,Jill Grant,Neurology,3
+882,Paul Vasquez,Male,AB-,2024-06-27,2023-05-07,Diabetes,Tanya Martinez,Cardiology,6
+882,Paul Vasquez,Male,AB-,2024-12-25,2023-06-22,Anemia,Amy Joseph,Oncology,6
+883,Sheila Perez,Female,AB-,2023-05-20,2024-01-27,Anemia,Ronald Cruz,Neurology,5
+883,Sheila Perez,Female,AB-,2024-04-26,2023-10-25,Covid-19,Sarah Gonzalez,General Medicine,5
+883,Sheila Perez,Female,AB-,2025-02-19,2024-11-29,Pneumonia,Austin Scott,Cardiology,5
+884,Mark Foster,Female,O+,2022-09-03,2024-12-26,Anemia,Sarah Gonzalez,General Medicine,2
+884,Mark Foster,Female,O+,2023-03-27,2023-03-29,Diabetes,Aimee Reeves,Oncology,2
+885,Bobby Keith,Female,A-,2023-07-27,2023-09-18,Pneumonia,Linda Foster,General Medicine,7
+885,Bobby Keith,Female,A-,2024-04-17,2024-08-25,Covid-19,Kimberly Williams,Oncology,7
+885,Bobby Keith,Female,A-,2024-08-09,2023-11-16,Covid-19,Dr. David Luna,General Medicine,7
+886,Dakota Lawson,Female,AB+,2022-09-30,2024-08-13,Hypertension,Natalie Green,Pediatrics,9
+886,Dakota Lawson,Female,AB+,2022-11-10,2023-04-04,Asthma,Micheal Johnson,Cardiology,9
+886,Dakota Lawson,Female,AB+,2024-08-13,2023-12-01,Pneumonia,Carrie Smith,Cardiology,9
+887,Andrew Ballard,Female,B+,2025-01-13,2023-05-19,Asthma,Austin Scott,Cardiology,3
+888,Alexander Smith,Female,A+,2023-03-01,2024-11-15,Anemia,Micheal Johnson,Cardiology,1
+889,Stacey Farrell,Female,A-,2022-06-22,2024-04-23,Hypertension,Robert Howell,General Medicine,5
+889,Stacey Farrell,Female,A-,2023-11-13,2023-08-07,Hypertension,Lisa Johnson,Neurology,5
+889,Stacey Farrell,Female,A-,2023-12-08,2024-08-19,Covid-19,Carrie Smith,Cardiology,5
+890,Matthew Maddox,Female,AB-,2023-06-13,2024-08-21,Asthma,Trevor Foster,General Medicine,7
+890,Matthew Maddox,Female,AB-,2023-12-05,2023-09-19,Asthma,Lynn Patrick,Cardiology,7
+890,Matthew Maddox,Female,AB-,2024-08-27,2024-12-27,Diabetes,Lynn Patrick,Cardiology,7
+891,Stacy Mcbride,Female,AB-,2023-10-13,2024-01-18,Hypertension,Linda Patrick,Pediatrics,2
+891,Stacy Mcbride,Female,AB-,2024-03-29,2024-08-16,Diabetes,Kenneth Reed,Oncology,2
+892,Justin Brown,Male,B-,2022-07-01,2023-11-23,Asthma,Thomas Gutierrez,General Medicine,4
+892,Justin Brown,Male,B-,2023-05-29,2024-11-28,Covid-19,Hannah Diaz DDS,Pediatrics,4
+893,Adam Merritt,Female,O+,2023-10-07,2023-11-27,Diabetes,Sheryl Bullock,Pediatrics,4
+893,Adam Merritt,Female,O+,2024-04-02,2023-04-28,Diabetes,Max Diaz,Neurology,4
+894,Whitney Williams,Male,A-,2023-04-19,2024-06-08,Anemia,William Keith,Cardiology,2
+895,Kimberly Flores,Male,B-,2022-07-15,2024-12-04,Anemia,Natalie Green,Pediatrics,7
+895,Kimberly Flores,Male,B-,2022-12-20,2025-03-21,Hypertension,Daniel Stevenson,Oncology,7
+895,Kimberly Flores,Male,B-,2024-11-21,2024-08-18,Asthma,Jill Grant,Neurology,7
+896,Angelica King,Male,B-,2022-07-07,2024-01-05,Covid-19,Linda Foster,General Medicine,3
+896,Angelica King,Male,B-,2022-08-06,2024-02-20,Asthma,Kimberly Williams,Oncology,3
+897,Jennifer Colon,Male,A+,2023-05-14,2023-05-19,Diabetes,Sharon Scott,Pediatrics,1
+898,Jennifer Sandoval,Male,AB+,2022-07-23,2024-06-06,Hypertension,Amy Joseph,Oncology,7
+898,Jennifer Sandoval,Male,AB+,2023-08-19,2024-02-20,Anemia,Roger Morris,Neurology,7
+898,Jennifer Sandoval,Male,AB+,2025-02-02,2023-12-15,Pneumonia,Hannah Diaz DDS,Pediatrics,7
+899,Thomas Neal MD,Female,AB-,2023-05-20,2023-04-07,Covid-19,Lynn Patrick,Cardiology,6
+899,Thomas Neal MD,Female,AB-,2024-08-25,2025-03-18,Diabetes,Trevor Foster,General Medicine,6
+900,Bryan Duffy,Male,B+,2024-09-05,2024-10-04,Diabetes,Gerald Martin,Pediatrics,3
+900,Bryan Duffy,Male,B+,2025-01-29,2023-06-03,Pneumonia,Roger Morris,Neurology,3
+901,Kathryn Bell,Male,B+,2023-02-16,2024-06-25,Covid-19,Mrs. Laura Lawson MD,Pediatrics,3
+901,Kathryn Bell,Male,B+,2023-10-30,2024-06-27,Diabetes,Sarah Gonzalez,General Medicine,3
+902,Angie King,Female,AB-,2023-08-05,2024-03-09,Asthma,Aimee Reeves,Oncology,5
+902,Angie King,Female,AB-,2023-10-01,2024-12-09,Asthma,Rose Gonzalez,General Medicine,5
+902,Angie King,Female,AB-,2024-07-21,2024-04-13,Covid-19,Natalie Green,Pediatrics,5
+903,Richard Bond,Female,B-,2022-03-25,2024-12-14,Asthma,Bethany Leonard,Oncology,6
+903,Richard Bond,Female,B-,2023-01-06,2023-05-10,Asthma,Hannah Diaz DDS,Pediatrics,6
+903,Richard Bond,Female,B-,2024-04-04,2024-12-08,Hypertension,Jill Grant,Neurology,6
+904,Jasmine Buckley,Female,O-,2022-10-23,2023-04-08,Anemia,Dr. David Luna,General Medicine,5
+904,Jasmine Buckley,Female,O-,2023-04-22,2023-08-03,Diabetes,William Newman,General Medicine,5
+904,Jasmine Buckley,Female,O-,2024-01-29,2023-07-25,Hypertension,Todd Butler,Oncology,5
+905,Christopher Monroe,Female,A+,2025-01-23,2023-04-05,Diabetes,Todd Butler,Oncology,2
+906,Rhonda Gould,Male,B-,2022-07-13,2024-07-20,Covid-19,Crystal Gray DDS,Neurology,2
+907,Joseph Benson,Male,B+,2022-08-21,2023-07-08,Asthma,Lisa Johnson,Neurology,5
+907,Joseph Benson,Male,B+,2024-12-31,2024-04-13,Hypertension,Mrs. Laura Lawson MD,Pediatrics,5
+907,Joseph Benson,Male,B+,2025-01-15,2023-06-02,Asthma,John Garner,Cardiology,5
+908,Shawn Ortega,Female,B+,2022-07-16,2025-03-24,Covid-19,Bethany Leonard,Oncology,3
+908,Shawn Ortega,Female,B+,2022-11-12,2023-11-18,Pneumonia,Austin Scott,Cardiology,3
+909,Wesley Douglas,Male,AB+,2023-02-01,2024-06-10,Diabetes,Aaron Young,General Medicine,3
+910,Deborah Moreno,Female,B+,2023-04-07,2024-10-29,Asthma,Crystal Gray DDS,Neurology,5
+910,Deborah Moreno,Female,B+,2024-01-21,2025-02-25,Anemia,Lisa Johnson,Neurology,5
+911,Juan Sims,Female,A+,2024-11-12,2024-02-01,Diabetes,Ronald Cruz,Neurology,3
+912,Jennifer Garrett,Male,O+,2024-03-12,2024-05-11,Diabetes,Amy Joseph,Oncology,5
+912,Jennifer Garrett,Male,O+,2024-08-21,2024-08-08,Anemia,Mrs. Laura Lawson MD,Pediatrics,5
+913,Travis Hicks,Male,O-,2024-02-28,2024-02-03,Anemia,William Keith,Cardiology,1
+914,Amanda Ramirez,Female,AB-,2022-05-20,2024-06-06,Pneumonia,Max Diaz,Neurology,3
+914,Amanda Ramirez,Female,AB-,2024-06-14,2024-03-27,Covid-19,Gerald Martin,Pediatrics,3
+915,Michael Hester,Female,B+,2022-12-06,2024-02-19,Covid-19,Thomas Gutierrez,General Medicine,7
+915,Michael Hester,Female,B+,2023-02-22,2023-05-21,Pneumonia,Craig Herman,Oncology,7
+915,Michael Hester,Female,B+,2024-04-25,2025-02-15,Asthma,Tonya Strickland,General Medicine,7
+916,Cheryl Rogers,Female,O+,2022-07-27,2024-12-03,Pneumonia,Rose Gonzalez,General Medicine,6
+916,Cheryl Rogers,Female,O+,2024-04-14,2023-09-20,Pneumonia,Jill Grant,Neurology,6
+917,Carrie Hardy,Male,A-,2023-01-06,2023-07-05,Hypertension,Carrie Smith,Cardiology,7
+917,Carrie Hardy,Male,A-,2024-02-03,2024-08-12,Pneumonia,William Keith,Cardiology,7
+917,Carrie Hardy,Male,A-,2024-10-15,2024-11-12,Anemia,William Keith,Cardiology,7
+918,Larry King,Female,B+,2022-05-07,2024-03-16,Pneumonia,Kimberly Williams,Oncology,4
+918,Larry King,Female,B+,2023-11-19,2024-08-30,Anemia,Mrs. Laura Lawson MD,Pediatrics,4
+919,Anthony Patterson,Female,O+,2023-09-02,2024-09-15,Anemia,Lynn Patrick,Cardiology,5
+919,Anthony Patterson,Female,O+,2024-07-02,2024-07-19,Hypertension,Michael Aguilar,Neurology,5
+919,Anthony Patterson,Female,O+,2024-09-05,2024-05-09,Hypertension,Tanya Martinez,Cardiology,5
+920,Joshua Adams,Male,A+,2023-09-23,2023-09-25,Pneumonia,Craig Herman,Oncology,5
+920,Joshua Adams,Male,A+,2024-04-01,2024-08-09,Asthma,Russell Thompson,General Medicine,5
+920,Joshua Adams,Male,A+,2024-07-18,2024-02-14,Hypertension,Bob Bridges,General Medicine,5
+921,Larry Walton,Female,O+,2023-02-11,2025-03-24,Diabetes,Linda Patrick,Pediatrics,4
+921,Larry Walton,Female,O+,2024-12-09,2025-03-20,Anemia,Dr. David Luna,General Medicine,4
+922,Patrick Irwin,Male,B+,2024-11-29,2024-09-07,Diabetes,Tanya Martinez,Cardiology,1
+923,Eric Riley,Female,AB+,2024-08-29,2025-02-21,Anemia,Tanya Martinez,Cardiology,2
+923,Eric Riley,Female,AB+,2025-03-13,2024-09-13,Asthma,Aaron Young,General Medicine,2
+924,Michael Kim,Female,A-,2022-09-20,2024-07-05,Covid-19,Ronald Cruz,Neurology,4
+924,Michael Kim,Female,A-,2023-07-17,2023-08-29,Covid-19,Gerald Martin,Pediatrics,4
+925,Christine Edwards,Female,A-,2022-08-14,2024-07-26,Pneumonia,Bob Bridges,General Medicine,1
+926,Heather Smith,Male,B+,2023-11-08,2023-12-05,Covid-19,Dr. David Luna,General Medicine,1
+927,Maria George,Female,O-,2022-05-11,2024-04-26,Anemia,Lisa Johnson,Neurology,5
+927,Maria George,Female,O-,2023-07-17,2023-08-18,Asthma,Victor Moore,Pediatrics,5
+927,Maria George,Female,O-,2025-02-01,2024-10-08,Covid-19,Bob Bridges,General Medicine,5
+928,Timothy Chavez,Male,A+,2023-08-27,2023-08-13,Covid-19,James Lopez,Cardiology,4
+928,Timothy Chavez,Male,A+,2024-09-08,2024-07-31,Covid-19,James Lopez,Cardiology,4
+929,Lisa Armstrong,Female,AB+,2023-03-22,2023-06-29,Anemia,Tanya Martinez,Cardiology,2
+930,Kristen Wood,Male,AB-,2022-11-04,2023-04-29,Hypertension,Micheal Johnson,Cardiology,1
+931,Christopher Harrison,Female,O-,2022-11-26,2023-06-27,Anemia,Daniel Perez,Oncology,4
+931,Christopher Harrison,Female,O-,2023-09-22,2025-01-07,Covid-19,Micheal Johnson,Cardiology,4
+931,Christopher Harrison,Female,O-,2024-09-20,2023-05-17,Covid-19,James Hutchinson,Neurology,4
+932,Larry Williams,Female,A+,2022-04-30,2024-11-15,Hypertension,James Lopez,Cardiology,7
+932,Larry Williams,Female,A+,2023-09-18,2024-04-05,Pneumonia,William Newman,General Medicine,7
+932,Larry Williams,Female,A+,2023-11-02,2023-10-22,Pneumonia,Victor Moore,Pediatrics,7
+933,Terri Gomez,Female,O-,2023-06-07,2024-06-04,Anemia,Carrie Smith,Cardiology,6
+933,Terri Gomez,Female,O-,2023-06-09,2024-03-31,Anemia,Gerald Martin,Pediatrics,6
+933,Terri Gomez,Female,O-,2024-12-13,2024-03-13,Covid-19,Trevor Foster,General Medicine,6
+934,Zachary Wilkinson,Male,A+,2022-04-04,2024-09-27,Diabetes,John Garner,Cardiology,4
+934,Zachary Wilkinson,Male,A+,2022-06-10,2023-03-25,Hypertension,Thomas Gutierrez,General Medicine,4
+935,Kevin Blake,Male,AB-,2022-10-28,2024-02-14,Diabetes,Bob Bridges,General Medicine,4
+935,Kevin Blake,Male,AB-,2024-08-12,2024-03-19,Diabetes,Gerald Martin,Pediatrics,4
+936,Jason Williams,Female,B+,2023-07-18,2024-05-21,Anemia,Dr. David Luna,General Medicine,4
+936,Jason Williams,Female,B+,2023-11-29,2023-11-17,Anemia,Gerald Martin,Pediatrics,4
+936,Jason Williams,Female,B+,2025-01-21,2024-11-06,Pneumonia,Tiffany Calderon,Oncology,4
+937,Sheila Mendoza,Female,O+,2024-01-30,2024-04-13,Hypertension,William Keith,Cardiology,2
+938,Geoffrey Austin,Male,O+,2023-12-07,2023-11-11,Pneumonia,Daniel Perez,Oncology,2
+939,Mrs. Samantha Rivera DDS,Female,B-,2024-08-30,2024-03-06,Hypertension,Rose Gonzalez,General Medicine,2
+940,Cheyenne Hudson,Male,B+,2022-08-10,2024-02-14,Covid-19,Robert Howell,General Medicine,7
+940,Cheyenne Hudson,Male,B+,2023-07-18,2025-02-09,Asthma,Lisa Johnson,Neurology,7
+940,Cheyenne Hudson,Male,B+,2024-10-01,2024-03-08,Anemia,Austin Scott,Cardiology,7
+941,Rachel Robinson,Female,B+,2023-01-31,2024-01-18,Hypertension,Thomas Gutierrez,General Medicine,8
+941,Rachel Robinson,Female,B+,2023-09-15,2024-02-19,Pneumonia,Hannah Diaz DDS,Pediatrics,8
+941,Rachel Robinson,Female,B+,2025-03-01,2023-04-20,Asthma,Dr. David Luna,General Medicine,8
+942,Sara Lawrence,Female,O-,2022-04-29,2024-02-03,Diabetes,Tonya Strickland,General Medicine,6
+942,Sara Lawrence,Female,O-,2023-04-28,2025-01-19,Asthma,Amy Joseph,Oncology,6
+942,Sara Lawrence,Female,O-,2023-08-20,2023-04-19,Pneumonia,James Hutchinson,Neurology,6
+943,Elizabeth Roy,Female,AB-,2023-03-02,2024-03-24,Asthma,Ronald Cruz,Neurology,5
+943,Elizabeth Roy,Female,AB-,2023-04-08,2023-12-24,Covid-19,Reginald Wallace,Oncology,5
+943,Elizabeth Roy,Female,AB-,2023-07-26,2024-09-17,Anemia,Daniel Stevenson,Oncology,5
+944,Jennifer Rivera,Male,B-,2023-01-28,2023-04-23,Covid-19,Sheryl Bullock,Pediatrics,2
+945,William Cook,Male,AB-,2024-09-24,2024-10-19,Pneumonia,Reginald Wallace,Oncology,2
+946,Leroy Martin,Female,A-,2023-11-14,2023-10-22,Diabetes,Tonya Strickland,General Medicine,6
+946,Leroy Martin,Female,A-,2024-08-18,2024-02-19,Diabetes,Bethany Leonard,Oncology,6
+946,Leroy Martin,Female,A-,2024-11-06,2023-08-16,Anemia,James Lopez,Cardiology,6
+947,Rebecca Terry,Male,A+,2022-07-25,2023-06-18,Asthma,Michael Holt,Cardiology,5
+947,Rebecca Terry,Male,A+,2024-03-15,2024-03-01,Anemia,Daniel Perez,Oncology,5
+947,Rebecca Terry,Male,A+,2024-12-05,2024-06-06,Anemia,Lynn Patrick,Cardiology,5
+948,Eric Garcia,Male,B+,2022-10-24,2024-06-09,Hypertension,Lisa Johnson,Neurology,4
+948,Eric Garcia,Male,B+,2024-12-28,2023-12-28,Anemia,Robert Howell,General Medicine,4
+949,Kelly Decker,Male,O-,2023-02-07,2023-05-02,Anemia,John Garner,Cardiology,5
+949,Kelly Decker,Male,O-,2023-03-06,2023-11-29,Hypertension,Ronald Cruz,Neurology,5
+949,Kelly Decker,Male,O-,2025-03-10,2024-01-14,Anemia,Max Diaz,Neurology,5
+950,Samuel Ortega,Female,A-,2024-10-02,2024-03-20,Pneumonia,Bethany Leonard,Oncology,5
+950,Samuel Ortega,Female,A-,2025-03-08,2024-01-07,Hypertension,Kenneth Reed,Oncology,5
+951,Amanda Brown,Male,AB-,2022-04-06,2023-08-11,Diabetes,Ronald Cruz,Neurology,1
+952,Bryan Newman,Male,AB-,2023-10-17,2023-12-21,Diabetes,Tiffany Calderon,Oncology,2
+953,Andre Farrell,Male,AB-,2022-09-12,2023-07-28,Anemia,Linda Foster,General Medicine,1
+954,Jennifer Tucker,Male,AB+,2024-03-12,2024-02-09,Hypertension,William Keith,Cardiology,4
+954,Jennifer Tucker,Male,AB+,2024-06-23,2023-07-28,Hypertension,James Hutchinson,Neurology,4
+954,Jennifer Tucker,Male,AB+,2025-02-04,2023-09-01,Anemia,Tiffany Calderon,Oncology,4
+955,Adam Ward,Female,A+,2023-03-24,2023-05-24,Covid-19,James Hutchinson,Neurology,3
+955,Adam Ward,Female,A+,2024-01-16,2023-11-12,Covid-19,Craig Herman,Oncology,3
+956,Wendy Salazar,Female,O+,2023-07-25,2024-07-13,Covid-19,Sarah Gonzalez,General Medicine,1
+957,Jason Sims,Male,AB+,2023-06-18,2025-03-05,Anemia,John Garner,Cardiology,4
+957,Jason Sims,Male,AB+,2024-06-16,2024-07-19,Asthma,Robert Howell,General Medicine,4
+958,Aaron Perez,Female,A+,2024-08-10,2025-01-05,Anemia,Max Diaz,Neurology,1
+959,Kevin Ferguson MD,Male,A-,2023-08-28,2024-07-12,Pneumonia,Linda Patrick,Pediatrics,6
+959,Kevin Ferguson MD,Male,A-,2023-11-26,2023-12-20,Pneumonia,James Lopez,Cardiology,6
+959,Kevin Ferguson MD,Male,A-,2024-08-26,2024-11-06,Covid-19,Reginald Wallace,Oncology,6
+960,Theresa Smith,Male,AB+,2023-04-14,2023-11-11,Diabetes,Sheryl Bullock,Pediatrics,8
+960,Theresa Smith,Male,AB+,2023-06-05,2024-02-09,Anemia,Todd Butler,Oncology,8
+960,Theresa Smith,Male,AB+,2025-01-09,2024-02-25,Covid-19,Lisa Johnson,Neurology,8
+961,Christopher Martinez,Female,A-,2023-08-20,2024-10-30,Anemia,Carrie Smith,Cardiology,3
+962,Mr. Richard Kelly,Male,A-,2023-03-03,2023-11-18,Diabetes,Craig Herman,Oncology,6
+962,Mr. Richard Kelly,Male,A-,2023-05-05,2025-02-01,Diabetes,Sheryl Bullock,Pediatrics,6
+962,Mr. Richard Kelly,Male,A-,2023-06-21,2024-10-23,Anemia,Daniel Perez,Oncology,6
+963,Melissa Lee,Female,A+,2023-04-28,2024-11-24,Pneumonia,Linda Foster,General Medicine,2
+964,Natasha Davenport,Female,AB+,2022-07-16,2024-11-28,Asthma,Rose Gonzalez,General Medicine,5
+964,Natasha Davenport,Female,AB+,2022-09-29,2024-01-26,Covid-19,William Keith,Cardiology,5
+964,Natasha Davenport,Female,AB+,2023-07-12,2024-07-12,Covid-19,Sarah Gonzalez,General Medicine,5
+965,Alicia Beck,Male,B+,2023-04-08,2024-10-29,Pneumonia,Aimee Reeves,Oncology,7
+965,Alicia Beck,Male,B+,2024-08-25,2025-03-14,Hypertension,William Keith,Cardiology,7
+965,Alicia Beck,Male,B+,2024-10-17,2024-06-24,Pneumonia,Tanya Martinez,Cardiology,7
+966,Zachary Swanson MD,Female,O-,2023-04-30,2023-10-25,Covid-19,Michael Holt,Cardiology,6
+966,Zachary Swanson MD,Female,O-,2024-09-08,2024-03-09,Asthma,Daniel Perez,Oncology,6
+966,Zachary Swanson MD,Female,O-,2024-10-23,2023-09-29,Pneumonia,Victor Moore,Pediatrics,6
+967,Yvette Dominguez,Female,AB-,2023-05-17,2025-02-03,Anemia,Tanya Martinez,Cardiology,5
+967,Yvette Dominguez,Female,AB-,2023-06-10,2023-09-16,Asthma,Leslie Flynn,Neurology,5
+967,Yvette Dominguez,Female,AB-,2024-09-03,2025-02-06,Diabetes,Lisa Johnson,Neurology,5
+968,Alexander Mitchell,Female,AB+,2022-04-20,2024-05-06,Asthma,Linda Foster,General Medicine,9
+968,Alexander Mitchell,Female,AB+,2023-12-21,2023-10-15,Covid-19,Tanya Martinez,Cardiology,9
+968,Alexander Mitchell,Female,AB+,2025-02-07,2025-01-02,Asthma,Kenneth Reed,Oncology,9
+969,Daniel Mcbride,Male,B+,2024-08-13,2023-08-05,Pneumonia,Roger Morris,Neurology,3
+969,Daniel Mcbride,Male,B+,2025-01-09,2024-09-18,Hypertension,Bethany Leonard,Oncology,3
+970,Jamie Galvan,Female,A-,2022-06-07,2024-06-27,Covid-19,Linda Foster,General Medicine,6
+970,Jamie Galvan,Female,A-,2022-11-06,2023-09-15,Asthma,Aimee Reeves,Oncology,6
+970,Jamie Galvan,Female,A-,2023-08-16,2024-04-16,Diabetes,Russell Thompson,General Medicine,6
+971,Deborah Garza,Male,AB+,2024-01-06,2023-07-02,Covid-19,Tanya Martinez,Cardiology,6
+971,Deborah Garza,Male,AB+,2024-04-04,2024-10-06,Pneumonia,Leslie Flynn,Neurology,6
+971,Deborah Garza,Male,AB+,2024-10-20,2024-10-06,Covid-19,Aaron Young,General Medicine,6
+972,Tyler Shields,Male,B-,2023-02-27,2024-06-14,Covid-19,Aimee Reeves,Oncology,5
+972,Tyler Shields,Male,B-,2025-01-27,2024-12-19,Asthma,Natalie Green,Pediatrics,5
+973,Louis Price,Male,A+,2024-06-13,2024-06-19,Diabetes,Daniel Stevenson,Oncology,2
+973,Louis Price,Male,A+,2024-06-30,2024-08-05,Hypertension,William Keith,Cardiology,2
+974,Brian Garza,Female,AB-,2023-04-16,2023-07-25,Asthma,Crystal Gray DDS,Neurology,4
+974,Brian Garza,Female,AB-,2023-05-17,2023-06-10,Hypertension,Russell Thompson,General Medicine,4
+975,Daniel Chung,Female,AB+,2022-09-01,2023-03-31,Diabetes,Russell Thompson,General Medicine,3
+975,Daniel Chung,Female,AB+,2024-08-28,2024-03-05,Diabetes,Aimee Reeves,Oncology,3
+976,Rachel Melton,Male,B-,2022-09-19,2025-01-21,Anemia,William Newman,General Medicine,4
+976,Rachel Melton,Male,B-,2022-10-11,2023-05-11,Covid-19,Max Diaz,Neurology,4
+976,Rachel Melton,Male,B-,2025-03-02,2023-08-06,Hypertension,Aimee Reeves,Oncology,4
+977,Aaron Ford,Female,O-,2022-05-31,2024-03-30,Hypertension,Craig Herman,Oncology,4
+977,Aaron Ford,Female,O-,2024-04-06,2024-11-05,Asthma,Max Diaz,Neurology,4
+978,Randy Kennedy,Male,O+,2023-08-14,2023-11-14,Covid-19,Max Diaz,Neurology,4
+978,Randy Kennedy,Male,O+,2024-06-07,2023-12-20,Asthma,Roger Morris,Neurology,4
+979,John Kim,Male,A-,2023-01-18,2023-11-02,Covid-19,Austin Scott,Cardiology,1
+980,Melissa Nelson,Male,AB+,2024-11-28,2024-09-26,Anemia,Linda Patrick,Pediatrics,2
+981,April Benjamin,Male,B-,2023-08-30,2024-03-26,Pneumonia,Thomas Gutierrez,General Medicine,6
+981,April Benjamin,Male,B-,2023-12-26,2024-01-06,Pneumonia,James Lopez,Cardiology,6
+982,Toni Cunningham,Male,A-,2022-10-06,2023-04-22,Pneumonia,Carrie Smith,Cardiology,6
+982,Toni Cunningham,Male,A-,2023-04-08,2023-04-01,Diabetes,Tonya Strickland,General Medicine,6
+982,Toni Cunningham,Male,A-,2024-09-19,2023-07-05,Hypertension,Aaron Young,General Medicine,6
+983,Kim Snyder,Male,A+,2022-05-30,2023-11-14,Diabetes,Russell Thompson,General Medicine,6
+983,Kim Snyder,Male,A+,2023-05-31,2024-06-07,Hypertension,Leslie Flynn,Neurology,6
+983,Kim Snyder,Male,A+,2024-01-26,2025-01-11,Anemia,Sarah Gonzalez,General Medicine,6
+984,Zachary Jones,Female,A+,2022-07-02,2023-07-18,Covid-19,Aimee Reeves,Oncology,5
+984,Zachary Jones,Female,A+,2023-07-10,2024-01-15,Anemia,Kimberly Williams,Oncology,5
+985,Jennifer Esparza,Male,A+,2024-10-29,2023-09-14,Pneumonia,Robert Howell,General Medicine,3
+986,Michael Weaver,Female,AB-,2022-05-06,2023-07-12,Hypertension,Russell Thompson,General Medicine,6
+986,Michael Weaver,Female,AB-,2023-09-28,2023-06-15,Anemia,Alyssa Anderson,General Medicine,6
+986,Michael Weaver,Female,AB-,2024-08-21,2023-05-06,Anemia,Robert Howell,General Medicine,6
+987,Nicole Hawkins,Male,B-,2022-10-22,2024-11-18,Anemia,Bethany Leonard,Oncology,2
+988,Daniel Anderson,Male,B+,2022-09-19,2023-08-30,Asthma,Amy Joseph,Oncology,5
+988,Daniel Anderson,Male,B+,2024-03-10,2023-12-08,Pneumonia,Alyssa Anderson,General Medicine,5
+989,Arthur Santana,Female,B-,2023-11-26,2025-01-24,Covid-19,Mrs. Laura Lawson MD,Pediatrics,2
+990,Dave Hess,Female,O-,2023-01-14,2023-12-06,Asthma,Todd Butler,Oncology,6
+990,Dave Hess,Female,O-,2023-09-29,2024-05-08,Anemia,Tonya Strickland,General Medicine,6
+990,Dave Hess,Female,O-,2024-10-04,2024-01-23,Pneumonia,Crystal Gray DDS,Neurology,6
+991,Levi Norton,Male,O+,2024-09-14,2023-12-12,Diabetes,Todd Butler,Oncology,2
+991,Levi Norton,Male,O+,2024-11-24,2024-09-01,Pneumonia,Russell Thompson,General Medicine,2
+992,Michael Herring,Male,B-,2024-01-22,2024-12-10,Hypertension,Aimee Reeves,Oncology,6
+992,Michael Herring,Male,B-,2024-03-26,2023-03-26,Anemia,Bob Bridges,General Medicine,6
+992,Michael Herring,Male,B-,2024-08-03,2025-03-24,Pneumonia,Sharon Scott,Pediatrics,6
+993,Anthony Garrison,Female,O+,2022-07-25,2025-03-10,Covid-19,Amy Joseph,Oncology,5
+993,Anthony Garrison,Female,O+,2023-02-27,2023-05-17,Asthma,Alyssa Anderson,General Medicine,5
+993,Anthony Garrison,Female,O+,2024-09-01,2024-07-10,Hypertension,Sharon Scott,Pediatrics,5
+994,Chad White,Female,A+,2023-05-04,2024-09-23,Hypertension,Craig Herman,Oncology,7
+994,Chad White,Female,A+,2023-07-01,2023-08-18,Pneumonia,Reginald Wallace,Oncology,7
+994,Chad White,Female,A+,2023-10-06,2024-05-27,Covid-19,Dr. David Luna,General Medicine,7
+995,Donald Boone,Male,AB+,2023-05-01,2024-09-15,Diabetes,Victor Moore,Pediatrics,1
+996,Karen Trujillo,Female,A+,2023-08-15,2024-01-27,Covid-19,Mrs. Laura Lawson MD,Pediatrics,3
+996,Karen Trujillo,Female,A+,2023-11-17,2023-09-12,Pneumonia,Mrs. Laura Lawson MD,Pediatrics,3
+997,Debbie Miller,Female,AB+,2022-08-03,2023-05-20,Hypertension,Tonya Strickland,General Medicine,4
+997,Debbie Miller,Female,AB+,2023-03-06,2025-03-19,Asthma,Linda Foster,General Medicine,4
+998,Andrew Hamilton,Female,AB+,2023-10-22,2023-05-01,Covid-19,Natalie Green,Pediatrics,4
+998,Andrew Hamilton,Female,AB+,2024-07-14,2024-05-25,Diabetes,Jill Grant,Neurology,4
+999,Denise Hernandez,Female,B+,2023-02-05,2023-11-10,Covid-19,Leslie Flynn,Neurology,3
+1000,Roberto Glover,Female,AB+,2023-01-04,2023-08-19,Covid-19,Hannah Diaz DDS,Pediatrics,3
+1000,Roberto Glover,Female,AB+,2023-12-17,2023-07-25,Diabetes,Michael Holt,Cardiology,3
+1000,Roberto Glover,Female,AB+,2025-01-29,2024-10-20,Diabetes,Lynn Patrick,Cardiology,3
